@@ -83,7 +83,8 @@ p > a { @if $link-style == underline
 body { width: 87.5%;
        margin-left: auto;
        margin-right: auto;
-       padding-left: 12.5%;
+       //padding-left: 12.5%;
+       padding: 0% 5%; // added by JDM
        font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
        background-color: $bg-color;
        color: $text-color;

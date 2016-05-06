@@ -1,6 +1,7 @@
 ---
 layout: page-no-title
-title: CV
+shorttitle: CV
+title: Curriculum Vitae
 ---
 
 <h1 class="content-listing-header sans">{{ site.author }}</h1>
