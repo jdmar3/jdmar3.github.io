@@ -18,7 +18,7 @@ This study is an attempt to provide greater understanding of how respondents fro
 
 I will be blogging about this project as it progresses. Please follow there.
 
-## Digital Hegemony
+## Digital Cultural Hegemony
 
 Carolyn Runyon and I have been working on a project to assess equity in digital humanities funding for cultural heritage projects over the last year. 
 
