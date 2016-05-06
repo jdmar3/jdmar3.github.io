@@ -7,9 +7,9 @@ I teach human information behavior theory and basic to advanced tools for proces
 I have a professional background in system administration which mostly now expresses itself through tinkering with automation, system building, and poking around at the Internet of Things. 
 My classroom ethos is very much informed by this activity as it allows me to teach students not to worry about breaking thing and to focus on exploration instead. 
 
-#Current courses 
+# Current courses 
 
-##Tools for Information Literacy (INLS 161)
+## Tools for Information Literacy (INLS 161)
 
 This course covers tools and concepts for information literacy. 
 It includes software use and maintenance, computer applications, and networked information systems.
@@ -26,7 +26,7 @@ The course introduces some basic technology tools as an essential component of i
 
 Most recent syllabus available [here](http://inls161.johndmart.in/).
 
-##Human Information Behavior (INLS 500)
+## Human Information Behavior (INLS 500)
 
 This course is a broad survey of literature in information science which highlights social, cognitive, organizational, institutional, behavioral approaches for understanding and contextualizing interactions between people and information. 
 The content of this course underlies much of an ILS curriculum because it introduces students to core concepts with implications for practice as information professionals. 
