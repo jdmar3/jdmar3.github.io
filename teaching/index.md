@@ -1,6 +1,7 @@
 ---
 layout: full-width
 title: Teaching
+weight: 7
 ---
 
 I teach human information behavior theory and basic to advanced tools for processing, manipulating, packaging, designing, and disseminating in formation. 

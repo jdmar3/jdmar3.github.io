@@ -2,7 +2,7 @@
 <header>
     <nav class="group">
 	<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/img/badge_1.png" alt="JDM"></a>
-	{% for node in site.pages %}
+	{% for node in site.pages | sort:"weight" %}
 		{% unless node.nav_exclude %}
 		    {% if page.url == node.url %}
 		      <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{% if node.shorttitle %}{{node.shorttitle}}{% else %}{{node.title}}{% endif %}</a>

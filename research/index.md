@@ -1,6 +1,7 @@
 ---
 layout: full-width
 title: Research
+weight: 5
 ---
 
 # Current Projects

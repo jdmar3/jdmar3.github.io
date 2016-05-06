@@ -1,6 +1,7 @@
 ---
 layout: full-width
 title: About
+weight: 3
 ---
 
 <h1 class="content-listing-header sans">{{ site.author }}</h1>
