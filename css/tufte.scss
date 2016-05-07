@@ -422,7 +422,10 @@ ul.footer-links li{
 
 //Full width page styling stuff
 
-body.full-width, .content-listing, ul.content-listing li.listing{ width: 87.5%; //width: 90%;
+body.full-width, .content-listing, 
+ul.content-listing li.listing, 
+body.full-width ul, 
+body.full-width ol{ width: 87.5%; //width: 90%;
        margin-left: auto;
        margin-right: auto;
        padding: 0% 5%;
@@ -498,7 +501,9 @@ hr.slender {
     }
     @page {
         margin: 0.75in 0.5in 0.75in 0.5in;
-        orphans:4; widows:2;
+        //margin: 1in 0.5in 1in 0.5in;
+        orphans:4; 
+        widows:4;
     }
 
     body {
@@ -507,10 +512,14 @@ hr.slender {
     }
     html body span.print-footer{
       font-family: $sans-font;
-      font-size: 9pt;
-      margin-top: 22.4pt;
-      padding-top: 4pt;
-      border-top: 1px solid #000;
+      font-size: 9pt;      
+      //margin-top: 22.4pt;
+      //padding-top: 4pt;
+      //border-top: 1px solid #000;
+      margin-top: 50pt; // added by JDM
+      padding-top: 4pt; // added by JDM
+      border-top: 1px solid #000; // added by JDM
+      display: none; // added by JDM
     }
 
     thead {
@@ -527,16 +536,33 @@ hr.slender {
     }
 
     p,
+    h1
     h2,
     h3 {
         orphans: 4;
         widows: 4;
     }
-    article h2, article h2 h3, article h3, article h3 h4, article h4, article h4 h5 {
+    
+    h1, 
+    h2, 
+    h3, 
+    h4, 
+    h5 {
+        page-break-after: avoid;
+    }
+  
+    article h1, 
+    article h2, 
+    article h2 h3, 
+    article h3, 
+    article h3 h4, 
+    article h4, 
+    article h4 h5 {
         page-break-after: avoid;
     }
 
-    body header , body footer {
+    body header, 
+    body footer {
       display:none;
     }
 }
