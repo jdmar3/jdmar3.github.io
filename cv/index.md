@@ -135,21 +135,21 @@ PhD student in the School of Information and Library Science at the University o
 
 # Awards and Grants
 
-- Future Faculty Fellowship, Center for Faculty Excellence, University of North Carolina at Chapel Hill (Spring 2016)
-- Asheim Fellowship, School of Information and Library Science, University of North Carolina at Chapel Hill (2014-2016)
-- Middle East Library Partnership Project (named in grant proposal narrative), Andrew W. Mellon Foundation (Summer 2014-Summer 2015) 
-- Support Grant for Spatial Humanities Incubator Group, Semaphore Working Group, Duke University/University of North Carolina at Chapel Hill (Fall 2012) 
+- Future Faculty Fellowship, Center for Faculty Excellence, University of North Carolina at Chapel Hill (Spring 2016) <!--$450.00-->
+- Asheim Fellowship, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2016) <!--$2800.00-->
+- Middle East Library Partnership Project (named in grant proposal narrative), Scholarly Communications Grant, Andrew W. Mellon Foundation (Summer 2014-Summer 2015) <!--$150,000.00-->
+- Support Grant for Spatial Humanities Incubator Group, Semaphore Working Group, Duke University/University of North Carolina at Chapel Hill (Fall 2012) <!--$200.00-->
 - ELIME-21 PhD Fellowship, School of Information and Library Science, University of North Carolina at Chapel Hill (2012-2014) 
 - Research Application Appointment, Dept. of Comparative Religion, Western Michigan University (Summer 2012) 
-- Research/Travel Grant (Competitive), Graduate College, Western Michigan University,“The Characteristic of Guidance and the Secrets of the Guided: A 13th-century Treatise on the Divine Names in Islamic Theurgic Rites,” AAR Midwest 2012, Rock Island, Illinois (March 2012) 
-- Excellence in Arabic Award, Dept. of Foreign Languages, Western Michigan University (March 2012) 
-- Research Support Grant (University-wide, Competitive), Dept. of Arab and Islamic Civilizations, School of Humanities and Social Sciences, American University in Cairo (June 2011) 
+- Research/Travel Grant (Competitive), Graduate College, Western Michigan University,“The Characteristic of Guidance and the Secrets of the Guided: A 13th-century Treatise on the Divine Names in Islamic Theurgic Rites,” AAR Midwest 2012, Rock Island, Illinois (March 2012) <!--$500.00-->
+- Excellence in Arabic Award, Dept. of Foreign Languages, Western Michigan University (March 2012) <!--$100.00-->
+- Research Support Grant (University-wide, Competitive), Dept. of Arab and Islamic Civilizations, School of Humanities and Social Sciences, American University in Cairo (June 2011) <!--$2500.00-->
 - Graduate Work Scholarship, Rare Books and Special Collections, AUC Main Library, American University in Cairo (2010-2011) 
 - Graduate Assistantship, Dept. of Arab and Islamic Civilizations, American University in Cairo (2009-2011) 
 - Graduate Work Scholarship, Center for Learning and Teaching, AUC Main Library, American University in Cairo (2008) 
 - President’s Grant for Study Abroad, Diether H. Haenicke Institute for Global Education, Western Michigan University (2007) 
 - President’s Scholarship for Study Abroad, Dept. of Foreign Languages, Western Michigan University (2007) 
-- Teaching Assistantship, Dept. of Comparative Religion, Western Michigan University (2004-2005) 
+- Graduate Assistantship, Dept. of Comparative Religion, Western Michigan University (2004-2005) 
 
 # Research and relevant professional experience
 
