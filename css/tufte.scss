@@ -221,22 +221,22 @@ section { padding-top: 1rem;
 
 
 ul{ width: 55%; //width: 45%;
-     -webkit-padding-start: 2%;
-     -webkit-padding-end: 2%;
+     -webkit-padding-start: 2.5%;
+     -webkit-padding-end: 2.5%;
      list-style-type: none; }
 
 ul li ul { width: 100%;
-     -webkit-padding-start: 2%;
-     -webkit-padding-end: 2%;
+     -webkit-padding-start: 2.5%;
+     -webkit-padding-end: 2.5%;
      list-style-type: none; }
 
 ol { width: 55%; //width: 45%;
-     -webkit-padding-start: 2%;
-     -webkit-padding-end: 2%; }
+     -webkit-padding-start: 2.5%;
+     -webkit-padding-end: 2.5%; }
 
 ol li ol { width: 100%;
-     -webkit-padding-start: 2%;
-     -webkit-padding-end: 2%;
+     -webkit-padding-start: 2.5%;
+     -webkit-padding-end: 2.5%;
      list-style-type: lower-alpha; }
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
@@ -423,18 +423,19 @@ ul.footer-links li{
 //Full width page styling stuff
 
 body.full-width, .content-listing, 
-ul.content-listing li.listing, 
-body.full-width ul, 
-body.full-width ol{ width: 87.5%; //width: 90%;
+ul.content-listing li.listing{ width: 87.5%; //width: 90%;
        margin-left: auto;
        margin-right: auto;
        padding: 0% 5%;
-
 }
+
 .full-width article p{
   width: 90%;
 }
 
+.full-width ul, 
+.full-width ol{ width: 87.5%; 
+}
 
 h1.content-listing-header{
   font-style: normal;
