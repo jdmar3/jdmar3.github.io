@@ -88,6 +88,7 @@ body { width: 87.5%;
        font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
        background-color: $bg-color;
        color: $text-color;
+       text-align: justify;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
@@ -112,7 +113,7 @@ h2 { font-style: italic;
      margin-top: 1.25rem;
      margin-bottom: 0;
      font-size: 1.25rem;
-     line-height: 0.933333333333333; }
+     line-height: 0.95; }
 
 h3 { font-style: italic;
      font-weight: 400;
@@ -121,6 +122,8 @@ h3 { font-style: italic;
      margin-top: 1.25rem;
      margin-bottom: 0;
      line-height: 1.08888888888889; }
+
+h1, h2, h3 { width: auto; }
 
 // ET says a need for more than 3 levels of headings is the sign of a diseased mind
 
@@ -137,7 +140,8 @@ p, ol, ul { font-size: 1rem; }
 p, li { line-height: 1.25rem;
         margin-top: 0.85rem;
         padding-right: 2rem; //removed because,  why?
-        vertical-align: baseline; }
+        vertical-align: baseline; 
+}
 
 blockquote p {  font-size: 1.1rem;
                 line-height: 1.78181818;
@@ -240,6 +244,8 @@ ol li ol { width: 100%;
      -webkit-padding-start: 2.5%;
      -webkit-padding-end: 2.5%;
      list-style-type: lower-alpha; }
+
+article li {text-align: left}
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
 
@@ -369,7 +375,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 //Nav and Footer styling area
 
 header > nav.group, body footer {
-  width: 95%;
+  width: 100%;
   padding-top: 2rem;
 }
 
@@ -432,7 +438,7 @@ ul.content-listing li.listing{ width: 87.5%; //width: 90%;
 }
 
 .full-width article p{
-  width: 90%;
+  width: 100%;
 }
 
 .full-width ul, 
