@@ -6,7 +6,7 @@ weight: 7
 
 I teach human information behavior theory and basic to advanced tools for processing, manipulating, packaging, designing, and disseminating in formation. 
 I have a professional background in system administration which mostly now expresses itself through tinkering with automation, system building, and poking around at the Internet of Things. 
-My classroom ethos is very much informed by this activity as it allows me to teach students not to worry about breaking thing and to focus on exploration instead. 
+My classroom ethos is very much informed by this activity as it allows me to teach students not to worry about breaking things and to focus on exploration instead. 
 
 # Current courses 
 

@@ -32,4 +32,33 @@ transfer:
   command: rsync
   settings: -av
   source: _site/
-  destination: ~/workspace/testing/
+  destination: ~/workspace/jdmar3.github.io
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  group_by: none
+  group_order: ascending
+ 
+  source: assets/bib
+  bibliography: jdmar3.bib
+  bibliography_template: bibtemplate
+ 
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: false
+  bibtex_filters:
+  - superscript
+  - latex
+  - markdown
+
+  #details_dir:    bib
+  #details_layout: bibtex.html
+  #details_link:   Details
+
+  query: "@*"
