@@ -55,7 +55,7 @@ html{
 
 // sets link style according to values in _settings.scss
 .mathblock{
-  font-size: 1.3rem;
+  font-size: 1rem; //1.3rem;
 }
 a, a:visited {
   color: $contrast-color;
@@ -162,7 +162,7 @@ blockquote footer { width: 45%;
         letter-spacing: .03em; }
 
 pre, pre code, p code, p pre code { font-family: $code-font;  // removed .code 'class' since code is an actual html tag
-        font-size: 1.2rem;                   // also added p code, p pre code and pre selector to account for Markdown parsing
+        font-size: 1rem; //1.2rem;      // also added p code, p pre code and pre selector to account for Markdown parsing
         line-height: 1.71428571;        // of triple backticks plus rationalized line-heights and margins
         margin-top: 1.71428571rem; }
 
@@ -182,7 +182,7 @@ table, table.booktabs { width: auto;  //making booktabs style tables the unstyle
                font-weight: normal;
                text-align: center; }
 
-th, td{ font-size: 1.2rem;
+th, td{ font-size: 1rem; //1.2rem;
         line-height: 1.71428571;  }
 
 .booktabs th.cmid, th { border-bottom: 1px solid lighten($border-color, 25%); }
