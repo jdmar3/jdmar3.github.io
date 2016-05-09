@@ -31,7 +31,7 @@ PhD student in the School of Information and Library Science at the University o
 	- Trust, interface credibility, and disclosure
 	- Digital media piracy
 - Survey and questionnaire interfaces and methods 
-- Computation and the humanities 
+- Computation and the Humanities 
 - Middle East libraries and cultural institutions 
 - Free / Open Source Software (FOSS) education 
 
@@ -74,12 +74,12 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Book Chapters
 
-- John D. Martin III, “Primum Non Nocere: Gray Area in Commanding the Right and Forbidding the Wrong,” in Live Evil: Of Magic and Men, edited by Sophia Vivienne Kottmayer (Inter-Disciplinary Press, 2011)
+- John D. Martin III, “Primum Non Nocere: Gray Area in Commanding the Right and Forbidding the Wrong,” in *Live Evil: Of Magic and Men,* edited by Sophia Vivienne Kottmayer (Inter-Disciplinary Press, 2011)
 
 ## Books Edited
 
-- Amanda Click, Sumayya Ahmed, Jacob Hill and John D. Martin III, Libraries, Librarians and Information Science in the Middle East and North Africa (IFLA/DeGruyter, in press)
-- Martin Fowler, John D. Martin III and John L. Hochheimer, Spirituality: Theory, Praxis and Pedagogy (e-book), (Inter-Disciplinary Press, 2011)
+- Amanda Click, Sumayya Ahmed, Jacob Hill and John D. Martin III, *Libraries, Librarians and Information Science in the Middle East and North Africa* (IFLA/DeGruyter, in press)
+- Martin Fowler, John D. Martin III and John L. Hochheimer, *Spirituality: Theory, Praxis and Pedagogy* (e-book), (Inter-Disciplinary Press, 2011)
 
 ## Conferences presentations
 
@@ -96,7 +96,7 @@ PhD student in the School of Information and Library Science at the University o
 - John D. Martin III and Elliott Hauser, “Algorithmic Amulet-making, Magic Square Encryption and Other Occult Technologies: Computational Methods Applied to Medieval Intellectual Artifacts,” HASTAC 2013: The Storm of Progress, York University, Toronto, Ontario Canada (25-28 April 2013) 
 - John D. Martin III, “‘The Characteristic of Guidance and the Secrets of the Guided’: A 13th century Treatise on the Divine Names in Islamic Theurgic Rites,” American Academy of Religion Midwest Regional Conference, Augustana College, Rock Island, Illinois (30-31 March 2011) 
 - John D. Martin III, “Punk Rock Muslims: An Exploration of Historical Precedent for Deviant Piety,”Spirituality in the 21st Century: At the Interface of Theory, Praxis and Pedagogy, 1st Global Conference, Prague, Czech Republic (20-22 March 2011) 
-- John D. Martin III, “‘For Every Illness and Symptom’: A Pragmatic Study of Medieval Islamic Magical Amulets,” Perspectives on Evil and Human Wickedness, 12th Global Conference,Prague, Czech Republic (17-19 March 2011) 
+- John D. Martin III, “‘For Every Illness and Symptom’: A Pragmatic Study of Medieval Islamic Magical Amulets,” Perspectives on Evil and Human Wickedness, 12th Global Conference, Prague, Czech Republic (17-19 March 2011) 
 - John D. Martin III, “Primum Non Nocere: Gray Area in Commanding the Right and Forbidding the Wrong,” Perspectives on Evil and Human Wickedness, 12th Global Conference, Prague, Czech Republic (17-19 March 2011) 
 - John D. Martin III and Jaimee Hunsdon, “Politicizing Education: Analyzing Egyptian Pedagogical Literature in the 19th and 20th Centuries,” with Jaimee Hundson, Annual History Seminar, The American University in Cairo, School of Humanities and Social Sciences, Cairo, Egypt (26-28 March 2009) 
 
