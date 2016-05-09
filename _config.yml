@@ -14,6 +14,8 @@ pgp-url: "http://johndmart.in/jdmar3.asc"
 name: jdmar3
 
 markdown: kramdown
+kramdown:
+  extensions: ["autolink"]
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: pretty
 timezone: America/New_York
@@ -33,32 +35,3 @@ transfer:
   settings: -av
   source: _site/
   destination: ~/workspace/jdmar3.github.io
-
-scholar:
-  style: apa
-  locale: en
-
-  sort_by: year
-  order: descending
-
-  group_by: none
-  group_order: ascending
- 
-  source: assets/bib
-  bibliography: jdmar3.bib
-  bibliography_template: bibtemplate
- 
-  replace_strings: true
-  join_strings:    true
-
-  use_raw_bibtex_entry: false
-  bibtex_filters:
-  - superscript
-  - latex
-  - markdown
-
-  #details_dir:    bib
-  #details_layout: bibtex.html
-  #details_link:   Details
-
-  query: "@*"
