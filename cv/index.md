@@ -81,7 +81,7 @@ PhD student in the School of Information and Library Science at the University o
 - Amanda Click, Sumayya Ahmed, Jacob Hill and John D. Martin III, *Libraries, Librarians and Information Science in the Middle East and North Africa* (IFLA/DeGruyter, in press)
 - Martin Fowler, John D. Martin III and John L. Hochheimer, *Spirituality: Theory, Praxis and Pedagogy* (e-book), (Inter-Disciplinary Press, 2011)
 
-## Conferences presentations
+## Conference presentations
 
 - Mohamed Hamed, John Martin, "Middle East Library Partnership Project," *Middle East Librarians Association Annual Meeting,* Denver, Colorado (19-20 November 2015) 
 - Kaitlin Costello, John D. Martin III, and Ashlee Edwards, "'Dude… I Zone Out Like That All the Time': Banter as Phatic Communication in the Context of Online Discussion Forums Focused on Illicit Behavior," *11th Social Informatics Research Symposium: The Impacts of Social Informatics Research,* 2015 Annual Meeting of the Association for Information Science and Technology (ASIS&T), St. Louis, Missouri (7 November 2015) 
