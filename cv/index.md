@@ -110,7 +110,7 @@ PhD student in the School of Information and Library Science at the University o
 
 - Survey Methods Submodule, Global Training Resources for Information Professionals, University of North Carolina at Chapel Hill (2014) 
 
-## Invited Talks, Panels, and Media
+<h2 class="page-break-before">Invited Talks, Panels, and Media</h2>
 
 - “A Publishing Makerspace,” (with Sylvia Miller), Scholarly Communications Working Group, Davis Library, University of North Carolina at Chapel Hill (11 February 2015) 
 - “Pipelines to the Library & Information World: UNC-Greensboro & UNC-Chapel Hill,” Davis Library, University of North Carolina at Chapel Hill, Panelist (9 October 2013) 
