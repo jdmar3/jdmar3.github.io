@@ -88,7 +88,7 @@ body { width: 87.5%;
        font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
        background-color: $bg-color;
        color: $text-color;
-       text-align: justify;
+       //text-align: justify;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
@@ -140,7 +140,7 @@ p .subtitle { font-style: italic;
 
 p, ol, ul { font-size: 1rem; }
 
-p, li { line-height: 1.25rem;
+p, li { line-height: 1.5rem;
         margin-top: 0.85rem;
         padding-right: 2rem; //removed because,  why?
         vertical-align: baseline; 
@@ -232,12 +232,23 @@ section { padding-top: 1rem;
 ul{ width: 55%; //width: 45%;
      -webkit-padding-start: 2.5%;
      -webkit-padding-end: 2.5%;
-     list-style-type: none; }
+     list-style-type: none;
+}
 
 ul li ul { width: 100%;
      -webkit-padding-start: 2.5%;
      -webkit-padding-end: 2.5%;
-     list-style-type: none; }
+     list-style-type: none; 
+     text-indent: -2.5%;
+}
+
+body.cv ul{
+  text-indent: -2.5%;
+}
+
+body.cv ul li{
+  text-indent: -2.5%;
+}
 
 ol { width: 55%; //width: 45%;
      -webkit-padding-start: 4%;
@@ -327,7 +338,7 @@ pre, pre code, p pre code { width: 52.5%;
            padding-left: 2.5%;
            overflow-x: auto; }
 
-.fullwidth, li.listing div{ max-width: 90%; }
+.fullwidth/*, li.listing div*/{ max-width: 90%; }
 
 .full-width { .sidenote, .sidenote-number, .marginnote { display: none; } }
 
@@ -433,18 +444,40 @@ ul.footer-links li{
 
 //Full width page styling stuff
 
-body.full-width, .content-listing, 
-ul.content-listing li.listing{ width: 87.5%; //width: 90%;
+body.full-width{ width: 87.5%; //width: 90%;
        margin-left: auto;
        margin-right: auto;
-       padding: 0% 5% 0% 0%;
+       padding: 0% 5% !important;
+       max-width: 1400px;
+}
+
+ul.content-listing{
+  width: 100% !important;
+  margin: 0% 0% !important;
+  padding: 0% 0% !important;
+}
+
+ul.content-listing li.listing div{
+  margin: 0% !important; 
+  width: 100%;
+}
+
+ul.content-listing li.listing div p{
+  text-align: justify;
+}
+
+ul.content-listing li.listing
+{ width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0% 0%;
 }
 
 .full-width article p{
   width: 100%;
 }
 
-.full-width ul{ width: 100%; 
+.full-width ul{ width: 90%; 
 }
 
 .full-width ol{ width: 90%; 
@@ -475,7 +508,7 @@ li.listing {
 
 li.listing:last-of-type{
   border-bottom: none;
-  margin-bottom: 1.4rem;
+  margin-bottom: 0; //1.4rem;
 }
 li.listing h3.new {
   text-transform: uppercase;

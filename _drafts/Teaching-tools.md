@@ -4,7 +4,7 @@ layout: post
 date: 2016-05-08
 ---
 
-The recent flurry of media concern over the revelation that Facebook uses human curators to modify the output of their trending algorithm has raised some interesting questions about what people think it is that algorithms do, exactly. <!-- more -->
+{% newthought 'The recent flurry of media concern' %} over the revelation that Facebook uses human curators to modify the output of their trending algorithm has raised some interesting questions about what people think it is that algorithms do, exactly.<!--more-->
 There is some reasonably cogent discussion currently available online and in academic journals about the potential for bias embedded in algorithms. 
 We tend to think of bias in interactive information retrieval algorithms as attributable of the huge number people using a given search engine or information source. 
 Algorithms that take input from users in the form of feedback (clicks, mostly) use this data to guess as to whether the links returned in a search engine results page (SERP) are relevant to a given user. 
@@ -17,9 +17,9 @@ But there is a different kind of bias as well,
 
 ## Choice
 
-In my summer class, *[Tools for Information Literacy](http://inls161.johndmart.in),* we aim to give students a platform through which they can develop high quality documentation &mdash; both on- and offline &mdash; and materials for presentation. 
+In my summer class,{% sidenote 'inls161-link' '*[Tools for Information Literacy](http://inls161.johndmart.in)*' %} I aim to give students a platform through which they can develop high quality documentation &mdash; both on- and offline &mdash; and materials for presentation. 
 The course also introduces students to some basic aspects of how computing and networking work, as well some basic aspects of handling data. 
-It is an introductory course, and fulfills a technology requirement, but when I was given the assignment last year, I felt like it could be updated slightly to be a great deal more than it had been in the past.{% sidenote 1 'I would like to point out here that my reaction to the design of the course as it stood when I inherited it is related to changes in technology over the last two decades. The course was originally taught by Barbara Wildemuth, who also taught it to SILS faculty in the early days of personal computing. Ron Bergquist, who taught the course for many years, believed as well that it was time for an update and supported my efforts heartily.' %}
+It is an introductory course, and fulfills a technology requirement, but when I was given the assignment last year, I felt like it could be updated slightly to be a great deal more than it had been in the past.{% marginnote 'acknowledgements' 'I would like to point out here that my reaction to the design of the course as it stood when I inherited it is related to changes in technology over the last two decades. The course was originally taught by Barbara Wildemuth, who also taught it to SILS faculty in the early days of personal computing. Ron Bergquist, who taught the course for many years, believed as well that it was time for an update and supported my efforts heartily.' %}
 Originally focusing mainly on using productivity suite tools to a high degree of skill, I saw the opportunity to connect the course to some other areas of computing that might serve fledgling information professionals interacting with technology as sometimes programmers, sometimes users. 
 
 Instead of focusing on productivity tools, I made the decision to design the course thinking about workflow, rather than interface. 

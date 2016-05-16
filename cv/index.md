@@ -1,5 +1,5 @@
 ---
-layout: full-width
+layout: full-width-cv
 shorttitle: CV
 title: Curriculum Vitae
 weight: 1
