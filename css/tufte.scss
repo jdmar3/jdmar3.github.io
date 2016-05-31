@@ -424,11 +424,14 @@ ul.footer-links, .credits{
   text-align: center;
   margin: 0 auto;
 }
+ul.footer-links{
+  text-indent: 0% !important;
+}
 ul.footer-links li{
   display: inline;
   padding: 0.5rem 0.25rem !important;
   margin: 0 !important;
-  text-indent: 0 !important;
+  text-indent: 0% !important;
 }
 .credits{
   padding: 1rem 0rem;
