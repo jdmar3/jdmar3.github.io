@@ -146,8 +146,8 @@ p, li { line-height: 1.5rem;
         vertical-align: baseline; 
 }
 
-blockquote p {  font-size: 1.1rem;
-                line-height: 1.78181818;
+blockquote p {  font-size: 1rem; //1.1rem;
+                line-height: 1.25; //1.78181818;
                 margin-top: 1.78181818rem;
                 margin-bottom: 1.78181818rem;
                 width: 45%;
@@ -311,7 +311,8 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
                          //font-size: 1rem;
                          font-size: 0.75rem;
                          top: -0.5rem;
-                         left: 0.1rem; }
+                         left: 0rem; //0.1rem; 
+                       }
 
 .sidenote:before { content: counter(sidenote-counter) ".\000a0"; // this is unicode for a non-breaking space
                    color: $contrast-color;
@@ -425,7 +426,9 @@ ul.footer-links, .credits{
 }
 ul.footer-links li{
   display: inline;
-  padding: 0.5rem 0.25rem;
+  padding: 0.5rem 0.25rem !important;
+  margin: 0 !important;
+  text-indent: 0 !important;
 }
 .credits{
   padding: 1rem 0rem;

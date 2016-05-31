@@ -14,8 +14,8 @@ pgp-url: "http://johndmart.in/jdmar3.asc"
 name: jdmar3
 
 markdown: kramdown
-kramdown:
-  extensions: ["autolink"]
+#kramdown:
+  
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: pretty
 timezone: America/New_York
