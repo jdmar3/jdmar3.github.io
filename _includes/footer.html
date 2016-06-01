@@ -1,9 +1,10 @@
 <footer>
   <hr class="slender">
   <ul class="footer-links">
-    {% for entry in site.data.social %}
+    {% for social_hash in site.data.social %}
+    {% assign social = social_hash[1] %}
       <li>
-        <a href="{{ entry.link }}" title="{{ entry.alt }}"><span class="{{ entry.icon }}"></span></a>
+        <a href="{{ social.prevar }}{{ social.var }}" title="{{ social.alt }}"><span class="{{ social.icon }}"></span></a>
       </li>
     {% endfor %}  
   </ul>

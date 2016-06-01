@@ -1,6 +1,6 @@
 ---
 title: Research Ethics and the Internet
-layout:post
+layout: post
 ---
 
 {% newthought 'Should publicly-available data about people' %} be fair game for research? 
