@@ -11,9 +11,10 @@ Information Scientist, Digital Humanist
 
 # Contact
 
-<a href="mailto:{{site.email}}"><span class="icon-mail"></span>&nbsp;{{ site.email }}</a> |
-<a href="https://github.com/{{ site.github_username }}"><span class="icon-github"></span>&nbsp;{{ site.githubusername }}</a> |
-<a href="https://twitter.com/{{ site.twitter_username }}"><span class="icon-twitter"></span>&nbsp;{{ site.twitterusername }}</a>
+
+<a href="mailto:{{site.data.social.email.prevar}}{{site.data.social.email.var}}"><span class="icon-mail"></span>&nbsp;{{site.data.social.email.var}}</a> |
+<a href="https://github.com/{{site.data.social.github.var}}"><span class="icon-github"></span>&nbsp;{{site.data.social.github.var}}</a> |
+<a href="https://twitter.com/{{site.data.social.twitter.var}}"><span class="icon-twitter"></span>&nbsp;{{site.data.social.twitter.var}}</a>
 
 # Current
 
