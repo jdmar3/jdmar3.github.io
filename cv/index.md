@@ -53,7 +53,7 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Articles
 
-- John D. Martin III and Carolyn Runyon, "Digital Humanities, Digital Hegemony: Exploring Funding Practices and Unequal Access in the Digital Humanities," *ACM SIGCAS Computers and Society 46*(1), 20-26 (March 2016)
+- John D. Martin III and Carolyn Runyon, "Digital Humanities, Digital Hegemony: Exploring Funding Practices and Unequal Access in the Digital Humanities," *ACM SIGCAS Computers and Society 46*(1), 20-26 (March 2016) http://doi.org/10.1145/2908216.2908219
 
 ## Conference Proceedings
 
