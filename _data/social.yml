@@ -7,7 +7,7 @@ pgp:
   prevar: "/jdmar3.asc"
   icon: icon-key
   alt: "PGP fingerprint: 67BB C847 14E0 C31A 736A  5E08 C787 DF8D D41F A8D1"
-  extra: "[<a href="https://pgp.mit.edu/pks/lookup?op=get&fingerprint=on&search=0xC787DF8DD41FA8D1">MIT keyserver</a>]&nbsp;<i><small><a href='https://futureboy.us/pgp.html'>What is this?</a></small></i>"
+  extra: "[<a href='https://pgp.mit.edu/pks/lookup?op=get&fingerprint=on&search=0xC787DF8DD41FA8D1'>MIT keyserver</a>]&nbsp;<i><small><a href='https://futureboy.us/pgp.html'>What is this?</a></small></i>"
 github:
   prevar: //github.com/
   var: jdmar3 
