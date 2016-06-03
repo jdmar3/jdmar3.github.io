@@ -4,7 +4,7 @@ title: Contact
 weight: 25
 ---
 
-These are all the best ways to contact me, in order of preference. Please feel free to use them. 
+These are all the best ways to contact me. Please feel free to use them. 
 
 <ul>
 {% for social_hash in site.data.social %}
