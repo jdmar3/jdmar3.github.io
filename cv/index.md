@@ -58,7 +58,7 @@ PhD student in the School of Information and Library Science at the University o
 ## Conference Proceedings
 
 - Sylvia K. Miller, David Phillips, Courtney Berger, Marjorie Fowler, Rebecca Kennison, John D. Martin III, John McLeod, and Chelcie Rowell, "Publishing Makerspace: A New Approach to Scholarly Publishing," *Where Do We Go from Here?: Charleston Conference Proceedings* (2-7 November 2015)
-- Barbara B. Moran, Sumayya Ahmed, Amanda B. Click, Jacob Hill, and John D. Martin III, “Flexible Strategies for Uncertain Times: An Innovative Approach to LIS Education in the Middle East and North Africa,” *Libraries, Citizens, Societies: Confluence for Knowledge: IFLA WLIC 2014,* Lyon, France (16-22 August 2014)
+- Barbara B. Moran, Sumayya Ahmed, Amanda B. Click, Jacob Hill, and John D. Martin III, “Flexible Strategies for Uncertain Times: An Innovative Approach to LIS Education in the Middle East and North Africa,” *Libraries, Citizens, Societies: Confluence for Knowledge: IFLA WLIC 2014,* Lyon, France (16-22 August 2014) http://library.ifla.org/848/
 
 # Teaching
 
@@ -79,7 +79,7 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Books Edited
 
-- Amanda Click, Sumayya Ahmed, Jacob Hill and John D. Martin III, *Libraries, Librarians and Information Science in the Middle East and North Africa* (IFLA/DeGruyter, in press)
+- Amanda Click, Sumayya Ahmed, Jacob Hill and John D. Martin III, *Libraries, Librarians and Information Science in the Middle East and North Africa* (IFLA/DeGruyter, in press, 2016)
 - Martin Fowler, John D. Martin III and John L. Hochheimer, *Spirituality: Theory, Praxis and Pedagogy* (e-book), (Inter-Disciplinary Press, 2011)
 
 ## Conference presentations
@@ -111,7 +111,7 @@ PhD student in the School of Information and Library Science at the University o
 
 - Survey Methods Submodule, Global Training Resources for Information Professionals, University of North Carolina at Chapel Hill (2014) 
 
-<h2 class="page-break-before">Invited Talks, Panels, and Media</h2>
+## Invited Talks, Panels, and Media
 
 - “A Publishing Makerspace,” (with Sylvia Miller), Scholarly Communications Working Group, Davis Library, University of North Carolina at Chapel Hill (11 February 2015) 
 - “Pipelines to the Library & Information World: UNC-Greensboro & UNC-Chapel Hill,” Davis Library, University of North Carolina at Chapel Hill, Panelist (9 October 2013) 

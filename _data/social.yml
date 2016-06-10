@@ -19,10 +19,10 @@ twitter:
   icon: icon-twitter
   alt: "Tweet @jdmar3"
 tel:
-  prevar: "tel:"
+  prevar: "sms:"
   var: "+19194428014"
-  icon: icon-phone
-  alt: "Call me at +19194428014"
+  icon: icon-mobile
+  alt: "Text me at +19194428014"
 feed:
   prevar: /feed 
   var: 
