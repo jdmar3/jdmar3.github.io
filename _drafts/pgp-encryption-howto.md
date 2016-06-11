@@ -1,4 +1,0 @@
----
-title: PGP 
-layout: post
----
