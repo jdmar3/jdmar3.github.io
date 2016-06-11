@@ -13,16 +13,16 @@ twitter:
   var: jdmar3
   icon: icon-twitter
   alt: "Tweet @jdmar3"
-github:
-  prevar: //github.com/
-  var: jdmar3 
-  icon: icon-github
-  alt: "Follow jdmar3 on GitHub"
 tel:
   prevar: "sms:"
   var: "+19194428014"
   icon: icon-mobile
   alt: "Text me at +19194428014"
+github:
+  prevar: //github.com/
+  var: jdmar3 
+  icon: icon-github
+  alt: "Follow jdmar3 on GitHub"
 feed:
   prevar: /feed 
   var: 
