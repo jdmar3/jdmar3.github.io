@@ -47,7 +47,7 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Under Review
 
-- John D. Martin III, "Dredging the Pirate Bay: An Exploration of a Public Torrent Index as Cultural Repository" (submitted April 2016) 
+- John D. Martin III, "Dredging the Pirate Bay: An Exploration of a Public Torrent Index as Cultural Repository" (submitted July 2016) 
 - Kaitlin Costello, John D. Martin III, and Ashlee Edwards, "Online Disclosure of Incriminating Information: Patterns of Risky Information Behavior in Two Drug Forums" (submitted March 2016)
 
 # Publications
@@ -63,9 +63,10 @@ PhD student in the School of Information and Library Science at the University o
 
 # Teaching
 
-- Teaching Fellow, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2016)
-	- INLS 161, [Tools for Information Literacy](http://inls161.johndmart.in) (Summer II 2015/2016)
+- Teaching Fellow, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2017)
+	- INLS 780, User Interface Design (Spring 2017)
 	- INLS 500, [Human Information Interaction](http://inls500.johndmart.in) (Fall 2015/2016)
+	- INLS 161, [Tools for Information Literacy](http://inls161.johndmart.in) (Summer II 2015/2016)
 - Writing Coach, Western Michigan University, Dept. of Comparative Religion, Kalamazoo, MI (Spring 2012)
 - Teaching Assistant, American University in Cairo, Dept. of Arab and Islamic Civilizations, Cairo, Egypt (Spring 2009-Fall 2011)
 - Intensive English and Computing Workshop (with Jeffery A. Wardwell, Desert Development Training Center (DDTC-المركز التكنولوجي المتكامل), New Basaisa, Ras Sudr, South Sinai (August 2010) 
@@ -80,12 +81,12 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Books Edited
 
-- Amanda Click, Sumayya Ahmed, Jacob Hill and John D. Martin III, *Libraries, Librarians and Information Science in the Middle East and North Africa* (IFLA/DeGruyter, in press, 2016)
-- Martin Fowler, John D. Martin III and John L. Hochheimer, *Spirituality: Theory, Praxis and Pedagogy* (e-book), (Inter-Disciplinary Press, 2011)
+- Amanda Click, John D. Martin III, Sumayya Ahmed, and Jacob Hill, eds., *Libraries, Librarians and Information Science in the Middle East and North Africa,* Global Studies in Library and Information Science Series (de Gruyter/SAUR, 2016)
+- Martin Fowler, John D. Martin III and John L. Hochheimer, eds., *Spirituality: Theory, Praxis and Pedagogy* (e-book), (Inter-Disciplinary Press, 2011)
 
 ## Conference presentations
 
-- Mohamed Hamed, John Martin, "Middle East Library Partnership Project," *Middle East Librarians Association Annual Meeting,* Denver, Colorado (19-20 November 2015) 
+- Mohamed Hamed, John D. Martin III, "Middle East Library Partnership Project," *Middle East Librarians Association Annual Meeting,* Denver, Colorado (19-20 November 2015) 
 - Kaitlin Costello, John D. Martin III, and Ashlee Edwards, "'Dude… I Zone Out Like That All the Time': Banter as Phatic Communication in the Context of Online Discussion Forums Focused on Illicit Behavior," *11th Social Informatics Research Symposium: The Impacts of Social Informatics Research,* 2015 Annual Meeting of the Association for Information Science and Technology (ASIS&T), St. Louis, Missouri (7 November 2015) 
 - John D. Martin III and Carolyn Runyon, "Digital Cultural Hegemony: Project Funding Trends and Impact on Digital Access to Cultural Heritage," *HASTAC 2015: Art and Science of Digital Humanities,* Michigan State University, East Lansing, Michigan (27-31 May 2015) 
 - Charles Kurzman, Mohamed Hamed, Mohammed Jassim Jirjees, David Hirsch, and John D. Martin III, "Increasing Partnerships between Libraries in the Middle East and North America," *Annual Conference of the Special Libraries Association - Arabian Gulf Chapter,* Abu Dhabi, United Arab Emirates (17-19 March 2015) 
