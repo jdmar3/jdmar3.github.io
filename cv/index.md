@@ -46,8 +46,7 @@ PhD student in the School of Information and Library Science at the University o
 - John D. Martin III, "Rapid Extraction: A Classroom Method for Effective Reading of Scientific Literature"
 
 ## Under Review
-
-- John D. Martin III, "Dredging the Pirate Bay: An Exploration of a Public Torrent Index as Cultural Repository" (submitted July 2016) 
+ 
 - Kaitlin Costello, John D. Martin III, and Ashlee Edwards, "Online Disclosure of Incriminating Information: Patterns of Risky Information Behavior in Two Drug Forums" (submitted March 2016)
 
 # Publications
@@ -61,12 +60,18 @@ PhD student in the School of Information and Library Science at the University o
 - Sylvia K. Miller, David Phillips, Courtney Berger, Marjorie Fowler, Rebecca Kennison, John D. Martin III, John McLeod, and Chelcie Rowell, "Publishing Makerspace: A New Approach to Scholarly Publishing," *Where Do We Go from Here?: Charleston Conference Proceedings* (2-7 November 2015)
 - Barbara B. Moran, Sumayya Ahmed, Amanda B. Click, Jacob Hill, and John D. Martin III, “Flexible Strategies for Uncertain Times: An Innovative Approach to LIS Education in the Middle East and North Africa,” *Libraries, Citizens, Societies: Confluence for Knowledge: IFLA WLIC 2014,* Lyon, France (16-22 August 2014) http://library.ifla.org/848/
 
+## Posters
+
+John D. Martin III, "Dredging the Pirate Bay: An Exploration of a Public Torrent Index as Cultural Repository," *2016 Annual Meeting of the Association for Information Science and Technology (ASIS&T),* Copenhagen, Denmark (19 October 2016)
+
 # Teaching
 
 - Teaching Fellow, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2017)
 	- INLS 780, User Interface Design (Spring 2017)
 	- INLS 500, [Human Information Interaction](http://inls500.johndmart.in) (Fall 2015/2016)
 	- INLS 161, [Tools for Information Literacy](http://inls161.johndmart.in) (Summer II 2015/2016)
+- Graduate Research Consultant, Office for Undergraduate Research, University of North Carolina at Chapel Hill (Fall 2016)
+	- COMP 380/380H (Fall 2016)
 - Writing Coach, Western Michigan University, Dept. of Comparative Religion, Kalamazoo, MI (Spring 2012)
 - Teaching Assistant, American University in Cairo, Dept. of Arab and Islamic Civilizations, Cairo, Egypt (Spring 2009-Fall 2011)
 - Intensive English and Computing Workshop (with Jeffery A. Wardwell, Desert Development Training Center (DDTC-المركز التكنولوجي المتكامل), New Basaisa, Ras Sudr, South Sinai (August 2010) 
@@ -81,7 +86,7 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Books Edited
 
-- Amanda Click, John D. Martin III, Sumayya Ahmed, and Jacob Hill, eds., *Libraries, Librarians and Information Science in the Middle East and North Africa,* Global Studies in Library and Information Science Series (de Gruyter/SAUR, 2016)
+- Amanda Click, Sumayya Ahmed, Jacob Hill, and John D. Martin III, eds., *Libraries, Librarians and Information Science in the Middle East and North Africa,* Global Studies in Library and Information Science Series (de Gruyter/SAUR, 2016)
 - Martin Fowler, John D. Martin III and John L. Hochheimer, eds., *Spirituality: Theory, Praxis and Pedagogy* (e-book), (Inter-Disciplinary Press, 2011)
 
 ## Conference presentations
@@ -115,6 +120,7 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Invited Talks, Panels, and Media
 
+- “[Privacy and Oversharing Online: A Look at 21st Century Trust](http://johndmart.in/scicafe-20160907),” Carolina Science Cafe, Chapel Hill, North Carolina (7 September 2016)
 - “A Publishing Makerspace,” (with Sylvia Miller), Scholarly Communications Working Group, Davis Library, University of North Carolina at Chapel Hill (11 February 2015) 
 - “Pipelines to the Library & Information World: UNC-Greensboro & UNC-Chapel Hill,” Davis Library, University of North Carolina at Chapel Hill, Panelist (9 October 2013) 
 - “Modern Religion and Spirituality Series II,” Just Friendly Advice, WKMI TalkRadio 1360AM, Kalamazoo, MI, Invited Guest (29 July 2007) 
@@ -130,6 +136,7 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Workshops Organized
 
+- Publishing Makerspace Workshop for The Sonic Dictionary, Franklin Humanities Institute, Duke University (16 September 2016)
 - Publishing Makerspace: Adventures in Publishing, Publishing Makerspace Working Group, Franklin Humanities Institute, Duke University (19 November 2015) 
 - Publishing Makerspace Visioning Workshop, PhD Lab, Franklin Humanities Institute, Duke University (3 March 2015) 
 - Tutorial on Using *git* and *GitHub* for Collaborative Authoring, Publishing Makerspace Working Group, Franklin Humanities Institute, Duke University (15 May 2014) 
@@ -138,15 +145,15 @@ PhD student in the School of Information and Library Science at the University o
 
 # Awards and Grants
 
-- Future Faculty Fellowship, Center for Faculty Excellence, University of North Carolina at Chapel Hill (Spring 2016) <!--$450.00-->
-- Asheim Fellowship, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2016) <!--$2800.00-->
-- Middle East Library Partnership Project (named in grant proposal narrative), Scholarly Communications Grant, Andrew W. Mellon Foundation (Summer 2014-Summer 2015) <!--$150,000.00-->
-- Support Grant for Spatial Humanities Incubator Group, Semaphore Working Group, Duke University/University of North Carolina at Chapel Hill (Fall 2012) <!--$200.00-->
+- Future Faculty Fellowship, Center for Faculty Excellence, University of North Carolina at Chapel Hill (Spring 2016) 
+- Asheim Fellowship, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2016) 
+- Middle East Library Partnership Project (named in grant proposal narrative), Scholarly Communications Grant, Andrew W. Mellon Foundation (Summer 2014-Summer 2015) 
+- Support Grant for Spatial Humanities Incubator Group, Semaphore Working Group, Duke University/University of North Carolina at Chapel Hill (Fall 2012) 
 - ELIME-21 PhD Fellowship, School of Information and Library Science, University of North Carolina at Chapel Hill (2012-2014) 
 - Research Application Appointment, Dept. of Comparative Religion, Western Michigan University (Summer 2012) 
-- Research/Travel Grant (Competitive), Graduate College, Western Michigan University,“The Characteristic of Guidance and the Secrets of the Guided: A 13th-century Treatise on the Divine Names in Islamic Theurgic Rites,” AAR Midwest 2012, Rock Island, Illinois (March 2012) <!--$500.00-->
-- Excellence in Arabic Award, Dept. of Foreign Languages, Western Michigan University (March 2012) <!--$100.00-->
-- Research Support Grant (University-wide, Competitive), Dept. of Arab and Islamic Civilizations, School of Humanities and Social Sciences, American University in Cairo (June 2011) <!--$2500.00-->
+- Research/Travel Grant (Competitive), Graduate College, Western Michigan University,“The Characteristic of Guidance and the Secrets of the Guided: A 13th-century Treatise on the Divine Names in Islamic Theurgic Rites,” AAR Midwest 2012, Rock Island, Illinois (March 2012) 
+- Excellence in Arabic Award, Dept. of Foreign Languages, Western Michigan University (March 2012) 
+- Research Support Grant (University-wide, Competitive), Dept. of Arab and Islamic Civilizations, School of Humanities and Social Sciences, American University in Cairo (June 2011) 
 - Graduate Work Scholarship, Rare Books and Special Collections, AUC Main Library, American University in Cairo (2010-2011) 
 - Graduate Assistantship, Dept. of Arab and Islamic Civilizations, American University in Cairo (2009-2011) 
 - Graduate Work Scholarship, Center for Learning and Teaching, AUC Main Library, American University in Cairo (2008) 

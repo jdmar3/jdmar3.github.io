@@ -38,6 +38,7 @@ html{
     font-size: 12px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+
   }
 
 @media screen and (min-width: 800px){ html{ font-size: 13px;} }
@@ -139,16 +140,10 @@ p .subtitle { font-style: italic;
 
 p, ol, ul { font-size: 1rem; }
 
-p{ line-height: 1.5rem;
+p, li { line-height: 1.5rem;
         margin-top: 0.85rem;
         padding-right: 2rem; //removed because,  why?
         vertical-align: baseline; 
-}
-
-li{ line-height: 1.125rem;
-        margin-top: 0.5rem;
-        padding-right: 2rem; //removed because,  why?
-        vertical-align: baseline;    
 }
 
 blockquote p {  font-size: 1rem; //1.1rem;
@@ -162,59 +157,35 @@ blockquote p {  font-size: 1rem; //1.1rem;
 blockquote footer { width: 45%;
                     text-align: right; }
 
-.twitter-tweet { width: 55% !important; }
-
-//.youtube { width: 87.5% !important; height: 100% !important; }
-
-.video-container {
-	position:relative;
-	padding-bottom:56.25%;
-	padding-top:30px;
-	height:0;
-	overflow:hidden;
-}
-
-.video-container iframe, .video-container object, .video-container embed {
-	position:absolute;
-	top:0;
-	left:0;
-	width:90%;
-	height: 100%;
-}
 
 .sans { font-family: $sans-font;
         letter-spacing: .03em; }
 
 pre, pre code, p code, p pre code { font-family: $code-font;  // removed .code 'class' since code is an actual html tag
-        font-size: 0.85rem; //1.2rem;      // also added p code, p pre code and pre selector to account for Markdown parsing
+        font-size: 1rem; //1.2rem;      // also added p code, p pre code and pre selector to account for Markdown parsing
         line-height: 1.71428571;        // of triple backticks plus rationalized line-heights and margins
-        margin-top: 1rem; //margin-top: 1.71428571rem; 
-}
+        margin-top: 1.71428571rem; }
+
 
 h1 code, h2 code, h3 code { font-size: 0.80em; } //left in for no real reason
 
 /*-- Table styling section - For Tufte-Jekyll, booktabs style is default for Markdown tables  --*/
 
 table, table.booktabs { width: auto;  //making booktabs style tables the unstyled default in case someone uses Markdown styling
-                 margin: 0 auto 0 0;
+                 margin: 0 auto;
                  border-spacing: 0px;
                  border-top: 2px solid $border-color;
                  border-bottom: 2px solid $border-color; }
 
 .booktabs th, th { border-bottom: 1px solid $border-color;
-               padding: 0.65ex 0.5em 0.4ex 0em;
+               padding: 0.65ex 0.5em 0.4ex 0.5em;
                font-weight: normal;
                text-align: center; }
 
 th, td{ font-size: 1rem; //1.2rem;
-        line-height: 1.71428571; 
-				vertical-align: top !important; }
+        line-height: 1.71428571;  }
 
-.booktabs th.cmid, th { border-bottom: 1px solid $border-color; }
-
-tr.cmid td { border-top: 1px solid $border-color; }
-
-//.booktabs tr.cmid { border-top: 1px solid lighten($border-color, 25%); }
+.booktabs th.cmid, th { border-bottom: 1px solid lighten($border-color, 25%); }
 
 .booktabs th.nocmid { border-bottom: none; }
 
@@ -222,8 +193,7 @@ tr.cmid td { border-top: 1px solid $border-color; }
 
 .booktabs td, td {  padding-left: 0.5em;
                     padding-right: 0.5em;
-                    text-align: left; 
-										vertical-align: top !important; }
+                    text-align: left; }
 
 .booktabs caption, caption { font-size: 90%;
                     text-align: left;
@@ -247,16 +217,19 @@ tr.cmid td { border-top: 1px solid $border-color; }
                  line-height: 1.96; }
 /* -- End of Table Styling section --*/
 
+
 /* Basic Layout stuff --*/
 
 article { position: relative;
-          padding: 1rem 0rem 2.5rem 0rem; } // reduced top and bottom padding by 50%
+          padding: 1
+
+          rem 0rem 2.5rem 0rem; } // reduced top and bottom padding by 50%
 
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
 
 
-article ul{ width: 55%; //width: 45%;
+ul{ width: 55%; //width: 45%;
      -webkit-padding-start: 2.5%;
      -webkit-padding-end: 2.5%;
      list-style-type: none;
@@ -277,24 +250,14 @@ body.cv ul li{
   text-indent: -2.5%;
 }
 
-ul.bibliography{
-  text-indent: -2.5%;
-}
-
-ul.bibliography li{
-  text-indent: -2.5%;
-}
-
 ol { width: 55%; //width: 45%;
      -webkit-padding-start: 4%;
      -webkit-padding-end: 4%; }
 
-ol li ol { width: 100% !important;
+ol li ol { width: 100%;
      -webkit-padding-start: 4%;
      -webkit-padding-end: 4%;
      list-style-type: lower-alpha; }
-
-ol p, ul p { width: 100% !important; }
 
 article li {text-align: left}
 
@@ -357,47 +320,28 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
 
 p, footer, div.table-wrapper, div.mathblock{ width: 55%; }
 
-table { max-width: 55%; }
+div.table-wrapper { overflow-x: auto; } //changed all overflow values to 'auto' so scroll bars appear only as needed
 
-div.table-wrapper { overflow-x: auto } //changed all overflow values to 'auto' so scroll bars appear only as needed
-
-@media screen and (max-width: 760px) { 
-    p, footer,div.mathblock, { width: 90%; }
-    div.highlight { width: 87.5% !important; }
-  .twitter-tweet { max-width: 87.5%; }
-    pre code { //width: 52.5%; 
-    }
-    article ul { width: 87.5%; }
-    figure { max-width: 90%; }
-    figcaption, figure.fullwidth figcaption { margin-right: 0%;
-        max-width: none; }
-    blockquote p, blockquote footer {  width: 80%;
-        padding-left: 5%;
-        padding-right: 5%; }
-}
+@media screen and (max-width: 760px) { p, footer,div.mathblock { width: 90%; }
+                                       pre code { width: 87.5%; }
+                                       ul { width: 85%; }
+                                       figure { max-width: 90%; }
+                                       figcaption, figure.fullwidth figcaption { margin-right: 0%;
+                                                                                 max-width: none; }
+                                       blockquote p, blockquote footer {  width: 80%;
+                                                                          padding-left: 5%;
+                                                                          padding-right: 5%;
+                                                                        }}
 
 .marginnote code, .sidenote code { font-size: 1rem; } //more .code class removal
 
-div.highlight {
-  width: 55%;
-}
-
-code { color: $code-color; }
-
-pre, pre code, p pre code { //width: 52.5%;
-           padding-left: 1.25%;
-           overflow-x: auto; 
-           color: $code-color-block;
-           background: $code-background-block; 
-           }
+pre, pre code, p pre code { width: 52.5%;
+           padding-left: 2.5%;
+           overflow-x: auto; }
 
 .fullwidth/*, li.listing div*/{ max-width: 90%; }
 
 .full-width { .sidenote, .sidenote-number, .marginnote { display: none; } }
-
-.fullwidth div.highlight {
-  width: 90%;
-}
 
 span.newthought { font-variant: small-caps;
                   font-size: 1.2em;
@@ -421,7 +365,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                                                                    vertical-align: baseline;
                                                                    position: relative; }
                             label { cursor: pointer; }
-                            pre, pre code, p code, p pre code { //width: 90%;
+                            pre, pre code, p code, p pre code { width: 90%;
                                        padding: 0; }
                             .table-caption { display: block;
                                              float: right;
@@ -435,34 +379,14 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                                              position: relative; }
                             div.table-wrapper, table, table.booktabs { width: 85%; }
                             div.table-wrapper { border-right: 1px solid #efefef; }
-														table { max-width: 100%; }
-                            img { max-width: 100%; } 
-														article ul, article ol { width: 87.5%; }
-                          }
+                            img { max-width: 100%; } }
 /*--- End of Basic Layout stuff from tufte.css ---*/
 
 /* -- Jekyll specific styling --*/
 //helper classes
 
-//.contrast { color: $contrast-color; }
-
-.contrast a, .contrast a:visited { color: $contrast-color; }
-
-.contrast a:hover { color: $contrast-color-dark; }
-
-//Text sizes
-
-.tiny { font-size: 50%; }
-.small { font-size: 60%; }
+.contrast { color: $contrast-color;}
 .smaller { font-size: 80%;}
-.normalsize { font-size: 100%;}
-.large { font-size: 120%; }
-.larger { font-size: 140% }
-.huge { font-size: 150%; }
-
-.date { font-family: $sans-font }
-.date.today:after { content: "TODAY" }
-
 //Nav and Footer styling area
 
 header > nav.group, body footer {
@@ -498,15 +422,13 @@ header > nav a img{
 ul.footer-links, .credits{
   list-style: none;
   text-align: center;
-  margin: auto;
-  width: 90% !important;
+  margin: 0 auto;
 }
 ul.footer-links{
   text-indent: 0% !important;
 }
 ul.footer-links li{
   display: inline;
-	line-height: 1.5rem;
   padding: 0.5rem 0.25rem !important;
   margin: 0 !important;
   text-indent: 0% !important;
@@ -514,40 +436,6 @@ ul.footer-links li{
 .credits{
   padding: 1rem 0rem;
 }
-
-.blognav {
-	font-family: $sans-font;
-	text-transform: uppercase;
-  display: block;
-  overflow: hidden;
-	width: auto;
-}
-
-.blognav a {
-  display: block;
-  margin: 1em 0;
-}
-
-.blognav .next {
-  text-align: right;
-	float: right;
-	width: 50%;
-}
-
-.blognav .prev {
-  text-align: left;
-	float: left;
-	width: 50%;
-}
-
-/*.prev:before {
-	content: "Previous: ";
-}
-
-.next:before {
-	content: "Next: "
-}
-*/
 
 //change font color for credit links in footer
 
@@ -623,6 +511,7 @@ li.listing {
   }
 }
 
+
 li.listing:last-of-type{
   border-bottom: none;
   margin-bottom: 0; //1.4rem;
@@ -633,18 +522,18 @@ li.listing h3.new {
 }
 hr.slender {
     border: 0;
-    height: 2px;
+    height: 1px;
     margin-top: 1.4rem;
     margin-bottom:1.4rem;
-    background-image: -webkit-linear-gradient($hr-linear-gradient);
-    background-image:    -moz-linear-gradient($hr-linear-gradient);
-    background-image:     -ms-linear-gradient($hr-linear-gradient);
-    background-image:      -o-linear-gradient($hr-linear-gradient);
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
 }
 // End of front listing page stuff
 
 
-// Printing and screen media queries
+// Printing ands screen media queries
 
 // Does not display a print-footer for screen display
 @media screen{
@@ -739,64 +628,6 @@ hr.slender {
 
 }
 
-/* TAGS */
-
-.tags,{list-style:none;
-  margin:0;
-  overflow:hidden;
-  padding:0;
-  text-indent:0;
-}
-
-.tags li{float:left;
-  margin:0;
-  padding:0;
-  text-indent:0;
-}
-
-.tag,.tag:hover,.tag:visited{text-decoration:none}
-
-.tag{ font-weight: 500;
-  background:$contrast-color;
-  border-radius:0.2rem 0.2rem 0.2rem 0.2rem;
-  color: $bg-color;
-  display:inline-block;
-  height:1.6rem;
-  line-height:1.6rem;
-  padding:0 0.6667rem 0 1.333rem;
-  position:relative;
-  margin:0 0.6667rem 0.6667rem 0;
-  -webkit-transition:color .2s
-}
-
-.tag::before{ background:$bg-color;
-  content:'';
-  position:absolute}
-
-.tag-archive-font{ font-size:1.2rem }
-
-.tag::before{ border-radius:0.6667rem;
-  box-shadow:inset 0 1px rgba(0,0,0,.25);
-  height:0.4rem;
-  left:0.6rem;
-  width:0.4rem;
-  top:0.6rem }
-
-/*.tag::after { border-bottom:13px solid transparent;
-  border-left:0.6667rem solid $contrast-color; 
-  border-top:0.8667rem solid transparent;
-  right:0;
-  top:0 
-} */
-
-.tag:hover{ background-color:$contrast-color-dark;
-  color:$bg-color }
-
-//.tag:hover::after{ border-left-color:$contrast-color-dark }
-
-.tag:visited{ color: $bg-color}
-
-//.icon-tags{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuklEQVQ4jbXTrxJBQRTH8RsEQfAINwqiKHoEUfAYgiaIoiiIHsMDCKIgCIIgCILwEewd15/LXjN+M6fs7Pc755ydTZJ/BRV0UQvVxxSzUBM0i+AG1kHQxs77bIrgXQ4+5YAjhlhmB2VgGIR7dZwfBBEwLMJuOg8dRMJZDvmRysLPmSduC+mF1rYl4D3SBKsgqIbDWLiRzd90H6GLSzRc8AKfJK9wCUkxHCH5DuckKUZuH6iFMdIo+JdcAcegeBZTaArHAAAAAElFTkSuQmCC)}
 
 /* --- Icomoon icon fonts CSS --*/
 @font-face {
@@ -909,140 +740,4 @@ hr.slender {
 .icon-box-add:before {
   content: "\e95e";
 }
-.icon-user:before {
-  content: "\e971"
-}
-.icon-calendar:before {
-  content: "\e953"
-}
-.icon-clock:before {
-  content: "\e94e"
-}
-.icon-clock2:before {
-  content: "\e94f"
-}
-.icon-location:before {
-  content: "\e947"
-}
-.icon-library:before {
-  content: "\e921"
-}
-.icon-office:before {
-  content: "\e903"
-}
-.icon-bubbles4:before {
-  content: "\e970"
-}
 /*-- End of Icomoon icon font section --*/
-/*-- 525Icons icon font section --*/
-@font-face {
-    font-family: '525icons';
-	src:url('../fonts/525icons.eot');
-	src:url('../fonts/525icons.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/525icons.woff2') format('woff2'),
-		url('../fonts/525icons.woff') format('woff'),
-		url('../fonts/525icons.ttf') format('truetype'),
-		url('../fonts/525icons.svg?#525icons') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-/* @media screen and (-webkit-min-device-pixel-ratio:0) {
-    @font-face {
-        font-family: '525icons';
-        src: url('525icons.svg#525icons') format('svg');
-    }
-} */
-
-[class^="ico-"], [class*=" ico-"] {
-  font-family: '525icons';
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-  //color: $contrast-color;
-
-  /* Better Font Rendering =========== */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.ico-slack:before {
-    content: "\e6a7";
-}
-.ico-pencil:before {
-    content: "\e743";
-}
-.ico-user:before {
-    content: "\e7af";
-}
-.ico-mail-send:before {
-    content: "\e6de";
-}
-.ico-envelope-o:before {
-    content: "\e713";
-}
-.ico-at:before {
-    content: "\e6e8";
-}
-.ico-envelope:before {
-    content: "\e714";
-}
-.ico-library:before {
-    content: "\e6ff";
-}
-.ico-calendar:before {
-    content: "\e66a";
-}
-.ico-circle-github:before {
-    content: "\e79b";
-}
-.ico-github:before {
-    content: "\e637";
-}
-.ico-clock:before {
-    content: "\e772";
-}
-.ico-rss:before {
-    content: "\e769";
-}
-.ico-calendar-open:before {
-    content: "\e669";
-}
-.ico-key:before {
-    content: "\e67d";
-}
-.ico-book:before {
-    content: "\e684";
-}
-.ico-science:before {
-    content: "\e6fe";
-}
-.ico-desktop:before {
-    content: "\e7e0";
-}
-.ico-laptop:before {
-    content: "\e7e1";
-}
-.ico-tablet:before {
-    content: "\e7e2";
-}
-.ico-smartphone:before {
-    content: "\e7e3";
-}
-.ico-surface:before {
-    content: "\e7e4";
-}
-.ico-responsive:before {
-    content: "\e7e5";
-}
-.ico-universal-access:before {
-    content: "\e7e6";
-}
-.ico-archive-box:before {
-    content: "\e6f0";
-}
-.ico-target:before {
-    content: "\e6f6";
-}
