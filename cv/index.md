@@ -65,7 +65,7 @@ PhD student in the School of Information and Library Science at the University o
 
 # Teaching
 
-- Teaching Fellow, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2017)
+- Teaching Fellow (instructor of record), School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2017)
 	- INLS 780, User Interface Design (Spring 2017)
 	- INLS 500, [Human Information Interaction](http://inls500.johndmart.in) (Fall 2015/2016)
 	- INLS 161, [Tools for Information Literacy](http://inls161.johndmart.in) (Summer II 2015/2016)
