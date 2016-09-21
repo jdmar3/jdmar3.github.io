@@ -11,7 +11,6 @@ Information Scientist, Digital Humanist
 
 # Contact
 
-
 <a href="mailto:{{site.data.social.email.prevar}}{{site.data.social.email.var}}"><span class="icon-mail"></span>&nbsp;{{site.data.social.email.var}}</a> |
 <a href="tel:{{site.data.social.tel.var}}"><span class="icon-mobile"></span>&nbsp;{{site.data.social.tel.var}}</a> |
 <a href="https://twitter.com/{{site.data.social.twitter.var}}"><span class="icon-twitter"></span>&nbsp;{{site.data.social.twitter.var}}</a> |
@@ -62,7 +61,7 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Posters
 
-John D. Martin III, "Dredging the Pirate Bay: An Exploration of a Public Torrent Index as Cultural Repository," *2016 Annual Meeting of the Association for Information Science and Technology (ASIS&T),* Copenhagen, Denmark (19 October 2016)
+- John D. Martin III, "Dredging the Pirate Bay: An Exploration of a Public Torrent Index as Cultural Repository," *2016 Annual Meeting of the Association for Information Science and Technology (ASIS&T),* Copenhagen, Denmark (19 October 2016)
 
 # Teaching
 
