@@ -145,7 +145,7 @@ PhD student in the School of Information and Library Science at the University o
 # Awards and Grants
 
 - Future Faculty Fellowship, Center for Faculty Excellence, University of North Carolina at Chapel Hill (Spring 2016) 
-- Asheim Fellowship, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2016) 
+- Lester Asheim Fellowship, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2016) 
 - Middle East Library Partnership Project (named in grant proposal narrative), Scholarly Communications Grant, Andrew W. Mellon Foundation (Summer 2014-Summer 2015) 
 - Support Grant for Spatial Humanities Incubator Group, Semaphore Working Group, Duke University/University of North Carolina at Chapel Hill (Fall 2012) 
 - ELIME-21 PhD Fellowship, School of Information and Library Science, University of North Carolina at Chapel Hill (2012-2014) 
