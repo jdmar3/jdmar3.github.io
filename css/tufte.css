@@ -218,7 +218,7 @@ a, a:visited {
   text-decoration: none; }
 
 a:hover {
-  color: #205caa;
+  color: #166DAB;
   text-decoration: none; }
 
 p > a {
@@ -280,9 +280,15 @@ p .subtitle {
 p, ol, ul {
   font-size: 1rem; }
 
-p, li {
+p {
   line-height: 1.5rem;
   margin-top: 0.85rem;
+  padding-right: 2rem;
+  vertical-align: baseline; }
+
+li {
+  line-height: 1.125rem;
+  margin-top: 0.5rem;
   padding-right: 2rem;
   vertical-align: baseline; }
 
@@ -299,15 +305,32 @@ blockquote footer {
   width: 45%;
   text-align: right; }
 
+.twitter-tweet {
+  width: 55% !important; }
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90%;
+  height: 100%; }
+
 .sans {
   font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
   letter-spacing: .03em; }
 
 pre, pre code, p code, p pre code {
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  font-size: 1rem;
+  font-size: 0.85rem;
   line-height: 1.71428571;
-  margin-top: 1.71428571rem; }
+  margin-top: 1rem; }
 
 h1 code, h2 code, h3 code {
   font-size: 0.80em; }
@@ -315,23 +338,27 @@ h1 code, h2 code, h3 code {
 /*-- Table styling section - For Tufte-Jekyll, booktabs style is default for Markdown tables  --*/
 table, table.booktabs {
   width: auto;
-  margin: 0 auto;
+  margin: 0 auto 0 0;
   border-spacing: 0px;
   border-top: 2px solid #333333;
   border-bottom: 2px solid #333333; }
 
 .booktabs th, th {
   border-bottom: 1px solid #333333;
-  padding: 0.65ex 0.5em 0.4ex 0.5em;
+  padding: 0.65ex 0.5em 0.4ex 0em;
   font-weight: normal;
   text-align: center; }
 
 th, td {
   font-size: 1rem;
-  line-height: 1.71428571; }
+  line-height: 1.71428571;
+  vertical-align: top !important; }
 
 .booktabs th.cmid, th {
-  border-bottom: 1px solid #737373; }
+  border-bottom: 1px solid #333333; }
+
+tr.cmid td {
+  border-top: 1px solid #333333; }
 
 .booktabs th.nocmid {
   border-bottom: none; }
@@ -343,7 +370,8 @@ th, td {
 .booktabs td, td {
   padding-left: 0.5em;
   padding-right: 0.5em;
-  text-align: left; }
+  text-align: left;
+  vertical-align: top !important; }
 
 .booktabs caption, caption {
   font-size: 90%;
@@ -377,13 +405,13 @@ th, td {
 /* Basic Layout stuff --*/
 article {
   position: relative;
-  padding: 1 rem 0rem 2.5rem 0rem; }
+  padding: 1rem 0rem 2.5rem 0rem; }
 
 section {
   padding-top: 1rem;
   padding-bottom: 1rem; }
 
-ul {
+article ul {
   width: 55%;
   -webkit-padding-start: 2.5%;
   -webkit-padding-end: 2.5%;
@@ -402,16 +430,25 @@ body.cv ul {
 body.cv ul li {
   text-indent: -2.5%; }
 
+ul.bibliography {
+  text-indent: -2.5%; }
+
+ul.bibliography li {
+  text-indent: -2.5%; }
+
 ol {
   width: 55%;
   -webkit-padding-start: 4%;
   -webkit-padding-end: 4%; }
 
 ol li ol {
-  width: 100%;
+  width: 100% !important;
   -webkit-padding-start: 4%;
   -webkit-padding-end: 4%;
   list-style-type: lower-alpha; }
+
+ol p, ul p {
+  width: 100% !important; }
 
 article li {
   text-align: left; }
@@ -484,6 +521,9 @@ blockquote .sidenote, blockquote .marginnote {
 p, footer, div.table-wrapper, div.mathblock {
   width: 55%; }
 
+table {
+  max-width: 55%; }
+
 div.table-wrapper {
   overflow-x: auto; }
 
@@ -491,11 +531,14 @@ div.table-wrapper {
   p, footer, div.mathblock {
     width: 90%; }
 
-  pre code {
-    width: 87.5%; }
+  div.highlight {
+    width: 87.5% !important; }
 
-  ul {
-    width: 85%; }
+  .twitter-tweet {
+    max-width: 87.5%; }
+
+  article ul {
+    width: 87.5%; }
 
   figure {
     max-width: 90%; }
@@ -511,16 +554,26 @@ div.table-wrapper {
 .marginnote code, .sidenote code {
   font-size: 1rem; }
 
+div.highlight {
+  width: 55%; }
+
+code {
+  color: #bbb; }
+
 pre, pre code, p pre code {
-  width: 52.5%;
-  padding-left: 2.5%;
-  overflow-x: auto; }
+  padding-left: 1.25%;
+  overflow-x: auto;
+  color: #bbb;
+  background: #222; }
 
 .fullwidth {
   max-width: 90%; }
 
 .full-width .sidenote, .full-width .sidenote-number, .full-width .marginnote {
   display: none; }
+
+.fullwidth div.highlight {
+  width: 90%; }
 
 span.newthought {
   font-variant: small-caps;
@@ -559,7 +612,6 @@ label.margin-toggle:not(.sidenote-number) {
     cursor: pointer; }
 
   pre, pre code, p code, p pre code {
-    width: 90%;
     padding: 0; }
 
   .table-caption {
@@ -580,15 +632,48 @@ label.margin-toggle:not(.sidenote-number) {
   div.table-wrapper {
     border-right: 1px solid #efefef; }
 
+  table {
+    max-width: 100%; }
+
   img {
-    max-width: 100%; } }
+    max-width: 100%; }
+
+  article ul, article ol {
+    width: 87.5%; } }
 /*--- End of Basic Layout stuff from tufte.css ---*/
 /* -- Jekyll specific styling --*/
-.contrast {
+.contrast a, .contrast a:visited {
   color: #56A0D3; }
+
+.contrast a:hover {
+  color: #166DAB; }
+
+.tiny {
+  font-size: 50%; }
+
+.small {
+  font-size: 60%; }
 
 .smaller {
   font-size: 80%; }
+
+.normalsize {
+  font-size: 100%; }
+
+.large {
+  font-size: 120%; }
+
+.larger {
+  font-size: 140%; }
+
+.huge {
+  font-size: 150%; }
+
+.date {
+  font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif; }
+
+.date.today:after {
+  content: "TODAY"; }
 
 header > nav.group, body footer {
   width: 100%;
@@ -624,13 +709,15 @@ header > nav a img {
 ul.footer-links, .credits {
   list-style: none;
   text-align: center;
-  margin: 0 auto; }
+  margin: auto;
+  width: 90% !important; }
 
 ul.footer-links {
   text-indent: 0% !important; }
 
 ul.footer-links li {
   display: inline;
+  line-height: 1.5rem;
   padding: 0.5rem 0.25rem !important;
   margin: 0 !important;
   text-indent: 0% !important; }
@@ -638,6 +725,35 @@ ul.footer-links li {
 .credits {
   padding: 1rem 0rem; }
 
+.blognav {
+  font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
+  text-transform: uppercase;
+  display: block;
+  overflow: hidden;
+  width: auto; }
+
+.blognav a {
+  display: block;
+  margin: 1em 0; }
+
+.blognav .next {
+  text-align: right;
+  float: right;
+  width: 50%; }
+
+.blognav .prev {
+  text-align: left;
+  float: left;
+  width: 50%; }
+
+/*.prev:before {
+	content: "Previous: ";
+}
+
+.next:before {
+	content: "Next: "
+}
+*/
 .credits {
   font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif; }
   .credits a {
@@ -705,7 +821,7 @@ li.listing h3.new {
 
 hr.slender {
   border: 0;
-  height: 1px;
+  height: 2px;
   margin-top: 1.4rem;
   margin-bottom: 1.4rem;
   background-image: -webkit-linear-gradient(left, transparent, rgba(0, 0, 0, 0.75), transparent);
@@ -782,6 +898,65 @@ hr.slender {
 
   .page-break-after {
     page-break-after: always; } }
+/* TAGS */
+.tags {
+  list-style: none;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  text-indent: 0; }
+
+.tags li {
+  float: left;
+  margin: 0;
+  padding: 0;
+  text-indent: 0; }
+
+.tag, .tag:hover, .tag:visited {
+  text-decoration: none; }
+
+.tag {
+  font-weight: 500;
+  background: #56A0D3;
+  border-radius: 0.2rem 0.2rem 0.2rem 0.2rem;
+  color: #fdfdfd;
+  display: inline-block;
+  height: 1.6rem;
+  line-height: 1.6rem;
+  padding: 0 0.6667rem 0 1.333rem;
+  position: relative;
+  margin: 0 0.6667rem 0.6667rem 0;
+  -webkit-transition: color 0.2s; }
+
+.tag::before {
+  background: #fdfdfd;
+  content: '';
+  position: absolute; }
+
+.tag-archive-font {
+  font-size: 1.2rem; }
+
+.tag::before {
+  border-radius: 0.6667rem;
+  box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+  height: 0.4rem;
+  left: 0.6rem;
+  width: 0.4rem;
+  top: 0.6rem; }
+
+/*.tag::after { border-bottom:13px solid transparent;
+  border-left:0.6667rem solid $contrast-color; 
+  border-top:0.8667rem solid transparent;
+  right:0;
+  top:0 
+} */
+.tag:hover {
+  background-color: #166DAB;
+  color: #fdfdfd; }
+
+.tag:visited {
+  color: #fdfdfd; }
+
 /* --- Icomoon icon fonts CSS --*/
 @font-face {
   font-family: 'icomoon';
@@ -885,4 +1060,130 @@ hr.slender {
 .icon-box-add:before {
   content: "\e95e"; }
 
+.icon-user:before {
+  content: ""; }
+
+.icon-calendar:before {
+  content: ""; }
+
+.icon-clock:before {
+  content: ""; }
+
+.icon-clock2:before {
+  content: ""; }
+
+.icon-location:before {
+  content: ""; }
+
+.icon-library:before {
+  content: ""; }
+
+.icon-office:before {
+  content: ""; }
+
+.icon-bubbles4:before {
+  content: ""; }
+
 /*-- End of Icomoon icon font section --*/
+/*-- 525Icons icon font section --*/
+@font-face {
+  font-family: '525icons';
+  src: url("../fonts/525icons.eot");
+  src: url("../fonts/525icons.eot?#iefix") format("embedded-opentype"), url("../fonts/525icons.woff2") format("woff2"), url("../fonts/525icons.woff") format("woff"), url("../fonts/525icons.ttf") format("truetype"), url("../fonts/525icons.svg?#525icons") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+/* @media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: '525icons';
+        src: url('525icons.svg#525icons') format('svg');
+    }
+} */
+[class^="ico-"], [class*=" ico-"] {
+  font-family: '525icons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.ico-slack:before {
+  content: "\e6a7"; }
+
+.ico-pencil:before {
+  content: "\e743"; }
+
+.ico-user:before {
+  content: "\e7af"; }
+
+.ico-mail-send:before {
+  content: "\e6de"; }
+
+.ico-envelope-o:before {
+  content: "\e713"; }
+
+.ico-at:before {
+  content: "\e6e8"; }
+
+.ico-envelope:before {
+  content: "\e714"; }
+
+.ico-library:before {
+  content: "\e6ff"; }
+
+.ico-calendar:before {
+  content: "\e66a"; }
+
+.ico-circle-github:before {
+  content: "\e79b"; }
+
+.ico-github:before {
+  content: "\e637"; }
+
+.ico-clock:before {
+  content: "\e772"; }
+
+.ico-rss:before {
+  content: "\e769"; }
+
+.ico-calendar-open:before {
+  content: "\e669"; }
+
+.ico-key:before {
+  content: "\e67d"; }
+
+.ico-book:before {
+  content: "\e684"; }
+
+.ico-science:before {
+  content: "\e6fe"; }
+
+.ico-desktop:before {
+  content: "\e7e0"; }
+
+.ico-laptop:before {
+  content: "\e7e1"; }
+
+.ico-tablet:before {
+  content: "\e7e2"; }
+
+.ico-smartphone:before {
+  content: "\e7e3"; }
+
+.ico-surface:before {
+  content: "\e7e4"; }
+
+.ico-responsive:before {
+  content: "\e7e5"; }
+
+.ico-universal-access:before {
+  content: "\e7e6"; }
+
+.ico-archive-box:before {
+  content: "\e6f0"; }
+
+.ico-target:before {
+  content: "\e6f6"; }
