@@ -9,7 +9,11 @@
     {% endfor %}  
   </ul>
 <div class="credits">
-  <span>{{site.author | upcase }} &nbsp;&nbsp;|&nbsp;&nbsp; {{site.subtitle}} </br> <small>{{site.description}}</small> </span></br>
-<span><small>&copy; {{ site.time | date: '%Y' }}</small></span> 
+  <span>{{site.author | upcase }} &nbsp;&nbsp;|&nbsp;&nbsp; {{site.subtitle}} <br/> 
+  <span class="smaller">{{site.description}} </span><br/>
+  <br/>
+  {{ site.license-img }}<br/>
+
+  <span class="smaller">&copy;&nbsp;<a href="{{ site.baseurl }}/credits/">{{ site.time | date: '%Y' }}&nbsp;{{ site.author }}</a></span>
 </div>  
 </footer>
