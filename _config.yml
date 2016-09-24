@@ -6,7 +6,7 @@ description: "PhD student in the School of Information and Library Science at Un
 
 baseurl: ""
 url: "https://johndmart.in"
-enforce-ssl: "inls500.johndmart.in"
+enforce-ssl: "johndmart.in"
 
 name: jdmar3
 
