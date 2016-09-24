@@ -19,4 +19,8 @@ All content is copyright {{ site.author }}.
 
 {{ site.license-summary }}
 
+## Theme license
+
+{{ site.theme-license }}
+
 {% endif %}
