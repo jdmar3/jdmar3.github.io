@@ -5,7 +5,9 @@ simple_search: http://google.com/search
 description: "PhD student in the School of Information and Library Science at University of North Carolina at Chapel Hill."
 
 baseurl: ""
-url: "http://johndmart.in"
+url: "https://inls500.johndmart.in"
+enforce-ssl: "inls500.johndmart.in"
+
 name: jdmar3
 
 #markdown: kramdown
