@@ -1,2 +1,4 @@
 mathjax: true
 lato_font_load: true
+moment: true
+datejs: false
