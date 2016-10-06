@@ -4,6 +4,20 @@ title: Blog
 weight: 21
 ---
 
+<br/>
+<span class="huge date"><a href="#today" id="todaydate">{{ site.time | date: "%A, %-d %B %Y" }}</a></span>
+
+    <script>
+     // set an element
+     //$("#todaydate").val( moment().format('D MMM YYYY') );
+
+     // set a variable
+     var todaydate = moment().format('dddd, D MMMM, YYYY');
+     
+     // insert today into 
+     document.getElementById("todaydate").innerHTML = todaydate
+    </script>
+
   <ul class="content-listing ">
     {% for post in site.posts %}      
         <li class="listing">

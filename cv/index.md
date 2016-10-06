@@ -52,16 +52,16 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Articles
 
-- John D. Martin III and Carolyn Runyon, "Digital Humanities, Digital Hegemony: Exploring Funding Practices and Unequal Access in the Digital Humanities," *ACM SIGCAS Computers and Society 46*(1), 20-26 (March 2016) http://doi.org/10.1145/2908216.2908219
+- John D. Martin III and Carolyn Runyon, "[Digital Humanities, Digital Hegemony: Exploring Funding Practices and Unequal Access in the Digital Humanities](/published/Martin-and-Runyon-2016-Digital_humanities-digital-hegemony-ACM-SIGCAS.pdf)," *ACM SIGCAS Computers and Society 46*(1), 20-26 (March 2016) http://doi.org/10.1145/2908216.2908219
 
 ## Conference Proceedings
 
 - Sylvia K. Miller, David Phillips, Courtney Berger, Marjorie Fowler, Rebecca Kennison, John D. Martin III, John McLeod, and Chelcie Rowell, "Publishing Makerspace: A New Approach to Scholarly Publishing," *Where Do We Go from Here?: Charleston Conference Proceedings* (2-7 November 2015)
-- Barbara B. Moran, Sumayya Ahmed, Amanda B. Click, Jacob Hill, and John D. Martin III, “Flexible Strategies for Uncertain Times: An Innovative Approach to LIS Education in the Middle East and North Africa,” *Libraries, Citizens, Societies: Confluence for Knowledge: IFLA WLIC 2014,* Lyon, France (16-22 August 2014) http://library.ifla.org/848/
+- Barbara B. Moran, Sumayya Ahmed, Amanda B. Click, Jacob Hill, and John D. Martin III, “[Flexible Strategies for Uncertain Times: An Innovative Approach to LIS Education in the Middle East and North Africa](/published/Moran-et-al-2014-Flexible-strategies-IFLA.pdf),” *Libraries, Citizens, Societies: Confluence for Knowledge: IFLA WLIC 2014,* Lyon, France (16-22 August 2014) http://library.ifla.org/848/ 
 
 ## Posters
 
-- John D. Martin III, "Dredging the Pirate Bay: An Exploration of a Public Torrent Index as Cultural Repository," *2016 Annual Meeting of the Association for Information Science and Technology (ASIS&T),* Copenhagen, Denmark (19 October 2016)
+- John D. Martin III, "[Piracy, Public Access, and Preservation: An Exploration of Sustainable Accessibility in a Public Torrent Index](/published/Martin-2016-Piracy-ASIST.pdf)," *2016 Annual Meeting of the Association for Information Science and Technology (ASIS&T),* Copenhagen, Denmark (14-18 October 2016)
 
 # Teaching
 
@@ -102,7 +102,7 @@ PhD student in the School of Information and Library Science at the University o
 - Elliott Hauser and John D. Martin III, “Codex Futures: Possibilities for a Digital Codex, New Personal Libraries, and New Units of Digital Culture,” HASTAC 2013: The Storm of Progress, York University, Toronto, Ontario, Canada (25-28 April 2013) 
 - John D. Martin III and Elliott Hauser, “Algorithmic Amulet-making, Magic Square Encryption and Other Occult Technologies: Computational Methods Applied to Medieval Intellectual Artifacts,” HASTAC 2013: The Storm of Progress, York University, Toronto, Ontario Canada (25-28 April 2013) 
 - John D. Martin III, “‘The Characteristic of Guidance and the Secrets of the Guided’: A 13th century Treatise on the Divine Names in Islamic Theurgic Rites,” American Academy of Religion Midwest Regional Conference, Augustana College, Rock Island, Illinois (30-31 March 2011) 
-- John D. Martin III, “Punk Rock Muslims: An Exploration of Historical Precedent for Deviant Piety,”Spirituality in the 21st Century: At the Interface of Theory, Praxis and Pedagogy, 1st Global Conference, Prague, Czech Republic (20-22 March 2011) 
+- John D. Martin III, “Punk Rock Muslims: An Exploration of Historical Precedent for Deviant Piety,” Spirituality in the 21st Century: At the Interface of Theory, Praxis and Pedagogy, 1st Global Conference, Prague, Czech Republic (20-22 March 2011) 
 - John D. Martin III, “‘For Every Illness and Symptom’: A Pragmatic Study of Medieval Islamic Magical Amulets,” Perspectives on Evil and Human Wickedness, 12th Global Conference, Prague, Czech Republic (17-19 March 2011) 
 - John D. Martin III, “Primum Non Nocere: Gray Area in Commanding the Right and Forbidding the Wrong,” Perspectives on Evil and Human Wickedness, 12th Global Conference, Prague, Czech Republic (17-19 March 2011) 
 - John D. Martin III and Jaimee Hunsdon, “Politicizing Education: Analyzing Egyptian Pedagogical Literature in the 19th and 20th Centuries,” with Jaimee Hundson, Annual History Seminar, The American University in Cairo, School of Humanities and Social Sciences, Cairo, Egypt (26-28 March 2009) 
@@ -178,7 +178,7 @@ PhD student in the School of Information and Library Science at the University o
 - Doctoral Student Representative, Personnel Committee, School of Information and Library Science, University of North Carolina at Chapel Hill (2014-2015 academic year) 
 - Doctoral Student Representative, Research and Doctoral Committee, School of Information and Library Science, University of North Carolina at Chapel Hill (2013-2014 academic year) 
 - Full-time Representative, Doctoral Students Association, School of Information and Library Science, University of North Carolina at Chapel Hill (2013) 
-- Digital Humanities Now, Editor-at-large (Spring 2013) 
+- Digital Humanities Now, Editor-at-large (2013) 
 - Committee Member, Islamicate Graduate Student Association, University of North Carolina at Chapel Hill (2012-2013 academic year) 
 
 # Specialized Training
