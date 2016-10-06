@@ -679,11 +679,10 @@ header > nav.group, body footer {
   width: 100%;
   padding-top: 2rem; }
 
-nav.group a.active:before {
-  content: "\0003c\000a0"; }
-
-nav.group a.active:after {
-  content: " >"; }
+/* nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
+nav.group a.active:after{ content:"\000a0\0003e" ;} */
+nav.group a.active {
+  color: #166DAB; }
 
 header > nav a {
   font-size: 1.2rem;

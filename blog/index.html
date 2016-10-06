@@ -89,7 +89,21 @@
 	</nav>
 </header>
     <article>
-        <ul class="content-listing ">
+      <br/>
+<span class="huge date"><a href="#today" id="todaydate">Thursday, 6 October 2016</a></span>
+
+    <script>
+     // set an element
+     //$("#todaydate").val( moment().format('D MMM YYYY') );
+
+     // set a variable
+     var todaydate = moment().format('dddd, D MMMM, YYYY');
+     
+     // insert today into 
+     document.getElementById("todaydate").innerHTML = todaydate
+    </script>
+
+  <ul class="content-listing ">
     
   </ul>
     </article>
