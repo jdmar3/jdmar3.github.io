@@ -2,6 +2,7 @@
 layout: full-width
 title: Research
 weight: 5
+nav_include: true
 ---
 
 # Current Projects

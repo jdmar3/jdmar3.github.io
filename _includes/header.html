@@ -4,13 +4,13 @@
 	<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/img/badge_1.png" alt="JDM"></a>
 	{% assign pages = site.pages | sort:"weight"  %}
 	{% for node in pages %}
-		{% unless node.nav_exclude %}
+		{% if node.nav_include %}
 		    {% if page.url == node.url %}
 		      <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{% if node.shorttitle %}{{node.shorttitle}}{% else %}{{node.title}}{% endif %}</a>
 		    {% else %}
 		      <a href="{{node.url | prepend: site.baseurl}}">{% if node.shorttitle %}{{node.shorttitle}}{% else %}{{node.title}}{% endif %}</a>
 		    {% endif %}
-	    {% endunless %}
+	    {% endif %}
   	{% endfor %}
 	</nav>
 </header>

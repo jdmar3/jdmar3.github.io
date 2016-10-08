@@ -2,6 +2,7 @@
 layout: full-width
 title: Contact
 weight: 25
+nav_include: true
 ---
 
 These are all the best ways to contact me. Please feel free to use them. 

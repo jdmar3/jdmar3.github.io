@@ -2,6 +2,7 @@
 layout: full-width
 title: About
 weight: 3
+nav_include: true
 ---
 
 <h1 class="content-listing-header sans">{{ site.author }}</h1>

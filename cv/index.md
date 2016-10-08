@@ -3,11 +3,25 @@ layout: full-width-cv
 shorttitle: CV
 title: Curriculum Vitae
 weight: 1
+nav_include: true
 ---
 
 <h1 class="content-listing-header sans">{{ site.author }}</h1>
 
 Information Scientist, Digital Humanist
+
+<span class="date"><a href="#today" id="todaydate">{{ site.time | date: "%A, %-d %B %Y" }}</a></span>
+
+    <script>
+     // set an element
+     //$("#todaydate").val( moment().format('D MMM YYYY') );
+
+     // set a variable
+     var todaydate = moment().format('dddd, D MMMM, YYYY');
+     
+     // insert today into 
+     document.getElementById("todaydate").innerHTML = todaydate
+    </script>
 
 # Contact
 
