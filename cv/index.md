@@ -10,18 +10,7 @@ nav_include: true
 
 Information Scientist, Digital Humanist
 
-<span class="date"><a href="#today" id="todaydate">{{ site.time | date: "%A, %-d %B %Y" }}</a></span>
-
-    <script>
-     // set an element
-     //$("#todaydate").val( moment().format('D MMM YYYY') );
-
-     // set a variable
-     var todaydate = moment().format('dddd, D MMMM, YYYY');
-     
-     // insert today into 
-     document.getElementById("todaydate").innerHTML = todaydate
-    </script>
+<span class="date">{{ site.time | date: "%-d %B %Y" }}</span>
 
 # Contact
 
@@ -75,7 +64,7 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Posters
 
-- John D. Martin III, "[Piracy, Public Access, and Preservation: An Exploration of Sustainable Accessibility in a Public Torrent Index](/published/Martin-2016-Piracy-ASIST.pdf)," *2016 Annual Meeting of the Association for Information Science and Technology (ASIS&T),* Copenhagen, Denmark (14-18 October 2016)
+- John D. Martin III, "[Piracy, Public Access, and Preservation: An Exploration of Sustainable Accessibility in a Public Torrent Index](/resarch/piracy)," *2016 Annual Meeting of the Association for Information Science and Technology (ASIS&T),* Copenhagen, Denmark (14-18 October 2016)
 
 # Teaching
 
