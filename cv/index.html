@@ -95,18 +95,8 @@
 
 <p>Information Scientist, Digital Humanist</p>
 
-<p><span class="date"><a href="#today" id="todaydate">Saturday, 8 October 2016</a></span></p>
-<div class="highlight"><pre><code class="language-" data-lang="">&lt;script&gt;
- // set an element
- //$("#todaydate").val( moment().format('D MMM YYYY') );
+<p><span class="date">9 October 2016</span></p>
 
- // set a variable
- var todaydate = moment().format('dddd, D MMMM, YYYY');
-
- // insert today into 
- document.getElementById("todaydate").innerHTML = todaydate
-&lt;/script&gt;
-</code></pre></div>
 <h1 id="contact">Contact</h1>
 
 <p><a href="mailto:mailto:me@johndmart.in"><span class="icon-mail"></span>&nbsp;<a href="mailto:me@johndmart.in">me@johndmart.in</a></a> |
@@ -175,7 +165,7 @@
 <h2 id="posters">Posters</h2>
 
 <ul>
-<li>John D. Martin III, &quot;<a href="/published/Martin-2016-Piracy-ASIST.pdf">Piracy, Public Access, and Preservation: An Exploration of Sustainable Accessibility in a Public Torrent Index</a>,&quot; <em>2016 Annual Meeting of the Association for Information Science and Technology (ASIS&amp;T),</em> Copenhagen, Denmark (14-18 October 2016)</li>
+<li>John D. Martin III, &quot;<a href="/resarch/piracy">Piracy, Public Access, and Preservation: An Exploration of Sustainable Accessibility in a Public Torrent Index</a>,&quot; <em>2016 Annual Meeting of the Association for Information Science and Technology (ASIS&amp;T),</em> Copenhagen, Denmark (14-18 October 2016)</li>
 </ul>
 
 <h1 id="teaching">Teaching</h1>
@@ -403,5 +393,15 @@
   <span class="smaller">&copy;&nbsp;<a href="/credits/">2016&nbsp;John D. Martin III</a></span>
 </div>  
 </footer>
+    <script>
+      // set an element
+      //$("#todaydate").val( moment().format('D MMM YYYY') );
+
+      // set a variable
+      var todaydate = moment().format('D MMMM, YYYY');
+     
+      // insert today into 
+      document.getElementById("todaydate").innerHTML = todaydate
+    </script>
   </body>
 </html>
