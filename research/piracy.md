@@ -1,6 +1,6 @@
 ---
 layout: page-no-title
-title: "Piracy"
+title: "Piracy Research"
 nav_include: false
 ---
 
