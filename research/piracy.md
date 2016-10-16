@@ -6,7 +6,7 @@ nav_include: false
 
 # Piracy, Public Access, and Preservation 
 
-*An Exploration of Sustainable Accessibility in a Public Torrent Index* {% marginnote 'thumb-links' '<a href="/published/Martin-2016-Piracy-ASIST-poster.pdf"><img src="/published/Martin-2016-Piracy-ASIST-poster.png" /></a><br/><br/><a href="/published/Martin-2016-Piracy-ASIST-paper.pdf"><img src="/published/Martin-2016-Piracy-ASIST-paper.png" /></a>' %}
+*An Exploration of Sustainable Accessibility in a Public Torrent Index* {% marginnote 'thumb-links' '<a href="/published/Martin-2016-Piracy-ASIST-poster.pdf"><img src="/published/Martin-2016-Piracy-ASIST-poster.png" /></a><a href="/published/Martin-2016-Piracy-ASIST-paper.pdf"><img src="/published/Martin-2016-Piracy-ASIST-paper.png" /></a>' %}
 
 ## Abstract 
 

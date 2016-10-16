@@ -19,6 +19,16 @@ This study is an attempt to provide greater understanding of how respondents fro
 
 I will be blogging about this project as it progresses. Please follow there.
 
+## Digital Media Piracy
+
+Piracy is not a new phenomenon, but the rapid development of online protocols has expanded its reach into every aspect of digital media production. 
+As a social and cultural phenomenon there is a great deal that we can learn from online digital media piracy about how people create, manipulate, share, and communicate information coming from sources that they do not always control. 
+
+In addition digital media piracy has become a mode of access to cultural materials and technologies for a great many people worldwide, despite the illegality of their behavior in violating copyright.
+My interest in this phenomenon lies beyond discussions about copyright and views piracy as another information behavior that can be studied as such. 
+
+You can read more about this research and see publications here: [johndmart.in/research/piracy](http://johndmart.in/research/piracy).
+
 ## Digital Cultural Hegemony
 
 Carolyn Runyon and I have been working on a project to assess equity in digital humanities funding for cultural heritage projects over the last year. 
