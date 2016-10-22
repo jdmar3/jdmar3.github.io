@@ -120,21 +120,20 @@ PhD student in the School of Information and Library Science at the University o
 
 - Survey Methods Submodule, Global Training Resources for Information Professionals, University of North Carolina at Chapel Hill (2014) 
 
-## Invited Talks, Panels, and Media
+## Invited Talks and Panels
 
 - “[Privacy and Oversharing Online: A Look at 21st Century Trust](http://johndmart.in/scicafe-20160907),” Carolina Science Cafe, Chapel Hill, North Carolina (7 September 2016)
 - “A Publishing Makerspace,” (with Sylvia Miller), Scholarly Communications Working Group, Davis Library, University of North Carolina at Chapel Hill (11 February 2015) 
-- “Pipelines to the Library & Information World: UNC-Greensboro & UNC-Chapel Hill,” Davis Library, University of North Carolina at Chapel Hill, Panelist (9 October 2013) 
-- “Modern Religion and Spirituality Series II,” Just Friendly Advice, WKMI TalkRadio 1360AM, Kalamazoo, MI, Invited Guest (29 July 2007) 
-- “Modern Religion and Spirituality Series I,” Just Friendly Advice, WKMI TalkRadio 1360AM, Kalamazoo, MI, Invited Guest (24 June 2007) 
+- “Pipelines to the Library & Information World: UNC-Greensboro & UNC-Chapel Hill,” Davis Library, University of North Carolina at Chapel Hill, Panelist (9 October 2013)  
 - “Whose House is It?: Evaluating Misconceptions of Islam and Muslims World-Wide,” First Presbyterian Church of Richland, Richland, MI, Invited Speaker (4 February 2007) 
 
+## Media Coverage, Appearances, Interviews
+
+- Patrick Seelinger, "[Scraping for Secrets on Online Drug Forums](http://endeavors.unc.edu/scraping_for_secrets_on_online_drug_forums)," *Endeavors* (ISSN 1933-4338) (20 October 2016)  
+- Shalini Karnani, “Modern Religion and Spirituality Series II,” Just Friendly Advice, WKMI TalkRadio 1360AM, Kalamazoo, MI, Invited Guest (29 July 2007) 
+- Shalini Karnani, “Modern Religion and Spirituality Series I,” Just Friendly Advice, WKMI TalkRadio 1360AM, Kalamazoo, MI, Invited Guest (24 June 2007)
+
 # Workshops
-
-## Sponsored participation
-
-- Delegate, Publishing Makerspace Working Group, Scholarly Communication Institute, Duke University (9-13 November 2014) 
-- Delegate, Open Syllabus Project Workshop & Hackathon, Columbia University (6-7 June 2014) 
 
 ## Workshops Organized
 
@@ -144,6 +143,11 @@ PhD student in the School of Information and Library Science at the University o
 - Tutorial on Using *git* and *GitHub* for Collaborative Authoring, Publishing Makerspace Working Group, Franklin Humanities Institute, Duke University (15 May 2014) 
 - Digital Authoring Tools Incubator Group (with Ashley Reed and Sylvia K. Miller), University of North Carolina at Chapel Hill (five part workshop, Spring 2013) 
 - Spatial Humanities Incubator Group (with Ashley Reed and Sylvia K. Miller), University of North Carolina at Chapel Hill (five part workshop, Fall 2012) 
+
+## Sponsored participation
+
+- Delegate, Publishing Makerspace Working Group, Scholarly Communication Institute, Duke University (9-13 November 2014) 
+- Delegate, Open Syllabus Project Workshop & Hackathon, Columbia University (6-7 June 2014) 
 
 # Awards and Grants
 
@@ -177,11 +181,12 @@ PhD student in the School of Information and Library Science at the University o
 
 # Community and Service Activities 
 
+- ASIS&T Special Interest Group on Arts and Humanities (SIG-AH) (2016)
 - Digital Humanities Editor and Web Editor, ACM SIGCAS Computing and Society (2016)
 - Doctoral Student Representative, Personnel Committee, School of Information and Library Science, University of North Carolina at Chapel Hill (2014-2015 academic year) 
 - Doctoral Student Representative, Research and Doctoral Committee, School of Information and Library Science, University of North Carolina at Chapel Hill (2013-2014 academic year) 
 - Full-time Representative, Doctoral Students Association, School of Information and Library Science, University of North Carolina at Chapel Hill (2013) 
-- Digital Humanities Now, Editor-at-large (2013) 
+- Editor-at-large, Digital Humanities Now (2013) 
 - Committee Member, Islamicate Graduate Student Association, University of North Carolina at Chapel Hill (2012-2013 academic year) 
 
 # Specialized Training
