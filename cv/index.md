@@ -76,7 +76,7 @@ PhD student in the School of Information and Library Science at the University o
 	- COMP 380/380H (Fall 2016)
 - Writing Coach, Western Michigan University, Dept. of Comparative Religion, Kalamazoo, MI (Spring 2012)
 - Teaching Assistant, American University in Cairo, Dept. of Arab and Islamic Civilizations, Cairo, Egypt (Spring 2009-Fall 2011)
-- Intensive English and Computing Workshop (with Jeffery A. Wardwell, Desert Development Training Center (DDTC-المركز التكنولوجي المتكامل), New Basaisa, Ras Sudr, South Sinai (August 2010) 
+- Intensive English and Computing Workshop (with Jeffery A. Wardwell), Desert Development Training Center (DDTC-المركز التكنولوجي المتكامل), New Basaisa, Ras Sudr, South Sinai (August 2010) 
 - Graduate Technology Assistant, American University in Cairo, Center for Learning and Teaching, Cairo, Egypt (Fall 2008-Summer 2010)
 - Teaching Assistant, Western Michigan University, Dept. of Comparative Religion, Kalamazoo, MI (Fall 2004-Spring 2005)
 
@@ -127,7 +127,7 @@ PhD student in the School of Information and Library Science at the University o
 - “Pipelines to the Library & Information World: UNC-Greensboro & UNC-Chapel Hill,” Davis Library, University of North Carolina at Chapel Hill, Panelist (9 October 2013)  
 - “Whose House is It?: Evaluating Misconceptions of Islam and Muslims World-Wide,” First Presbyterian Church of Richland, Richland, MI, Invited Speaker (4 February 2007) 
 
-## Media Coverage, Appearances, Interviews
+# Media Coverage
 
 - Patrick Seelinger, "[Scraping for Secrets on Online Drug Forums](http://endeavors.unc.edu/scraping_for_secrets_on_online_drug_forums)," *Endeavors* (ISSN 1933-4338) (20 October 2016)  
 - Shalini Karnani, “Modern Religion and Spirituality Series II,” Just Friendly Advice, WKMI TalkRadio 1360AM, Kalamazoo, MI, Invited Guest (29 July 2007) 
