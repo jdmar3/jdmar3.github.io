@@ -181,7 +181,7 @@ PhD student in the School of Information and Library Science at the University o
 
 # Community and Service Activities 
 
-- ASIS&T Special Interest Group on Arts and Humanities (SIG-AH) (2016)
+- Events officer, ASIS&T Special Interest Group on Arts and Humanities (SIG-AH) (2016)
 - Digital Humanities Editor and Web Editor, ACM SIGCAS Computing and Society (2016)
 - Doctoral Student Representative, Personnel Committee, School of Information and Library Science, University of North Carolina at Chapel Hill (2014-2015 academic year) 
 - Doctoral Student Representative, Research and Doctoral Committee, School of Information and Library Science, University of North Carolina at Chapel Hill (2013-2014 academic year) 
