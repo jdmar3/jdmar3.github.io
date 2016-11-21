@@ -93,6 +93,8 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Conference presentations
 
+- Tessa Joseph-Nicholas, Laurel Foote-Hudson, Femi Alabi, Jacob Vosburgh, John D. Martin III, "Coding Diversity, Diversities of Code: Reading and Writing Leadership in Technology and
+Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona State University, Tempe, Arizona (11-15 May 2016)
 - Mohamed Hamed, John D. Martin III, "Middle East Library Partnership Project," *Middle East Librarians Association Annual Meeting,* Denver, Colorado (19-20 November 2015) 
 - Kaitlin Costello, John D. Martin III, and Ashlee Edwards, "'Dude… I Zone Out Like That All the Time': Banter as Phatic Communication in the Context of Online Discussion Forums Focused on Illicit Behavior," *11th Social Informatics Research Symposium: The Impacts of Social Informatics Research,* 2015 Annual Meeting of the Association for Information Science and Technology (ASIS&T), St. Louis, Missouri (7 November 2015) 
 - John D. Martin III and Carolyn Runyon, "Digital Cultural Hegemony: Project Funding Trends and Impact on Digital Access to Cultural Heritage," *HASTAC 2015: Art and Science of Digital Humanities,* Michigan State University, East Lansing, Michigan (27-31 May 2015) 
