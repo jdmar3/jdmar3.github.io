@@ -183,13 +183,14 @@ Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona
 
 # Community and Service Activities 
 
-- Events officer, ASIS&T Special Interest Group on Arts and Humanities (SIG-AH) (2016)
-- Digital Humanities Editor and Web Editor, ACM SIGCAS Computing and Society (2016)
-- Doctoral Student Representative, Personnel Committee, School of Information and Library Science, University of North Carolina at Chapel Hill (2014-2015 academic year) 
+- Nominating committee for executive officers, ACM SIGCAS Computing and Society (2016)
+- Events officer, ASIS&T Special Interest Group on Arts and Humanities (SIG-AH) (2016-2017)
+- Digital Humanities Editor and Web Editor, ACM SIGCAS Computing and Society (2016-2017)
+- Doctoral Student Representative, Personnel Committee, School of Information and Library Science, University of North Carolina at Chapel Hill (2014-2015) 
 - Doctoral Student Representative, Research and Doctoral Committee, School of Information and Library Science, University of North Carolina at Chapel Hill (2013-2014 academic year) 
 - Full-time Representative, Doctoral Students Association, School of Information and Library Science, University of North Carolina at Chapel Hill (2013) 
 - Editor-at-large, Digital Humanities Now (2013) 
-- Committee Member, Islamicate Graduate Student Association, University of North Carolina at Chapel Hill (2012-2013 academic year) 
+- Committee Member, Islamicate Graduate Student Association, University of North Carolina at Chapel Hill (2012-2013) 
 
 # Specialized Training
 
