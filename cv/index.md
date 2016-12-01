@@ -59,7 +59,7 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Conference Proceedings
 
-- Sylvia K. Miller, David Phillips, Courtney Berger, Marjorie Fowler, Rebecca Kennison, John D. Martin III, John McLeod, and Chelcie Rowell, "Publishing Makerspace: A New Approach to Scholarly Publishing," *Where Do We Go from Here?: Charleston Conference Proceedings* (2-7 November 2015)
+- Sylvia K. Miller, David Phillips, Courtney Berger, Marjorie Fowler, Rebecca Kennison, John D. Martin III, John McLeod, and Chelcie Rowell, "[Publishing Makerspace: A New Approach to Scholarly Publishing](/published/Miller-et-al-2016-Publishing-Makerspace-Charleston.pdf)," *Where Do We Go from Here?: Proceedings of the Charleston Library Conference Proceedings* (2015) https://doi.org/10.5703/1288284316324
 - Barbara B. Moran, Sumayya Ahmed, Amanda B. Click, Jacob Hill, and John D. Martin III, "[Flexible Strategies for Uncertain Times: An Innovative Approach to LIS Education in the Middle East and North Africa](/published/Moran-et-al-2014-Flexible-strategies-IFLA.pdf)," *Libraries, Citizens, Societies: Confluence for Knowledge: IFLA WLIC 2014,* Lyon, France (16-22 August 2014) http://library.ifla.org/848/ 
 
 ## Posters
