@@ -29,6 +29,7 @@ git clone --single-branch --branch=$BUILDBRANCH  $REMOTEUSERNAME@$REMOTEADDR:$GI
 #rm -r $TEMPDIR/*
 #git commit -a -m "Clear previous build"
 # Build Jekyll site
+JEKYLL_ENV=production
 jekyll build -s $WORKDIR -d $TEMPDIR
 # Add new build to git 
 git add -v .
