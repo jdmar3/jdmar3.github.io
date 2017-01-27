@@ -10,6 +10,8 @@ enforce-ssl: "johndmart.in"
 
 name: jdmar3
 
+google-analytics: UA-91043800-1
+
 #markdown: kramdown
 #kramdown:
 
