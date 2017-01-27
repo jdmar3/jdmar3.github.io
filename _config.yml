@@ -10,7 +10,7 @@ enforce-ssl: "johndmart.in"
 
 name: jdmar3
 
-google-analytics: UA-91043800-1
+google_analytics: UA-91043800-1 # https://desiredpersona.com/google-analytics-jekyll/
 
 #markdown: kramdown
 #kramdown:
