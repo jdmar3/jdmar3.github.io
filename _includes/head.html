@@ -30,7 +30,7 @@
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
 
-{% if site.google_analytics and jekyll.environment == 'production' %}
+{% if site.google_analytics %}
 {% include analytics.html %}
 {% endif %}
 </head>
