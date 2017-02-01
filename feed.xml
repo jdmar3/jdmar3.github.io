@@ -5,8 +5,8 @@
     <description>PhD student in the School of Information and Library Science at University of North Carolina at Chapel Hill.</description>
     <link>https://johndmart.in/</link>
     <atom:link href="https://johndmart.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Feb 2017 15:54:57 -0500</pubDate>
-    <lastBuildDate>Wed, 01 Feb 2017 15:54:57 -0500</lastBuildDate>
+    <pubDate>Wed, 01 Feb 2017 17:28:13 -0500</pubDate>
+    <lastBuildDate>Wed, 01 Feb 2017 17:28:13 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -67,7 +67,7 @@ More on that later. &lt;/p&gt;
 We also learned about using GitHub&amp;#39;s social layer to coordinate and assign tasks to individual developers of groups. &lt;/p&gt;
 
 &lt;p&gt;In the design charrette, they self-organized into teams based on what they were skilled at and interested in learning more about.
-The teams are things like: programming, visual design, interaction design, branding, documentation. The teams will focus on parts of project&lt;/p&gt;
+The teams are things like: programming, visual design, interaction design, branding, documentation. &lt;/p&gt;
 
 &lt;p&gt;Through this process, and throughout the course, we&amp;#39;re going to continue discussing collaboration, workflow management, leadership, organizational skills.
 My aim is to have them become comfortable with many of the aspects of large team project management that they would not have otherwise.&lt;/p&gt;
@@ -79,7 +79,7 @@ I have 20 students.
 This would have been an immense amount of work for me as the instructor and the focus of evaulation would be on the content of their projects, rather than on how to work and think. &lt;/p&gt;
 
 &lt;p&gt;With this approach, they will learn to work through development with a large team AND on a real project. I recruited a &amp;quot;resident entrepreneur&amp;quot; for the class: Erica Young, founder of Raleigh Dynamics, a startup specializing in amplifier hardware.
-She is an electronics engineer who is working with &lt;a href=&quot;https://en.wikipedia.org/wiki/Software-defined_radio&quot;&gt;Software Defied Radio&lt;/a&gt; (SDR) and wants to expand the market for these devices.&lt;/p&gt;
+She is an electronics engineer who is working with &lt;a href=&quot;https://en.wikipedia.org/wiki/Software-defined_radio&quot;&gt;Software Defined Radio&lt;/a&gt; (SDR) and wants to expand the market for these devices.&lt;/p&gt;
 
 &lt;p&gt;SDR is &lt;em&gt;HARD&lt;/em&gt; for novice users. 
 The project for this course is to design and build a plugin for &lt;a href=&quot;http://gnuradio.org/&quot;&gt;GNURadio&lt;/a&gt;, an open-source SDR programming environment.
