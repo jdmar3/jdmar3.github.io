@@ -31,7 +31,7 @@ We usually have to find our own way through, and no set of technical skills will
 
 We are not teaching (or encouraged to teach) how to work through problems, how to collaborate, or how to figure out what skills you need and then go about getting them. 
 
-## An alternative approach
+# An alternative approach
 
 I am teaching a user interface design class this semester. 
 I decided to experiment and try to overtly teach "soft skills."
@@ -65,7 +65,7 @@ The teams are things like: programming, visual design, interaction design, brand
 Through this process, and throughout the course, we're going to continue discussing collaboration, workflow management, leadership, organizational skills.
 My aim is to have them become comfortable with many of the aspects of large team project management that they would not have otherwise.
 
-## Everyone works together
+# Everyone works together
 
 I could have had all of them select a project and do a critique and redesign. 
 I have 20 students.
@@ -88,7 +88,7 @@ None of the grading for the class is related to what they do for the project, bu
 It's all self- and peer-evaluation.
 My aim is to create a design team instead of a class, which then makes the course about working on a design team, linking back to theory.
 
-## Will it work?
+# Will it work?
 
 I hope it works. 
 It's going well so far. 
