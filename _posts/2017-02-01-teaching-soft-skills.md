@@ -72,7 +72,7 @@ I have 20 students.
 This would have been an immense amount of work for me as the instructor and the focus of evaulation would be on the content of their projects, rather than on how to work and think. 
 
 With this approach, they will learn to work through development with a large team AND on a real project. I recruited a "resident entrepreneur" for the class: Erica Young, founder of Raleigh Dynamics, a startup specializing in amplifier hardware.
-She is an electronics engineer who is working with [Software Defied Radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR) and wants to expand the market for these devices.
+She is an electronics engineer who is working with [Software Defined Radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR) and wants to expand the market for these devices.
 
 SDR is *HARD* for novice users. 
 The project for this course is to design and build a plugin for [GNURadio](http://gnuradio.org/), an open-source SDR programming environment.
