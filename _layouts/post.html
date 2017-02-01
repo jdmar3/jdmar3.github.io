@@ -1,8 +1,15 @@
 ---
 layout: default
 ---
-<h1>{{ page.title}}</h1>
-<p class="subtitle">{{ page.date | date: "%B %-d, %Y" }}</p>
+<a href="{{ page.url | prepend: site.baseurl }}"><h1 class="contrast">{{ page.title }}</h1></a>
+{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}
+<br/><span class="smaller">{{ page.date | date: "%B %-d, %Y" }}</span>  <br/>
 
 {{ content }}
 
+<p>
+  <br/>
+  <ul class="tags">
+    {% for tag in page.tags %}<li><a href="/blog/topics#{{ tag | cgi_escape }}" class="tag">{{ tag | replace: " ", "-" }}</a></li>{% endfor %}
+  </ul> 
+</p>

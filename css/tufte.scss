@@ -371,7 +371,7 @@ div.table-wrapper { overflow-x: auto } //changed all overflow values to 'auto' s
     figure { max-width: 90%; }
     figcaption, figure.fullwidth figcaption { margin-right: 0%;
         max-width: none; }
-    blockquote p, blockquote footer {  width: 80%;
+    blockquote p, blockquote footer {  width: 45%;
         padding-left: 5%;
         padding-right: 5%; }
 }
@@ -393,7 +393,9 @@ pre, pre code, p pre code { //width: 52.5%;
 
 .fullwidth/*, li.listing div*/{ max-width: 90%; }
 
-.full-width { .sidenote, .sidenote-number, .marginnote { display: none; } }
+.fullwidth blockquote p { width: 45% !important; }
+
+.fullwidth { .sidenote, .sidenote-number, .marginnote { display: none; } }
 
 .fullwidth div.highlight {
   width: 90%;
@@ -583,7 +585,8 @@ ul.content-listing li.listing div{
 }
 
 ul.content-listing li.listing div p{
-  text-align: justify;
+  text-align: left;
+	//text-align: justify;
 }
 
 ul.content-listing li.listing

@@ -1,4 +1,12 @@
 <footer>
+  <div class="blognav">
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}">&laquo;&nbsp;<span class="smaller">Previous:</span>&nbsp;{{page.previous.title}}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}"><span class="smaller">Next:</span>&nbsp;{{page.next.title}}&nbsp;&raquo;</a>
+    {% endif %}
+  </div>
   <hr class="slender">
   <ul class="footer-links">
     {% for social_hash in site.data.social %}
