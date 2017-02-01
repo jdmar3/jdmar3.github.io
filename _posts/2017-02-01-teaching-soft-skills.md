@@ -7,12 +7,12 @@ tags: [ pedagogy, UX, user experience, teaching, SILS, UNC, soft skills ]
 excerpt_separator: <!--more-->
 ---
 
-{% newthought 'Lisa Given ([@lisalibrarian](https://twitter.com/lisalibrarian)) tweeted this morning' %} about training and hiring for *all* skills rather than just technical skills. 
+{% newthought 'Lisa Hinchliffe ([@lisalibrarian](https://twitter.com/lisalibrarian)) tweeted this morning' %} about training and hiring for *all* skills rather than just technical skills. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Training and hiring for all the skills not just technical ones.  <a href="https://t.co/4SEJGL4eMx">https://t.co/4SEJGL4eMx</a></p>&mdash; Lisa Hinchliffe (@lisalibrarian) <a href="https://twitter.com/lisalibrarian/status/826770553839161344">February 1, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-From that the [linked article](https://medium.com/@thisissethsblog/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.hjltmp5pz) by Seth Godin: 
+From the [linked article](https://medium.com/@thisissethsblog/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.hjltmp5pz) by Seth Godin: 
 
 > Along the way, we’ve confirmed that vocational skills can be taught (you’re not born knowing engineering or copywriting or even graphic design, therefore they must be something we can teach), while we let ourselves off the hook when it comes to decision making, eager participation, dancing with fear, speaking with authority, working in teams, seeing the truth, speaking the truth, inspiring others, doing more than we’re asked, caring and being willing to change things.
 
