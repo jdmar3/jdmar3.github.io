@@ -95,7 +95,7 @@ It's going well so far.
 It's a little scary (for both me and students) to have such a wide open plan.
 
 But this is what the world is actually like. No one spoon feeds you in real design projects. You just have to dive in.
-I'm just trying to make sure that we all stay in the deep end AND keep swimming once we're there.
+I'm just trying to make sure that we all dive into the deep end AND keep swimming once we're there.
 The best part is that students are responding by showing up with ideas, suggestions, plans and they are not afraid to talk about them.
 
 And we're only really in the third week. 
