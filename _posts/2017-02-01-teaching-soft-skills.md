@@ -60,7 +60,7 @@ During Elliott's GitHub tutorial, everyone got to create files, make commits, an
 We also learned about using GitHub's social layer to coordinate and assign tasks to individual developers of groups. 
 
 In the design charrette, they self-organized into teams based on what they were skilled at and interested in learning more about.
-The teams are things like: programming, visual design, interaction design, branding, documentation. The teams will focus on parts of project
+The teams are things like: programming, visual design, interaction design, branding, documentation. 
 
 Through this process, and throughout the course, we're going to continue discussing collaboration, workflow management, leadership, organizational skills.
 My aim is to have them become comfortable with many of the aspects of large team project management that they would not have otherwise.

@@ -69,14 +69,14 @@ PhD student in the School of Information and Library Science at the University o
 # Teaching
 
 - Teaching Fellow (instructor of record), School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2017)
-	- INLS 780, User Interface Design (Spring 2017)
-	- INLS 500, [Human Information Interaction](http://inls500.johndmart.in) (Fall 2015/2016)
-	- INLS 161, [Tools for Information Literacy](http://inls161.johndmart.in) (Summer II 2015/2016)
+	- INLS 780, [User Interface Design](https://inls718.johndmart.in) (Spring 2017)
+	- INLS 500, [Human Information Interaction](https://inls500.johndmart.in) (Fall 2015/2016)
+	- INLS 161, [Tools for Information Literacy](https://inls161.johndmart.in) (Summer II 2015/2016)
 - Graduate Research Consultant, Office for Undergraduate Research, University of North Carolina at Chapel Hill (Fall 2016)
 	- COMP 380/380H (Fall 2016)
 - Writing Coach, Western Michigan University, Dept. of Comparative Religion, Kalamazoo, MI (Spring 2012)
 - Teaching Assistant, American University in Cairo, Dept. of Arab and Islamic Civilizations, Cairo, Egypt (Spring 2009-Fall 2011)
-- Intensive English and Computing Workshop (with Jeffery A. Wardwell), Desert Development Training Center (DDTC-المركز التكنولوجي المتكامل), New Basaisa, Ras Sudr, South Sinai (August 2010) 
+- Instructor, Intensive English and Computing Workshop, Desert Development Training Center (DDTC-المركز التكنولوجي المتكامل), New Basaisa, Ras Sudr, South Sinai (August 2010) 
 - Graduate Technology Assistant, American University in Cairo, Center for Learning and Teaching, Cairo, Egypt (Fall 2008-Summer 2010)
 - Teaching Assistant, Western Michigan University, Dept. of Comparative Religion, Kalamazoo, MI (Fall 2004-Spring 2005)
 
