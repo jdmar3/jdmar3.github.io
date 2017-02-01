@@ -5,9 +5,136 @@
     <description>PhD student in the School of Information and Library Science at University of North Carolina at Chapel Hill.</description>
     <link>https://johndmart.in/</link>
     <atom:link href="https://johndmart.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Jan 2017 11:53:41 -0500</pubDate>
-    <lastBuildDate>Mon, 30 Jan 2017 11:53:41 -0500</lastBuildDate>
+    <pubDate>Wed, 01 Feb 2017 13:41:29 -0500</pubDate>
+    <lastBuildDate>Wed, 01 Feb 2017 13:41:29 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Teaching soft skills</title>
+        <description>&lt;p&gt;&lt;span class=&#39;newthought&#39;&gt;Lisa Given (&lt;a href=&quot;https://twitter.com/lisalibrarian&quot;&gt;@lisalibrarian&lt;/a&gt;) tweeted this morning&lt;/span&gt;  about training and hiring for &lt;em&gt;all&lt;/em&gt; skills rather than just technical skills. &lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Training and hiring for all the skills not just technical ones.  &lt;a href=&quot;https://t.co/4SEJGL4eMx&quot;&gt;https://t.co/4SEJGL4eMx&lt;/a&gt;&lt;/p&gt;&amp;mdash; Lisa Hinchliffe (@lisalibrarian) &lt;a href=&quot;https://twitter.com/lisalibrarian/status/826770553839161344&quot;&gt;February 1, 2017&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;From that the &lt;a href=&quot;https://medium.com/@thisissethsblog/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.hjltmp5pz&quot;&gt;linked article&lt;/a&gt; by Seth Godin: &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Along the way, we’ve confirmed that vocational skills can be taught (you’re not born knowing engineering or copywriting or even graphic design, therefore they must be something we can teach), while we let ourselves off the hook when it comes to decision making, eager participation, dancing with fear, speaking with authority, working in teams, seeing the truth, speaking the truth, inspiring others, doing more than we’re asked, caring and being willing to change things.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This brought back some thoughts I&amp;#39;ve had recently about students&amp;#39; expectations in some of the courses that I&amp;#39;ve taught. &lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;They want a lot of information about what will be done up front. 
+They want to be taught specific technical skills so they can put them on a resume. 
+They want to have a path laid out before them and be able to go along it, checking the boxes as they go.
+They want to do work and receive a grade and get a degree and get a job, and so on. 
+Of course, not all students want this, but we have structured our institutions such that they often expect these things from us as instructors, whether any of us knows that is happening or not. &lt;/p&gt;
+
+&lt;p&gt;The problem is that the world doesn&amp;#39;t really work like this. 
+We usually have to find our own way through, and no set of technical skills will help with that without the second half of Seth Godin&amp;#39;s list above. &lt;/p&gt;
+
+&lt;p&gt;We are not teaching (or encouraged to teach) how to work through problems, how to collaborate, or how to figure out what skills you need and then go about getting them. &lt;/p&gt;
+
+&lt;h2 id=&quot;an-alternative-approach&quot;&gt;An alternative approach&lt;/h2&gt;
+
+&lt;p&gt;I am teaching a user interface design class this semester. 
+I decided to experiment and try to overtly teach &amp;quot;soft skills.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;Instead of lecturing from a bunch of readings and teaching them technical skills, the whole course is organized around planning and executing a single semester-long project.&lt;/p&gt;
+
+&lt;p&gt;The first week we discussed collaboration and social design, and then had a comprehensive crash course on using GitHub by my colleague &lt;a href=&quot;https://twitter.com/hauspoor&quot;&gt;Elliott Hauser&lt;/a&gt;.
+The 2nd week, we talked about the complexity of the design process, and then collectively used a &amp;quot;&lt;a href=&quot;https://www.nngroup.com/articles/design-charrettes/&quot;&gt;design charrette&lt;/a&gt;&amp;quot; to come up with a plan.
+This week, we discussed ways to research users, and then will start making user profiles on Thursday.&lt;/p&gt;
+
+&lt;p&gt;Tuesdays are discussion days for which there are assigned topical readings. 
+This doesn&amp;#39;t mean that discussion days are not interactive. 
+Yesterday, we watched the first 15 minutes of Alfred Hitchcock&amp;#39;s &lt;em&gt;Read Window&lt;/em&gt; (1954) and critiqued it as an example of how deliberate choices can be made to craft an experience that will be different for each indivisual viewer (user) but will engage them all in similar or overlapping ways. 
+One student pointed out that the window shades going up during the opening credits was like a progress bar.
+It subtly told the viewer when the credits would be over.&lt;/p&gt;
+
+&lt;p&gt;This activity was inspired by Luke Miller&amp;#39;s mention of the film in the opening chapter of his book, &lt;a href=&quot;https://www.amazon.com/Practitioners-Guide-User-Experience-Design/dp/1455548588&quot;&gt;&lt;em&gt;The Practitioner&amp;#39;s Guide to User Experience Design.&lt;/em&gt;&lt;/a&gt;
+It led to a good discussion about ways we might understand different users perspectives, needs, and expectations. &lt;/p&gt;
+
+&lt;p&gt;Thursdays are work days during which we actually do some part of the project all in the same space together.
+This week, we will have a live demo of the platform that is the focus of the project. 
+Students are going to get to interact with hardware and actually try out an existing software environment. 
+More on that later. &lt;/p&gt;
+
+&lt;p&gt;During Elliott&amp;#39;s GitHub tutorial, everyone got to create files, make commits, and create pull requests. 
+We also learned about using GitHub&amp;#39;s social layer to coordinate and assign tasks to individual developers of groups. &lt;/p&gt;
+
+&lt;p&gt;In the design charrette, they self-organized into teams based on what they were skilled at and interested in learning more about.
+The teams are things like: programming, visual design, interaction design, branding, documentation. The teams will focus on parts of project&lt;/p&gt;
+
+&lt;p&gt;Through this process, and throughout the course, we&amp;#39;re going to continue discussing collaboration, workflow management, leadership, organizational skills.
+My aim is to have them become comfortable with many of the aspects of large team project management that they would not have otherwise.&lt;/p&gt;
+
+&lt;h2 id=&quot;everyone-works-together&quot;&gt;Everyone works together&lt;/h2&gt;
+
+&lt;p&gt;I could have had all of them select a project and do a critique and redesign. 
+I have 20 students.
+This would have been an immense amount of work for me as the instructor and the focus of evaulation would be on the content of their projects, rather than on how to work and think. &lt;/p&gt;
+
+&lt;p&gt;With this approach, they will learn to work through development with a large team AND on a real project. I recruited a &amp;quot;resident entrepreneur&amp;quot; for the class: Erica Young, founder of Raleigh Dynamics, a startup specializing in amplifier hardware.
+She is an electronics engineer who is working with &lt;a href=&quot;https://en.wikipedia.org/wiki/Software-defined_radio&quot;&gt;Software Defied Radio&lt;/a&gt; (SDR) and wants to expand the market for these devices.&lt;/p&gt;
+
+&lt;p&gt;SDR is &lt;em&gt;HARD&lt;/em&gt; for novice users. 
+The project for this course is to design and build a plugin for &lt;a href=&quot;http://gnuradio.org/&quot;&gt;GNURadio&lt;/a&gt;, an open-source SDR programming environment.
+The aim for the plugin is to walk users through setting up an SDR using direct manipulation and showing users how one setting affects the others.
+The most difficult part about using an SDR is understanding the tradeoffs when selecting setting and building a network.&lt;/p&gt;
+
+&lt;p&gt;The best part about all of this is that none of the students have any experience with this.
+So like most UX projects, an engineer came to them with a bunch of requirements, requests, and desiderata in a completely unfamiliar space.
+They will collectively, collaboratively work their way through the process. 
+I&amp;#39;m just there to facilitate that process.&lt;/p&gt;
+
+&lt;p&gt;None of the grading for the class is related to what they do for the project, but rather how they do it. 
+It&amp;#39;s all self- and peer-evaluation.
+My aim is to create a design team instead of a class, which then makes the course about working on a design team, linking back to theory.&lt;/p&gt;
+
+&lt;h2 id=&quot;will-it-work&quot;&gt;Will it work?&lt;/h2&gt;
+
+&lt;p&gt;I hope it works. 
+It&amp;#39;s going well so far. 
+It&amp;#39;s a little scary (for both me and students) to have such a wide open plan.&lt;/p&gt;
+
+&lt;p&gt;But this is what the world is actually like. No one spoon feeds you in real design projects. You just have to dive in.
+I&amp;#39;m just trying to make sure that we all stay in the deep end AND keep swimming once we&amp;#39;re there.
+The best part is that students are responding by showing up with ideas, suggestions, plans and they are not afraid to talk about them.&lt;/p&gt;
+
+&lt;p&gt;And we&amp;#39;re only really in the third week. 
+I can&amp;#39;t wait to see what they do by the end of the course. 
+It&amp;#39;s going to be interesting, regardless.&lt;/p&gt;
+
+&lt;p&gt;The syllabus lives here, if you&amp;#39;re interested in looking at the readings and project outline: &lt;a href=&quot;https://inls718.johndmart.in&quot;&gt;https://inls718.johndmart.in&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;This post was inspired by a &lt;a href=&quot;https://twitter.com/jdmar3/status/826795277189337089&quot;&gt;Twitter thread&lt;/a&gt; on the topic.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Feb 2017 08:00:00 -0500</pubDate>
+        <link>https://johndmart.in/teaching/2017/02/01/teaching-soft-skills/</link>
+        <guid isPermaLink="true">https://johndmart.in/teaching/2017/02/01/teaching-soft-skills/</guid>
+        
+        <category>pedagogy</category>
+        
+        <category>UX</category>
+        
+        <category>user experience</category>
+        
+        <category>teaching</category>
+        
+        <category>SILS</category>
+        
+        <category>UNC</category>
+        
+        <category>soft skills</category>
+        
+        
+        <category>teaching</category>
+        
+      </item>
     
   </channel>
 </rss>

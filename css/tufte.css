@@ -548,7 +548,7 @@ div.table-wrapper {
     max-width: none; }
 
   blockquote p, blockquote footer {
-    width: 80%;
+    width: 45%;
     padding-left: 5%;
     padding-right: 5%; } }
 .marginnote code, .sidenote code {
@@ -569,7 +569,10 @@ pre, pre code, p pre code {
 .fullwidth {
   max-width: 90%; }
 
-.full-width .sidenote, .full-width .sidenote-number, .full-width .marginnote {
+.fullwidth blockquote p {
+  width: 45% !important; }
+
+.fullwidth .sidenote, .fullwidth .sidenote-number, .fullwidth .marginnote {
   display: none; }
 
 .fullwidth div.highlight {
@@ -775,7 +778,7 @@ ul.content-listing li.listing div {
   width: 100%; }
 
 ul.content-listing li.listing div p {
-  text-align: justify; }
+  text-align: left; }
 
 ul.content-listing li.listing {
   width: 100%;
