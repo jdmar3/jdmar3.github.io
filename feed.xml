@@ -5,8 +5,8 @@
     <description>PhD student in the School of Information and Library Science at University of North Carolina at Chapel Hill.</description>
     <link>https://johndmart.in/</link>
     <atom:link href="https://johndmart.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Feb 2017 17:33:29 -0500</pubDate>
-    <lastBuildDate>Sun, 05 Feb 2017 17:33:29 -0500</lastBuildDate>
+    <pubDate>Sun, 05 Feb 2017 17:36:18 -0500</pubDate>
+    <lastBuildDate>Sun, 05 Feb 2017 17:36:18 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -32,7 +32,7 @@ It had all the packages I need to run GNURadio with SDR devices, so I decided to
 &lt;p&gt;I followed the instructions available on the &lt;a href=&quot;https://wiki.galliumos.org/Installing&quot;&gt;GalliumOS wiki&lt;/a&gt; for my hardware (&lt;a href=&quot;https://wiki.galliumos.org/Installing/Baytrail&quot;&gt;Intel Baytrail&lt;/a&gt;), which requires a firmware update before the install can begin. &lt;/p&gt;
 
 &lt;p&gt;I should add that the Chromebook was already in &lt;a href=&quot;https://wiki.galliumos.org/Installing/Preparing&quot;&gt;developer mode&lt;/a&gt; before I began. 
-The GalliumOS involved downloading and running the &lt;a href=&quot;https://chrx.org/#usage&quot;&gt;install script&lt;/a&gt; once to update the firmware and install the legacy bootloader.&lt;label for=&#39;warning&#39; class=&#39;margin-toggle sidenote-number&#39;&gt;&lt;/label&gt;&lt;input type=&#39;checkbox&#39; id=&#39;warning&#39; class=&#39;margin-toggle&#39;/&gt;&lt;span class=&#39;sidenote&#39;&gt;It is really important to actually look at and understand the scripts that you are downloading before you run them using sudo. It is better to download the script first and then run it, in my opinion, but everyone makes their own choices. &lt;/span&gt; 
+The GalliumOS involved downloading and running the &lt;a href=&quot;https://chrx.org/#usage&quot;&gt;install script&lt;/a&gt; once to update the firmware and install the legacy bootloader.&lt;label for=&#39;warning&#39; class=&#39;margin-toggle sidenote-number&#39;&gt;&lt;/label&gt;&lt;input type=&#39;checkbox&#39; id=&#39;warning&#39; class=&#39;margin-toggle&#39;/&gt;&lt;span class=&#39;sidenote&#39;&gt;It is really important to actually look at and understand the scripts that you are downloading before you run them using sudo. The method on the CHRX page uses several commands strung together which download and then run the script without pausing. It is better to download the script first and then run it, in my opinion, but everyone makes their own choices. &lt;/span&gt; 
 This powerwashes and &amp;quot;repairs&amp;quot; the Chromebook to repartition the SSD.
 Then, after a reboot, downloading and running the same script. &lt;/p&gt;
 
