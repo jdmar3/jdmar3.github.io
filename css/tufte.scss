@@ -195,7 +195,7 @@ h1 code, h2 code, h3 code { font-size: 0.80em; } //left in for no real reason
 
 /*-- Table styling section - For Tufte-Jekyll, booktabs style is default for Markdown tables  --*/
 
-table, table.booktabs { width: auto;  //making booktabs style tables the unstyled default in case someone uses Markdown styling
+table, table.booktabs { width: 85%; //width: auto;  //making booktabs style tables the unstyled default in case someone uses Markdown styling
                  margin: 0 auto 0 0;
                  border-spacing: 0px;
                  border-top: 2px solid $border-color;
@@ -371,7 +371,7 @@ div.table-wrapper { overflow-x: auto } //changed all overflow values to 'auto' s
     figure { max-width: 90%; }
     figcaption, figure.fullwidth figcaption { margin-right: 0%;
         max-width: none; }
-    blockquote p, blockquote footer {  width: 45%;
+    blockquote p, blockquote footer {  width: 80%;
         padding-left: 5%;
         padding-right: 5%; }
 }
@@ -393,9 +393,7 @@ pre, pre code, p pre code { //width: 52.5%;
 
 .fullwidth/*, li.listing div*/{ max-width: 90%; }
 
-.fullwidth blockquote p { width: 45% !important; }
-
-.fullwidth { .sidenote, .sidenote-number, .marginnote { display: none; } }
+.full-width { .sidenote, .sidenote-number, .marginnote { display: none; } }
 
 .fullwidth div.highlight {
   width: 90%;
@@ -585,8 +583,7 @@ ul.content-listing li.listing div{
 }
 
 ul.content-listing li.listing div p{
-  text-align: left;
-	//text-align: justify;
+  text-align: justify;
 }
 
 ul.content-listing li.listing
@@ -687,8 +684,8 @@ hr.slender {
       //border-top: 1px solid #000;
       margin-top: 50pt; // added by JDM
       padding-top: 4pt; // added by JDM
-      border-top: 1px solid #000; // added by JDM
-      display: none; // added by JDM
+      //border-top: 1px solid #000; // added by JDM
+      //display: none; // added by JDM
     }
 
     thead {
@@ -1050,4 +1047,7 @@ hr.slender {
 }
 .ico-target:before {
     content: "\e6f6";
+}
+.ico-blogger:before {
+		content: "\e64b"
 }

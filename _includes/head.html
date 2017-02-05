@@ -9,8 +9,10 @@
         window.location.protocol = "https";
   </script>
 
-  <title>{% if page.title %}{{ site.title }}&nbsp;|&nbsp;{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>{% if page.title %}{{ page.title }}&nbsp;|&nbsp;{{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}">
+  {% if site.keywords or page.tags %}<meta name="keywords" content="{% if page.tags %}{{ page.tags | join: ', ' }}{% endif %}{% if site.keywords %}, {{ site.keywords | join: ', ' }}{% endif %}">{% endif %}
+  {% if site.author or page.author %}<meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">{% endif %}
 
   <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
   {% if site.data.options.lato_font_load %}
