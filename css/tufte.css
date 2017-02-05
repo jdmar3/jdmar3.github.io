@@ -337,7 +337,7 @@ h1 code, h2 code, h3 code {
 
 /*-- Table styling section - For Tufte-Jekyll, booktabs style is default for Markdown tables  --*/
 table, table.booktabs {
-  width: auto;
+  width: 85%;
   margin: 0 auto 0 0;
   border-spacing: 0px;
   border-top: 2px solid #333333;
@@ -548,7 +548,7 @@ div.table-wrapper {
     max-width: none; }
 
   blockquote p, blockquote footer {
-    width: 45%;
+    width: 80%;
     padding-left: 5%;
     padding-right: 5%; } }
 .marginnote code, .sidenote code {
@@ -558,21 +558,18 @@ div.highlight {
   width: 55%; }
 
 code {
-  color: #bbb; }
+  color: #333; }
 
 pre, pre code, p pre code {
   padding-left: 1.25%;
   overflow-x: auto;
   color: #bbb;
-  background: #222; }
+  background: #333; }
 
 .fullwidth {
   max-width: 90%; }
 
-.fullwidth blockquote p {
-  width: 45% !important; }
-
-.fullwidth .sidenote, .fullwidth .sidenote-number, .fullwidth .marginnote {
+.full-width .sidenote, .full-width .sidenote-number, .full-width .marginnote {
   display: none; }
 
 .fullwidth div.highlight {
@@ -778,7 +775,7 @@ ul.content-listing li.listing div {
   width: 100%; }
 
 ul.content-listing li.listing div p {
-  text-align: left; }
+  text-align: justify; }
 
 ul.content-listing li.listing {
   width: 100%;
@@ -854,9 +851,7 @@ hr.slender {
     font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
     font-size: 9pt;
     margin-top: 50pt;
-    padding-top: 4pt;
-    border-top: 1px solid #000;
-    display: none; }
+    padding-top: 4pt; }
 
   thead {
     display: table-header-group; }
@@ -1189,3 +1184,6 @@ hr.slender {
 
 .ico-target:before {
   content: "\e6f6"; }
+
+.ico-blogger:before {
+  content: ""; }

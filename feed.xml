@@ -5,9 +5,97 @@
     <description>PhD student in the School of Information and Library Science at University of North Carolina at Chapel Hill.</description>
     <link>https://johndmart.in/</link>
     <atom:link href="https://johndmart.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Feb 2017 17:28:13 -0500</pubDate>
-    <lastBuildDate>Wed, 01 Feb 2017 17:28:13 -0500</lastBuildDate>
+    <pubDate>Sun, 05 Feb 2017 17:33:29 -0500</pubDate>
+    <lastBuildDate>Sun, 05 Feb 2017 17:33:29 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>GalliumOS on Chromebook</title>
+        <description>&lt;p&gt;&lt;span class=&#39;newthought&#39;&gt;I have had a Chromebook for a few years&lt;/span&gt;  and have always wanted to put a real Linux distribution on it. 
+This weekend my friend &lt;a href=&quot;https://twitter.com/hauspoor&quot;&gt;Elliott Hauser&lt;/a&gt; showed me &lt;a href=&quot;https://galliumos.org/&quot;&gt;GalliumOS&lt;/a&gt;, which is being developed as a full but lightweight GNU/Linux distribution for Chromebooks. &lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;This desire to have real Linux on my Chromebook was recently rekindled while working with students to install &lt;a href=&quot;https://www.kali.org/&quot;&gt;Kali Linux&lt;/a&gt; so that we can work on a &lt;a href=&quot;http://gnuradio.org/&quot;&gt;GNURadio&lt;/a&gt; project in &lt;a href=&quot;https://inls718.johndmart.in&quot;&gt;class&lt;/a&gt;. 
+I wanted to install Kali on the Lenovo N20P that I have been carrying everywhere for the last 2+ years, and so I tried &lt;a href=&quot;https://github.com/dnschneid/crouton&quot;&gt;Crouton&lt;/a&gt;, since it has Kali as one of the available distributions. &lt;/p&gt;
+
+&lt;p&gt;I couldn&amp;#39;t get it to actually start the desktop environment, though. 
+It would take the start command and then go to blank screen and then do nothing past that. &lt;/p&gt;
+
+&lt;h1 id=&quot;chrx&quot;&gt;CHRX&lt;/h1&gt;
+
+&lt;p&gt;I mentioned this to Elliott and he suggested using &lt;a href=&quot;https://github.com/reynhout/chrx&quot;&gt;CHRX&lt;/a&gt; to set up a real dual-boot instead of Crouton, which just places another Linux chroot inside ChromeOS. 
+Kali Linux was not one of the install options, but GalliumOS 
+I played around with it on one of his devices and was pretty impressed. 
+It had all the packages I need to run GNURadio with SDR devices, so I decided to give it a try. &lt;/p&gt;
+
+&lt;p&gt;I followed the instructions available on the &lt;a href=&quot;https://wiki.galliumos.org/Installing&quot;&gt;GalliumOS wiki&lt;/a&gt; for my hardware (&lt;a href=&quot;https://wiki.galliumos.org/Installing/Baytrail&quot;&gt;Intel Baytrail&lt;/a&gt;), which requires a firmware update before the install can begin. &lt;/p&gt;
+
+&lt;p&gt;I should add that the Chromebook was already in &lt;a href=&quot;https://wiki.galliumos.org/Installing/Preparing&quot;&gt;developer mode&lt;/a&gt; before I began. 
+The GalliumOS involved downloading and running the &lt;a href=&quot;https://chrx.org/#usage&quot;&gt;install script&lt;/a&gt; once to update the firmware and install the legacy bootloader.&lt;label for=&#39;warning&#39; class=&#39;margin-toggle sidenote-number&#39;&gt;&lt;/label&gt;&lt;input type=&#39;checkbox&#39; id=&#39;warning&#39; class=&#39;margin-toggle&#39;/&gt;&lt;span class=&#39;sidenote&#39;&gt;It is really important to actually look at and understand the scripts that you are downloading before you run them using sudo. It is better to download the script first and then run it, in my opinion, but everyone makes their own choices. &lt;/span&gt; 
+This powerwashes and &amp;quot;repairs&amp;quot; the Chromebook to repartition the SSD.
+Then, after a reboot, downloading and running the same script. &lt;/p&gt;
+
+&lt;p&gt;I allocated the maximum available space to GalliumOS, because I&amp;#39;m not going to use ChromeOS much if at all at this point. 
+I&amp;#39;ll probably eventually just remove that partition altogether. &lt;/p&gt;
+
+&lt;h1 id=&quot;touchscreen&quot;&gt;Touchscreen&lt;/h1&gt;
+
+&lt;p&gt;The touchscreen on the N20P worked out of the box with GalliumOS, but I noticed that it failed to respond after I closed and reopened the lid. &lt;/p&gt;
+
+&lt;p&gt;After some poking around, I figured out that the there was something happening with the kernel module for the touchscreen that made it fail after a lid close suspend. 
+It comes back just fine after a suspend from the interface, but if the lid is closed, then the touchscreen doesn&amp;#39;t work. &lt;/p&gt;
+
+&lt;p&gt;I was able to get it working once again once out of suspend by opening a terminal and reloading the &lt;code&gt;atmel_mxt_ts&lt;/code&gt; module:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;sudo rmmod atmel_mxt_ts &amp;amp;&amp;amp; sudo modprobe atmel_mxt_ts&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;To avoid having to do that myself every time. I added a script (as root) to &lt;code&gt;/lib/systemd/system-sleep/&lt;/code&gt; that reloads the module after the system comes back from suspend triggered by lid closure.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-&quot; data-lang=&quot;&quot;&gt;
+&lt;span class=&quot;c&quot;&gt;#!/bin/bash&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# /lib/systemd/system-sleep/touchscreen&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# This will reload the atmel_mxt_ts module after suspension from lid close &lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# so that the touchscreen will function.&lt;/span&gt;
+
+&lt;span class=&quot;nb&quot;&gt;set&lt;/span&gt; -e
+
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$2&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;suspend&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$2&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;hybrid-sleep&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;; &lt;span class=&quot;k&quot;&gt;then
+    case&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$1&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;in
+        &lt;/span&gt;post&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; /sbin/rmmod atmel_mxt_ts &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; /sbin/modprobe atmel_mxt_ts &lt;span class=&quot;p&quot;&gt;;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;esac&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;fi&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This is a hack, and there is likely a better way to do this, but it works now, so I&amp;#39;m sated for the moment. &lt;/p&gt;
+
+&lt;p&gt;Now I can install GNURadio and play with Software Defined Radio (SDR) on my Chromebook. &lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Feb 2017 12:15:00 -0500</pubDate>
+        <link>https://johndmart.in/computing/2017/02/05/galliumos-on-Lenovo-Chromebook/</link>
+        <guid isPermaLink="true">https://johndmart.in/computing/2017/02/05/galliumos-on-Lenovo-Chromebook/</guid>
+        
+        <category>CHRX</category>
+        
+        <category>GalliumOS</category>
+        
+        <category>ChromeOS</category>
+        
+        <category>Chromebook</category>
+        
+        <category>Lenovo N20P</category>
+        
+        <category>atmel_mxt_ts</category>
+        
+        <category>touchscreen</category>
+        
+        <category>Ubuntu</category>
+        
+        <category>Linux</category>
+        
+        
+        <category>computing</category>
+        
+      </item>
     
       <item>
         <title>Teaching soft skills</title>
