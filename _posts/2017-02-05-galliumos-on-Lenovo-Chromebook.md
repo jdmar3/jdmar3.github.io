@@ -28,7 +28,7 @@ It had all the packages I need to run GNURadio with SDR devices, so I decided to
 I followed the instructions available on the [GalliumOS wiki](https://wiki.galliumos.org/Installing) for my hardware ([Intel Baytrail](https://wiki.galliumos.org/Installing/Baytrail)), which requires a firmware update before the install can begin. 
 
 I should add that the Chromebook was already in [developer mode](https://wiki.galliumos.org/Installing/Preparing) before I began. 
-The GalliumOS involved downloading and running the [install script](https://chrx.org/#usage) once to update the firmware and install the legacy bootloader.{% sidenote 'warning' "It is really important to actually look at and understand the scripts that you are downloading before you run them using sudo. It is better to download the script first and then run it, in my opinion, but everyone makes their own choices." %} 
+The GalliumOS involved downloading and running the [install script](https://chrx.org/#usage) once to update the firmware and install the legacy bootloader.{% sidenote 'warning' "It is really important to actually look at and understand the scripts that you are downloading before you run them using sudo. The method on the CHRX page uses several commands strung together which download and then run the script without pausing. It is better to download the script first and then run it, in my opinion, but everyone makes their own choices." %} 
 This powerwashes and "repairs" the Chromebook to repartition the SSD.
 Then, after a reboot, downloading and running the same script. 
 
