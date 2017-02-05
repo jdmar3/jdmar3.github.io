@@ -26,14 +26,21 @@ nav_include: true
           <a href="{{ post.url | prepend: site.baseurl }}"><h1 class="contrast">{{ post.title }}</h1></a>
           {% if post.author %}{{ post.author }}{% else %}{{ site.author }}{% endif %}
           <br/><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
-          <div>{{ post.excerpt }}</div>
-          <br/>
-          <a href="{{ post.url | prepend: site.baseurl }}">Continue reading...</a>
+          {% if post.excerpt %} 
+          <div>
+            {{ post.excerpt }}
+            <p>
+              <a href="{{ post.url | prepend: site.baseurl }}">Continue reading...</a>  
+            </p>
+          </div>
+          {% endif %}
+          {% if post.tags %}
           <br/>
           <br/>
           <ul class="tags">
             {% for tag in post.tags %}<li><a href="/blog/topics#{{ tag | cgi_escape }}" class="tag">{{ tag | replace: " ", "-" }}</a></li>{% endfor %}
           </ul>
+          {% endif %}
         </li>
     {% endfor %}
   </ul>
