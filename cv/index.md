@@ -1,5 +1,5 @@
 ---
-layout: full-width-cv
+layout: page-cv
 shorttitle: CV
 title: Curriculum Vitae
 weight: 1
@@ -47,25 +47,24 @@ PhD student in the School of Information and Library Science at the University o
 - Charles Kurzman and John D. Martin III, "The Hidden Holdings of Arab Libraries: Online Catalogs and Institutional Barriers to Discoverability"
 - John D. Martin III, "Rapid Extraction: A Classroom Method for Effective Reading of Scientific Literature"
 - John D. Martin III, "Teaching soft skills in design: Designing a UX class to support students in the real world"
-{% endcomment %}
 ## Under Review
- 
-- Kaitlin Costello, John D. Martin III, and Ashlee Edwards, "Online Disclosure of Incriminating Information: Patterns of Risky Information Behavior in Two Drug Forums" (resubmitted March 2016)
+{% endcomment %}
 
 # Publications
 
 ## Articles
-
-- John D. Martin III and Carolyn Runyon, "[Digital Humanities, Digital Hegemony: Exploring Funding Practices and Unequal Access in the Digital Humanities](/published/Martin-and-Runyon-2016-Digital_humanities-digital-hegemony-ACM-SIGCAS.pdf)," *ACM SIGCAS Computers and Society 46*(1), 20-26 (March 2016) http://doi.org/10.1145/2908216.2908219
+ 
+- Kaitlin Costello, John D. Martin III, and Ashlee Edwards, "Online Disclosure of Incriminating Information: Patterns of Risky Information Behavior in Two Drug Forums," *Journal of the Association for Information Science and Technology* (in press, accepted March 2017)
+- John D. Martin III and Carolyn Runyon, {% marginnote 'hegemony' '<a href="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf"><img src="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.png" /></a>' %} "[Digital Humanities, Digital Hegemony: Exploring Funding Practices and Unequal Access in the Digital Humanities](/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf)," *ACM SIGCAS Computers and Society 46*(1), 20-26 (March 2016) http://doi.org/10.1145/2908216.2908219
 
 ## Conference Proceedings
 
-- Sylvia K. Miller, David Phillips, Courtney Berger, Marjorie Fowler, Rebecca Kennison, John D. Martin III, John McLeod, and Chelcie Rowell, "[Publishing Makerspace: A New Approach to Scholarly Publishing](/published/Miller-et-al-2016-Publishing-Makerspace-Charleston.pdf)," *Where Do We Go from Here?: Proceedings of the Charleston Library Conference Proceedings* (2015) https://doi.org/10.5703/1288284316324
-- Barbara B. Moran, Sumayya Ahmed, Amanda B. Click, Jacob Hill, and John D. Martin III, "[Flexible Strategies for Uncertain Times: An Innovative Approach to LIS Education in the Middle East and North Africa](/published/Moran-et-al-2014-Flexible-strategies-IFLA.pdf)," *Libraries, Citizens, Societies: Confluence for Knowledge: IFLA WLIC 2014,* Lyon, France (16-22 August 2014) http://library.ifla.org/848/ 
+- Sylvia K. Miller, David Phillips, Courtney Berger, Marjorie Fowler, Rebecca Kennison, John D. Martin III, John McLeod, and Chelcie Rowell, {% marginnote 'pubmakers' '<a href="/published/Miller-et-al-2016-Publishing-Makerspace-Charleston.pdf"><img src="/published/Miller-et-al-2016-Publishing-Makerspace-Charleston.png" /></a>' %} "[Publishing Makerspace: A New Approach to Scholarly Publishing](/published/Miller-et-al-2016-Publishing-Makerspace-Charleston.pdf)," *Where Do We Go from Here?: Proceedings of the Charleston Library Conference Proceedings* (2015) https://doi.org/10.5703/1288284316324
+- Barbara B. Moran, Sumayya Ahmed, Amanda B. Click, Jacob Hill, and John D. Martin III, {% marginnote 'mena' '<a href="/published/Moran-et-al-2014-Flexible-strategies-IFLA.pdf"><img src="/published/Moran-et-al-2014-Flexible-strategies-IFLA.png" /></a>' %} "[Flexible Strategies for Uncertain Times: An Innovative Approach to LIS Education in the Middle East and North Africa](/published/Moran-et-al-2014-Flexible-strategies-IFLA.pdf)," *Libraries, Citizens, Societies: Confluence for Knowledge: IFLA WLIC 2014,* Lyon, France (16-22 August 2014) http://library.ifla.org/848/ 
 
 ## Posters
 
-- John D. Martin III, "[Piracy, Public Access, and Preservation: An Exploration of Sustainable Accessibility in a Public Torrent Index](/research/piracy)," *2016 Annual Meeting of the Association for Information Science and Technology (ASIS&T),* Copenhagen, Denmark (14-18 October 2016)
+- John D. Martin III, {% marginnote 'piracy' '<a href="/published/Martin-2016-Piracy-ASIST-paper.pdf"><img src="/published/Martin-2016-Piracy-ASIST-paper.png" /></a><a href="/published/Martin-2016-Piracy-ASIST-poster.pdf"><img src="/published/Martin-2016-Piracy-ASIST-poster.png" /></a>' %} "[Piracy, Public Access, and Preservation: An Exploration of Sustainable Accessibility in a Public Torrent Index](/research/piracy)," *2016 Annual Meeting of the Association for Information Science and Technology (ASIS&T),* Copenhagen, Denmark (14-18 October 2016)
 
 # Teaching
 
@@ -113,6 +112,10 @@ Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona
 - John D. Martin III, "Primum Non Nocere: Gray Area in Commanding the Right and Forbidding the Wrong," Perspectives on Evil and Human Wickedness, 12th Global Conference, Prague, Czech Republic (17-19 March 2011) 
 - John D. Martin III and Jaimee Hunsdon, "Politicizing Education: Analyzing Egyptian Pedagogical Literature in the 19th and 20th Centuries," with Jaimee Hundson, Annual History Seminar, The American University in Cairo, School of Humanities and Social Sciences, Cairo, Egypt (26-28 March 2009) 
 
+# Technical Reports
+
+- Charles Kurzman, John D. Martin III, Mohamed Hamed, [Middle East LibraryPartnership Project Report](http://melib.web.unc.edu/files/2015/10/Kurzman_Mellon_Project_Report_2015_10_16.pdf), University of North Carolina at Chapel Hill (16 October 2015)
+
 ## Lightning Talks
 
 - John D. Martin III, "Disclosure of Incriminating Information in Online Forums," presentation on work in progress, Doctoral Research Day, School of Information and Library Science, University of North Carolina at Chapel Hill (15 January 2015) 
@@ -125,7 +128,7 @@ Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona
 
 ## Invited Talks and Panels
 
-- "[Privacy and Oversharing Online: A Look at 21st Century Trust](http://johndmart.in/scicafe-20160907)," Carolina Science Cafe, Chapel Hill, North Carolina (7 September 2016)
+- "[Privacy and Oversharing Online: A Look at 21st Century Trust](http://johndmart.in/scicafe-20160907)," {% marginnote 'scicafe' '<a href="/scicafe-20160907"><img src="/published/Martin-2016-Privacy-SciCafe.png" width="3000px" /></a>' %} Carolina Science Cafe, Chapel Hill, North Carolina (7 September 2016)
 - "A Publishing Makerspace," (with Sylvia Miller), Scholarly Communications Working Group, Davis Library, University of North Carolina at Chapel Hill (11 February 2015) 
 - "Pipelines to the Library & Information World: UNC-Greensboro & UNC-Chapel Hill," Davis Library, University of North Carolina at Chapel Hill, Panelist (9 October 2013)  
 - "Whose House is It?: Evaluating Misconceptions of Islam and Muslims World-Wide," First Presbyterian Church of Richland, Richland, MI, Invited Speaker (4 February 2007) 
