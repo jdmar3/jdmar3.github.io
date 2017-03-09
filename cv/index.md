@@ -64,7 +64,7 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Posters
 
-- John D. Martin III, {% marginnote 'piracy' '<a href="/published/Martin-2016-Piracy-ASIST-paper.pdf"><img src="/published/Martin-2016-Piracy-ASIST-paper.png" /></a><a href="/published/Martin-2016-Piracy-ASIST-poster.pdf"><img src="/published/Martin-2016-Piracy-ASIST-poster.png" /></a>' %} "[Piracy, Public Access, and Preservation: An Exploration of Sustainable Accessibility in a Public Torrent Index](/research/piracy)," *2016 Annual Meeting of the Association for Information Science and Technology (ASIS&T),* Copenhagen, Denmark (14-18 October 2016)
+- John D. Martin III, {% marginnote 'piracy-poster' '<a href="/published/Martin-2016-Piracy-ASIST-poster.pdf"><img src="/published/Martin-2016-Piracy-ASIST-poster.png" /></a>' %} "[Piracy, Public Access, and Preservation: An Exploration of Sustainable Accessibility in a Public Torrent Index](/research/piracy)," *2016 Annual Meeting of the Association for Information Science and Technology (ASIS&T),* Copenhagen, Denmark (14-18 October 2016) http://doi.org/10.1002/pra2.2016.14505301123 {% marginnote 'piracy-paper' '<a href="/published/Martin-2016-Piracy-ASIST-paper.pdf"><img src="/published/Martin-2016-Piracy-ASIST-paper.png" /></a>' %}
 
 # Teaching
 
