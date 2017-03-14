@@ -1081,6 +1081,15 @@ hr.slender {
 .icon-bubbles4:before {
   content: ""; }
 
+.icon-coffee:before {
+  content: ""; }
+
+.icon-dollar:before {
+  content: ""; }
+
+.icon-creditcard:before {
+  content: ""; }
+
 /*-- End of Icomoon icon font section --*/
 /*-- 525Icons icon font section --*/
 @font-face {
@@ -1187,3 +1196,9 @@ hr.slender {
 
 .ico-blogger:before {
   content: ""; }
+
+.ico-coffee:before {
+  content: ""; }
+
+.ico-domain2:before {
+  content: ""; }
