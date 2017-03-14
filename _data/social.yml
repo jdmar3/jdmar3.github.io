@@ -1,30 +1,47 @@
-email:
-  prevar: "mailto:"
-  var: me@johndmart.in 
-  icon: icon-mail
-  alt: "Email me@johndmart.in"
+keybase:
+  prevar: //keybase.io/
+  var: jdmar3
+  icon: ico-domain2
+  alt: "Verified identities at Keybase.io"
+  target: "_blank"
 pgp:
   prevar: "/jdmar3.asc"
   icon: icon-key
   alt: "PGP fingerprint: 67BB C847 14E0 C31A 736A  5E08 C787 DF8D D41F A8D1"
+  fingerprint: "67BB C847 14E0 C31A 736A<br/>5E08 C787 DF8D D41F A8D1"
   extra: "[<a href='https://pgp.mit.edu/pks/lookup?search=me%40johndmart.in&op=index&fingerprint=on'>Public Key Server</a>]&nbsp;<i><small><a href='https://futureboy.us/pgp.html'>What is this?</a></small></i>"
 twitter:
-  prevar: //www.twitter.com/
+  prevar: //twitter.com/
   var: jdmar3
   icon: icon-twitter
   alt: "Tweet @jdmar3"
+  target: "_blank"
+github:
+  prevar: //github.com/
+  var: jdmar3 
+  icon: ico-github
+  alt: "Follow @jdmar3 on GitHub"
+  target: "_blank"
+email:
+  prevar: "mailto:"
+  var: me@johndmart.in 
+  icon: ico-envelope
+  alt: "Email me@johndmart.in"
+  target: "_blank"
 tel:
   prevar: "sms:"
   var: "+19194428014"
   icon: icon-mobile
   alt: "Text me at +19194428014"
-github:
-  prevar: //github.com/
-  var: jdmar3 
-  icon: icon-github
-  alt: "Follow jdmar3 on GitHub"
 feed:
   prevar: /feed 
   var: 
   icon: icon-feed
   alt: "Add RSS feed"
+  target: "_blank"
+cash:
+  prevar: //cash.me/
+  var: $jdmar3
+  icon: icon-coffee
+  alt: "Buy me a coffee"
+  target: "_blank"

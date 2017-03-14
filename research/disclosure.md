@@ -9,7 +9,7 @@ The study considered two forums (subreddits) related to drug use, r/trees and r/
 
 # Online Disclosure of Incriminating Information
 
-*Patterns of Risky Information Behavior in Two Drug Forums* {% marginnote 'thumb-links' 'This article is currently under revision for resubmission.' %}
+*Patterns of Risky Information Behavior in Two Drug Forums* {% marginnote 'jasist' 'This article was accepted for publication in the Journal of the Association of Information Science and Technology (JASIS&T) in March 2017.' %}
 
 ## Abstract
 
@@ -23,7 +23,7 @@ We argue that banter fosters disclosure in both subreddits, and that banter and 
 
 # Privacy and Oversharing Online 
 
-*A Look at 21st Century Trust* {% marginnote 'thumb-links' '<a href="/scicafe-20160907"><img src="/published/Martin-2016-Privacy-SciCafe.png" width="3000px" /></a>' %} 
+*A Look at 21st Century Trust* {% marginnote 'scicafe' '<a href="/scicafe-20160907"><img src="/published/Martin-2016-Privacy-SciCafe.png" width="3000px" /></a>' %} 
 
 This talk was given at the Carolina Science Cafe on 7 September, 2016, sponsored by Sigma Xi and Top of the Hill Back Bar. 
 
@@ -37,7 +37,7 @@ Here is the marketing blurb and materials from the talk itself:
 
 # ‘Dude… I Zone Out Like That All the Time’
 
-*Banter as Phatic Communication in the Context of Online Discussion Forums Focused on Illicit Behavior* {% marginnote 'thumb-links' '<a href="https://docs.google.com/presentation/d/1drT3MYMy6w1KYmehrK2sERRHhMqf_i5yABFsQkC82I4/edit?usp=sharing"><img src="/published/Costello-Martin-Edwards-2015-Dude-SIG-SI.png" width="300px" /></a>' %} 
+*Banter as Phatic Communication in the Context of Online Discussion Forums Focused on Illicit Behavior* {% marginnote 'sig-si' '<a href="https://docs.google.com/presentation/d/1drT3MYMy6w1KYmehrK2sERRHhMqf_i5yABFsQkC82I4/edit?usp=sharing"><img src="/published/Costello-Martin-Edwards-2015-Dude-SIG-SI.png" width="300px" /></a>' %} 
 
 This talk was presented at the ASIS&T SIG-SI Symposium in St. Louis, Missouri on 7 November 2015.
 

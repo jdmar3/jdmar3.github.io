@@ -11,7 +11,7 @@ These are all the best ways to contact me. Please feel free to use them.
 {% for social_hash in site.data.social %}
 {% assign social = social_hash[1] %}
   <li>
-    <a href="{{ social.prevar }}{{ social.var }}">
+    <a href="{{ social.prevar }}{{ social.var }}" {% if social.target %}target="{{ social.target }}"{% endif %}>
       <span class="{{ social.icon }}"></span>&nbsp;&nbsp;{{ social.alt }}
     </a>&nbsp;{{ social.extra }}
   </li>

@@ -7,6 +7,8 @@ nav_include: true
 
 <h1 class="content-listing-header sans">{{ site.author }}</h1>
 
+{% include info.md %}
+
 My name is {{ site.author }}, and I am a PhD student in the School of Information and Library Science at the University of North Carolina at Chapel Hill. 
 
 My work focuses on trust and credibility in interfaces, systems, and other intermediaries that facilitate information exchange and transfer between people. In short, two questions motivate my work: 

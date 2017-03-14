@@ -1,0 +1,12 @@
+<label for='info' class='margin-toggle'> &#8853;</label>
+<input type='checkbox' id='info' class='margin-toggle'/>
+<span class='marginnote'>
+<span class="date larger">{{ "Contact Info" | upcase }}</span><br/><br/>
+<span class="{{ site.data.social.keybase.icon }}">&nbsp;**Keybase:**</span> <a href="{{ site.data.social.keybase.prevar }}{{ site.data.social.keybase.var }}">https:{{ site.data.social.keybase.prevar }}{{ site.data.social.keybase.var }}</a><br/>
+<span class="{{ site.data.social.pgp.icon }}">&nbsp;**PGP key:**</span><br/><a href="{{ site.data.social.pgp.prevar }}">{{ site.data.social.pgp.fingerprint }}</a><br/>
+<span class="{{ site.data.social.twitter.icon }}">&nbsp;**Twitter:**</span> <a href="{{ site.data.social.twitter.prevar }}{{ site.data.social.twitter.var }}">https:{{ site.data.social.twitter.prevar }}{{ site.data.social.twitter.var }}</a><br/>
+<span class="{{ site.data.social.github.icon }}">&nbsp;**GitHub:**</span> <a href="{{ site.data.social.github.prevar }}{{ site.data.social.github.var }}">https:{{ site.data.social.github.prevar }}{{ site.data.social.github.var }}</a><br/>
+<span class="{{ site.data.social.email.icon }}">&nbsp;**Email:**</span> <a href="{{ site.data.social.email.prevar }}{{ site.data.social.email.var }}">{{ site.data.social.email.var }}</a><br/>
+<span class="{{ site.data.social.tel.icon }}">&nbsp;**Phone:**</span> <a href="{{ site.data.social.tel.prevar }}{{ site.data.social.tel.var }}">{{ site.data.social.tel.var }}</a><br/>
+{% comment %}Site updated {{ site.time | time_tag }}.{% endcomment %}
+</span>

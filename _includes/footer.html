@@ -12,7 +12,7 @@
     {% for social_hash in site.data.social %}
     {% assign social = social_hash[1] %}
       <li>
-        <a href="{{ social.prevar }}{{ social.var }}" title="{{ social.alt }}"><span class="{{ social.icon }}"></span></a>
+        <a href="{{ social.prevar }}{{ social.var }}" title="{{ social.alt }}" {% if social.target %}target="{{ social.target }}"{% endif %}><span class="{{ social.icon }}"></span></a>
       </li>
     {% endfor %}  
   </ul>
