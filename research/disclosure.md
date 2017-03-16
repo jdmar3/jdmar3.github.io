@@ -9,17 +9,11 @@ The study considered two forums (subreddits) related to drug use, r/trees and r/
 
 # Online Disclosure of Incriminating Information
 
-*Patterns of Risky Information Behavior in Two Drug Forums* {% marginnote 'jasist' 'This article was accepted for publication in the Journal of the Association of Information Science and Technology (JASIS&T) in March 2017.' %}
+*Patterns of Risky Information Behavior in Two Drug Forums* {% marginnote 'jasist' 'This article was accepted for publication in the *Journal of the Association of Information Science and Technology (JASIS&T)* in March 2017. A preprint is available here: https://osf.io/preprints/socarxiv/bk2ck/' %}
 
 ## Abstract
 
-Although people disclose illicit activities online, we currently know little about what information people choose to disclose and share or whether there are differences in behavior depending on the illicit activity being disclosed. 
-This exploratory mixed-methods study examines how people discuss and disclose the use of two different drugs—marijuana and heroin—in the popular online forum Reddit. 
-In this study, qualitative content analysis and a statistical comparison of the resulting categorical data is employed in order to uncover differences between disclosure patterns on two subreddits dedicated to each illicit activity. 
-We found seven major themes using inductive analysis: disclosure, instruction and advice, culture, community norms, moralizing, legality, and banter. 
-Although the amounts of disclosure are similar in each subreddit, there are more instances of instruction and advice in discussions about opiates, and more examples of banter in comments about marijuana use. 
-In fact, both subreddits had high incidences of banter. 
-We argue that banter fosters disclosure in both subreddits, and that banter and disclosure are linked with information seeking behaviors in online forums.
+Although people disclose illicit activities such as drug use online, we currently know little about what information people choose to disclose and share or whether there are differences in behavior depending on the illicit activity being disclosed. This exploratory mixed-methods study examines how people discuss and disclose the use of two different drugs—marijuana and heroin—in the popular online forum Reddit. In this study hermeneutic content analysis is employed in order to describe the type of comments people make in forums dedicated to discussions about illicit drugs. With inductive analysis, seven categories of comments were identified: disclosure, instruction and advice, culture, community norms, moralizing, legality, and banter. Our subsequent quantitative analysis indicates that although the amounts of disclosure are similar in each subreddit, there are more instances of instruction and advice in discussions about opiates, and more examples of banter in comments about marijuana use. In fact, both subreddits have high rates of banter. We argue that banter fosters disclosure in both subreddits, and that banter and disclosure are linked with information seeking behaviors in online forums. This work has implications for future explorations of disclosure online and for public health interventions aimed at disseminating credible information about drug use to at-risk individuals.
 
 # Privacy and Oversharing Online 
 

@@ -19,6 +19,13 @@ This study is an attempt to provide greater understanding of how respondents fro
 
 I will be blogging about this project as it progresses. Please follow there.
 
+## Trust, Credibility, and Disclosure of Information
+
+Kaitlin Costello, Ashlee Edwards, and I investigated patterns of disclosure of incriminating information on Reddit drug forums. 
+This spurred an extended set of interests in trust, credibility, and disclosure of information. 
+
+You can read more here: [disclosure.johndmart.in](http://disclosure.johndmart.in).
+
 ## Digital Media Piracy
 
 Piracy is not a new phenomenon, but the rapid development of online protocols has expanded its reach into every aspect of digital media production. 
@@ -34,13 +41,6 @@ You can read more about this research and see publications here: [johndmart.in/r
 Carolyn Runyon and I have been working on a project to assess equity in digital humanities funding for cultural heritage projects over the last year. 
 
 You can read more about that project and see publications here: [digital-hegemony.johndmart.in](http://digital-hegemony.johndmart.in).
-
-## Trust, Credibility, and Disclosure of Information
-
-Kaitlin Costello, Ashlee Edwards, and I investigated patterns of disclosure of incriminating information on Reddit drug forums. 
-This spurred an extended set of interests in trust, credibility, and disclosure of information. 
-
-You can read more here: [disclosure.johndmart.in](http://disclosure.johndmart.in).
 
 ## Middle East Libraries 
 

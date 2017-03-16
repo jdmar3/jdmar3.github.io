@@ -58,8 +58,8 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Articles
  
-- Kaitlin Costello, John D. Martin III, and Ashlee Edwards, "Online Disclosure of Incriminating Information: Patterns of Risky Information Behavior in Two Drug Forums," *Journal of the Association for Information Science and Technology* (in press, accepted March 2017)
-- John D. Martin III and Carolyn Runyon, {% marginnote 'hegemony' '<a href="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf"><img src="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.png" /></a>' %} "[Digital Humanities, Digital Hegemony: Exploring Funding Practices and Unequal Access in the Digital Humanities](/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf)," *ACM SIGCAS Computers and Society 46*(1), 20-26 (March 2016) http://doi.org/10.1145/2908216.2908219
+- Kaitlin Costello, John D. Martin III, and Ashlee Edwards, "[Online Disclosure of Incriminating Information: Patterns of Risky Information Behavior in Two Drug Forums](https://osf.io/preprints/socarxiv/bk2ck/)," *Journal of the Association for Information Science and Technology* (in press, accepted March 2017, doi: 10.1002/asi.23880) Preprint available: https://osf.io/preprints/socarxiv/bk2ck/
+- John D. Martin III and Carolyn Runyon, {% marginnote 'hegemony' '<a href="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf"><img src="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.png" /></a>' %} "[Digital Humanities, Digital Hegemony: Exploring Funding Practices and Unequal Access in the Digital Humanities](/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf)," *ACM SIGCAS Computers and Society 46*(1), 20-26 (March 2016) https://doi.org/10.1145/2908216.2908219
 
 ## Conference Proceedings
 
