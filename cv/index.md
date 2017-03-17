@@ -95,6 +95,10 @@ PhD student in the School of Information and Library Science at the University o
 - Amanda Click, Sumayya Ahmed, Jacob Hill, and John D. Martin III, eds., *Libraries, Librarians and Information Science in the Middle East and North Africa,* Global Studies in Library and Information Science Series (de Gruyter/SAUR, 2016)
 - Martin Fowler, John D. Martin III and John L. Hochheimer, eds., *Spirituality: Theory, Praxis and Pedagogy* (e-book), (Inter-Disciplinary Press, 2011)
 
+## Technical Reports
+
+- Charles Kurzman, John D. Martin III, Mohamed Hamed, [Middle East LibraryPartnership Project Report](http://melib.web.unc.edu/files/2015/10/Kurzman_Mellon_Project_Report_2015_10_16.pdf), University of North Carolina at Chapel Hill (16 October 2015)
+
 ## Conference presentations
 
 - Tessa Joseph-Nicholas, Laurel Foote-Hudson, Femi Alabi, Jacob Vosburgh, John D. Martin III, "Coding Diversity, Diversities of Code: Reading and Writing Leadership in Technology and
@@ -115,10 +119,6 @@ Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona
 - John D. Martin III, "‘For Every Illness and Symptom’: A Pragmatic Study of Medieval Islamic Magical Amulets," Perspectives on Evil and Human Wickedness, 12th Global Conference, Prague, Czech Republic (17-19 March 2011) 
 - John D. Martin III, "Primum Non Nocere: Gray Area in Commanding the Right and Forbidding the Wrong," Perspectives on Evil and Human Wickedness, 12th Global Conference, Prague, Czech Republic (17-19 March 2011) 
 - John D. Martin III and Jaimee Hunsdon, "Politicizing Education: Analyzing Egyptian Pedagogical Literature in the 19th and 20th Centuries," with Jaimee Hundson, Annual History Seminar, The American University in Cairo, School of Humanities and Social Sciences, Cairo, Egypt (26-28 March 2009) 
-
-# Technical Reports
-
-- Charles Kurzman, John D. Martin III, Mohamed Hamed, [Middle East LibraryPartnership Project Report](http://melib.web.unc.edu/files/2015/10/Kurzman_Mellon_Project_Report_2015_10_16.pdf), University of North Carolina at Chapel Hill (16 October 2015)
 
 ## Lightning Talks
 
