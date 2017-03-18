@@ -44,15 +44,14 @@ PhD student in the School of Information and Library Science at the University o
 - Free / Open Source Software (FOSS) education 
 
 # Work in Progress
-{% comment %}
+{% comment %}{% endcomment %}
 ## In Preparation
 
 - Amelia N. Gibson and John D. Martin III, "Information Poverty among Parents of Individuals with Developmental Disabilities"
 - Charles Kurzman and John D. Martin III, "The Hidden Holdings of Arab Libraries: Online Catalogs and Institutional Barriers to Discoverability"
 - John D. Martin III, "Rapid Extraction: A Classroom Method for Effective Reading of Scientific Literature"
 - John D. Martin III, "Teaching soft skills in design: Designing a UX class to support students in the real world"
-## Under Review
-{% endcomment %}
+
 
 # Publications
 
