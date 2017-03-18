@@ -11,6 +11,23 @@ My classroom ethos is very much informed by this activity as it allows me to tea
 
 # Current courses 
 
+## User Interface Design (INLS 718)
+
+The purpose of this course is to allow students to engage with the interfaces between human beings and information systems in a critical way. 
+The course content covers a range of topics, organized around a few main principles *design thinking, user experience,* and *design critique.*
+
+A key component of this class is critical discussion of principles of accessibility, collective action and social design, and social justice expressed through design. 
+It is important in this day and age to consider that while no design can be universal because of the properties and biases embedded by designers, we should be aiming to create interfaces, interactions, and experiences that do not specifically marginialize people. 
+In the spirit of this, a good portion of our design critique and readings on affordances will be oriented toward addressing structural inequalities embedded in the built world. 
+
+Work for the course centers on a single project on which the whole class will work, operating like a design and development team, rather than working on individual projects. Collaboration is one of the major organizing principles for this course.We are working with Triangle area entrepreneur and electrical engineer Erica Young on an interface project related to helping people better interact with GNU Radio, primary interface for use with software defined radio (SDR) boards. 
+
+Students self-organize into teams, based on skills and interests, that will be responsible for managing different aspects of the project. We aim to create a working prototype by the end of the semester. In doing this we learn about hard skills of design: coding, version control, prototyping, user testing, and rollout. More importantly we also learn the so-called soft-skills necessary for design: design thinking, project planning, workflow design/management, group decision-making, and collaboration. 
+
+Most recent syllabus available [here](http://inls718.johndmart.in/).
+
+# Past Courses
+
 ## Tools for Information Literacy (INLS 161)
 
 This course covers tools and concepts for information literacy. 
