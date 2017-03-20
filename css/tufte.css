@@ -411,40 +411,26 @@ section {
   padding-top: 1rem;
   padding-bottom: 1rem; }
 
-article ul {
+ul {
   width: 55%;
-  -webkit-padding-start: 2.5%;
-  -webkit-padding-end: 2.5%;
+  list-style: disc outside none;
+  margin-left: 0em;
+  padding-left: 0em;
   list-style-type: none; }
 
-ul li ul {
-  width: 100%;
-  -webkit-padding-start: 2.5%;
-  -webkit-padding-end: 2.5%;
-  list-style-type: none;
-  text-indent: -2.5%; }
-
-body.cv ul {
-  text-indent: -2.5%; }
-
-body.cv ul li {
-  text-indent: -2.5%; }
-
-ul.bibliography {
-  text-indent: -2.5%; }
-
-ul.bibliography li {
-  text-indent: -2.5%; }
+ul li {
+  margin-left: 0;
+  padding-left: 0;
+  text-indent: -1.5em;
+  margin-left: 1.5em; }
 
 ol {
   width: 55%;
-  -webkit-padding-start: 4%;
-  -webkit-padding-end: 4%; }
+  margin-left: 0em;
+  padding-left: 1em; }
 
 ol li ol {
   width: 100% !important;
-  -webkit-padding-start: 4%;
-  -webkit-padding-end: 4%;
   list-style-type: lower-alpha; }
 
 ol p, ul p {
