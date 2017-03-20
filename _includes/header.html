@@ -1,7 +1,7 @@
 <!--- Header and nav template site-wide -->
 <header>
     <nav class="group">
-	<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/img/badge_1.png" alt="JDM"></a>
+	<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/img/{{ site.badge }}" alt="JDM"></a>
 	{% assign pages = site.pages | sort:"weight"  %}
 	{% for node in pages %}
 		{% if node.nav_include %}

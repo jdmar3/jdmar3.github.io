@@ -33,6 +33,13 @@ tel:
   var: "+19194428014"
   icon: icon-mobile
   alt: "Text me at +19194428014"
+onion:
+  prevar: //
+  var: evpoyeb3anapeyrt.onion
+  icon: icnf-tor
+  alt: "Onion site"
+  target: "_blank"
+  extra: "<i><small><a href='/blog/2017-03-20-onion-site.html'>Why can't I see this?</a></small></i>"
 feed:
   prevar: /feed 
   var: 
