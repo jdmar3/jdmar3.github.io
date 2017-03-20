@@ -24,7 +24,7 @@ I will be blogging about this project as it progresses. Please follow there.
 Kaitlin Costello, Ashlee Edwards, and I investigated patterns of disclosure of incriminating information on Reddit drug forums. 
 This spurred an extended set of interests in trust, credibility, and disclosure of information. 
 
-You can read more here: [disclosure.johndmart.in](http://disclosure.johndmart.in).
+You can read more here: [/research/disclosure](/research/disclosure).
 
 ## Digital Media Piracy
 
@@ -34,7 +34,7 @@ As a social and cultural phenomenon there is a great deal that we can learn from
 In addition digital media piracy has become a mode of access to cultural materials and technologies for a great many people worldwide, despite the illegality of their behavior in violating copyright.
 My interest in this phenomenon lies beyond discussions about copyright and views piracy as another information behavior that can be studied as such. 
 
-You can read more about this research and see publications here: [johndmart.in/research/piracy](http://johndmart.in/research/piracy).
+You can read more about this research and see publications here: [/research/piracy](/research/piracy).
 
 ## Digital Cultural Hegemony
 
