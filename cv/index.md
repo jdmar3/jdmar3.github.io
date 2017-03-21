@@ -8,6 +8,8 @@ nav_include: true
 
 <h1 class="content-listing-header sans">{{ site.author }}</h1>
 
+{% include info.md %}
+
 Information Scientist, Digital Humanist
 
 <span class="date">{{ site.time | date: "%-d %B %Y" }}</span>
