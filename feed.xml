@@ -5,9 +5,47 @@
     <description>PhD student in the School of Information and Library Science at University of North Carolina at Chapel Hill.</description>
     <link>https://johndmart.in/</link>
     <atom:link href="https://johndmart.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Mar 2017 00:47:01 -0400</pubDate>
-    <lastBuildDate>Tue, 21 Mar 2017 00:47:01 -0400</lastBuildDate>
+    <pubDate>Tue, 21 Mar 2017 01:11:50 -0400</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 01:11:50 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Onion</title>
+        <description>&lt;p&gt;&lt;span class=&#39;newthought&#39;&gt;If you are wondering why the little onion icon&lt;/span&gt;  &lt;span class=&quot;icnf-tor&quot;&gt;&lt;/span&gt; doesn&amp;#39;t link you anywhere, look no further. &lt;/p&gt;
+
+&lt;p&gt;The reason is that this link is not like other links: &lt;a href=&quot;http://evpoyeb3anapeyrt.onion&quot; class=&quot;icnf-tor&quot; target=&quot;_blank&quot;&gt;&lt;a href=&quot;http://evpoyeb3anapeyrt.onion&quot;&gt;http://evpoyeb3anapeyrt.onion&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;code&gt;.onion&lt;/code&gt; is not actually a Top-Level Domain (TLD) in the normal Dynamic Name Service (DNS). 
+It only works if you are using Tor to access the Internet. 
+Tor allows for the configuration of hidden services that get advertised only on the Tor network. 
+These services allow for the dissemination of information or connections services like ssh or ftp over an encrypted, untraceable route. &lt;/p&gt;
+
+&lt;p&gt;In order to use that or any link ending in &lt;code&gt;.onion&lt;/code&gt;, you need to download the &lt;a href=&quot;https://www.torproject.org/projects/torbrowser.html.en&quot;&gt;Tor Browser Bundle&lt;/a&gt; and run it. 
+You can also &lt;a href=&quot;https://www.torproject.org/docs/installguide.html.en&quot;&gt;install Tor&lt;/a&gt; and configure a proxy on your system, but it is more difficult. &lt;/p&gt;
+
+&lt;p&gt;You can also run Tor on a smartphone. 
+Android has a client called &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.torproject.android&amp;amp;hl=en&quot;&gt;Orbot&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ll make another post about how I set up the &lt;code&gt;.onion&lt;/code&gt; version of this site &lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Mar 2017 20:00:00 -0400</pubDate>
+        <link>https://johndmart.in/computing/2017/03/20/onion/</link>
+        <guid isPermaLink="true">https://johndmart.in/computing/2017/03/20/onion/</guid>
+        
+        <category>tor</category>
+        
+        <category>onion</category>
+        
+        <category>onion site</category>
+        
+        <category>hidden service</category>
+        
+        
+        <category>computing</category>
+        
+      </item>
     
       <item>
         <title>GalliumOS on Chromebook</title>
