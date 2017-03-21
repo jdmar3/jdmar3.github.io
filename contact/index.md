@@ -7,7 +7,7 @@ nav_include: true
 
 These are all the best ways to contact me. Please feel free to use them. 
 
-<ul>
+<ul class="bibliography">
 {% for social_hash in site.data.social %}
 {% assign social = social_hash[1] %}
   <li>
