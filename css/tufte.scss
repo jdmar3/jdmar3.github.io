@@ -266,7 +266,7 @@ ul { width: 55%;
 
 ul li { }
 
-body.cv ul, .bibliography ul { width: 55%;
+body.cv ul, .bibliography ul, ul.nobullet { width: 55%;
     list-style: disc outside none;
 	  margin-left: 0em;
     padding-left: 0em;
@@ -508,10 +508,12 @@ img.badge {
 }
 */
 
-ul.footer-links, .credits{
+ul.footer-links{
   list-style: none;
-  text-align: center;
-  margin: auto;
+  text-align: left;
+  margin: auto 0;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
   width: 90% !important;
 }
 ul.footer-links{
@@ -526,6 +528,8 @@ ul.footer-links li{
 }
 .credits{
   padding: 1rem 0rem;
+	margin: auto 0; 
+	text-align: left;
 }
 
 .blognav {
@@ -646,7 +650,7 @@ li.listing h3.new {
 }
 hr.slender {
     border: 0;
-    height: 2px;
+    height: 1px;
     margin-top: 1.4rem;
     margin-bottom:1.4rem;
     background-image: -webkit-linear-gradient($hr-linear-gradient);
