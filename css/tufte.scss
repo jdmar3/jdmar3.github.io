@@ -255,6 +255,17 @@ article { position: relative;
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
 
+ul { width: 55%;
+    list-style: disc outside none;
+	  margin-left:0em;
+    padding-left:1em; 
+//	  margin-left: 0em;
+//    padding-left: 0em;
+//	  list-style-type: none;
+}
+
+ul li { }
+
 body.cv ul, .bibliography ul { width: 55%;
     list-style: disc outside none;
 	  margin-left: 0em;
