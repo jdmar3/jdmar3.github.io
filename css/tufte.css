@@ -411,14 +411,14 @@ section {
   padding-top: 1rem;
   padding-bottom: 1rem; }
 
-ul {
+body.cv ul, .bibliography ul {
   width: 55%;
   list-style: disc outside none;
   margin-left: 0em;
   padding-left: 0em;
   list-style-type: none; }
 
-ul li {
+body.cv ul li, .bibliography ul li {
   margin-left: 0;
   padding-left: 0;
   text-indent: -1.5em;
