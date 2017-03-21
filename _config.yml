@@ -15,9 +15,6 @@ badge: believe.jpg # this file should be located under /assets/img/
 
 google_analytics: UA-91043800-1 # https://desiredpersona.com/google-analytics-jekyll/
 
-excerpt_separator: <!--more-->
-excerpt_separator: <excerpt/>  # you can specify your own separator, of course.
-
 #markdown: kramdown
 #kramdown:
 
@@ -41,7 +38,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: pretty
 timezone: America/New_York
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+exclude: ['.gitignore', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'deploy.sh', 'deploy-onion.sh']
 post:
   template: _post.txt
   extension: md
