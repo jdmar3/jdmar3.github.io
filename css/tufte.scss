@@ -1087,6 +1087,8 @@ hr.slender {
   font-family: 'iconfont';
   src:url('../fonts/iconfont.eot?rgwlb8');
   src:url('../fonts/iconfont.eot?#iefixrgwlb8') format('embedded-opentype'),
+    url('../fonts/iconfont.woff') format('woff'),
+    url('../fonts/iconfont.ttf') format('truetype'),
     url('../fonts/iconfont.woff?rgwlb8') format('woff'),
     url('../fonts/iconfont.ttf?rgwlb8') format('truetype'),
     url('../fonts/iconfont.svg?rgwlb8#icomoon') format('svg');
