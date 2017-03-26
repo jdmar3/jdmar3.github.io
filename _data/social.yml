@@ -34,7 +34,7 @@ tel:
   icon: icon-mobile
   alt: "Text me at +19194428014"
 onion:
-  prevar: //
+  prevar: http://
   var: evpoyeb3anapeyrt.onion
   icon: icnf-tor
   alt: "evpoyeb3anapeyrt.onion"
