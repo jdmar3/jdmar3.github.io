@@ -14,8 +14,6 @@ Information Scientist, Digital Humanist
 
 <span class="date">{{ site.time | date: "%-d %B %Y" }}</span>
 
-{% include info.md %}
-
 {% comment %}
 # Contact
 
