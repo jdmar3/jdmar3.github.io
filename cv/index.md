@@ -48,7 +48,7 @@ PhD student in the School of Information and Library Science at the University o
 ## In Preparation
 
 - Amelia N. Gibson and John D. Martin III, "Information Poverty among Parents of Individuals with Developmental Disabilities"
-- Charles Kurzman and John D. Martin III, "The Hidden Holdings of Arab Libraries: Online Catalogs and Institutional Barriers to Discoverability"
+- Charles Kurzman and John D. Martin III, "The Hidden Heritage of Arab Libraries: Online Catalogs and Institutional Barriers to Discoverability"
 - John D. Martin III, "Rapid Extraction: A Classroom Method for Effective Reading of Scientific Literature"
 - John D. Martin III, "Teaching soft skills in design: Designing a UX class to support students in the real world"
 
@@ -57,7 +57,7 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Articles
  
-- Kaitlin Costello, John D. Martin III, and Ashlee Edwards, "[Online Disclosure of Incriminating Information: Patterns of Risky Information Behavior in Two Drug Forums](https://osf.io/preprints/socarxiv/bk2ck/)," *Journal of the Association for Information Science and Technology* (in press, accepted March 2017, doi: 10.1002/asi.23880) Preprint available: https://osf.io/preprints/socarxiv/bk2ck/
+- Kaitlin Costello, John D. Martin III, and Ashlee Edwards, {% marginnote 'disclosure' '' %} "[Online Disclosure of Incriminating Information: Patterns of Risky Information Behavior in Two Drug Forums](https://osf.io/preprints/socarxiv/bk2ck/)," *Journal of the Association for Information Science and Technology* (in press, accepted March 2017, doi: 10.1002/asi.23880) Preprint available: https://osf.io/preprints/socarxiv/bk2ck/
 - John D. Martin III and Carolyn Runyon, {% marginnote 'hegemony' '<a href="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf"><img src="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.png" /></a>' %} "[Digital Humanities, Digital Hegemony: Exploring Funding Practices and Unequal Access in the Digital Humanities](/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf)," *ACM SIGCAS Computers and Society 46*(1), 20-26 (March 2016) https://doi.org/10.1145/2908216.2908219
 
 ## Conference Proceedings
@@ -91,7 +91,7 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Books Edited
 
-- Amanda Click, Sumayya Ahmed, Jacob Hill, and John D. Martin III, eds., *Libraries, Librarians and Information Science in the Middle East and North Africa,* Global Studies in Library and Information Science Series (de Gruyter/SAUR, 2016)
+- Amanda Click, Sumayya Ahmed, Jacob Hill, and John D. Martin III, eds., {% marginnote 'lismena' '<a href="https://www.degruyter.com/view/product/246928"><img src="/published/lismena.png" /></a>' %} *Libraries, Librarians and Information Science in the Middle East and North Africa,* Global Studies in Library and Information Science Series (de Gruyter/SAUR, 2016) 
 - Martin Fowler, John D. Martin III and John L. Hochheimer, eds., *Spirituality: Theory, Praxis and Pedagogy* (e-book), (Inter-Disciplinary Press, 2011)
 
 ## Technical Reports
@@ -176,7 +176,7 @@ Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona
 - President’s Scholarship for Study Abroad, Dept. of Foreign Languages, Western Michigan University (2007) 
 - Graduate Assistantship, Dept. of Comparative Religion, Western Michigan University (2004-2005) 
 
-# Research and relevant professional experience
+# Research and professional experience
 
 - Research Assistant, School of Information and Library Science, University of North Carolina at Chapel Hill (Spring 2016)
 - Research Assistant, [Middle East Library Partnership Project](http://melib.web.unc.edu/files/2015/10/Kurzman_Mellon_Project_Report_2015_10_16.pdf), University of North Carolina at Chapel Hill (Summer 2014-Summer 2015)
