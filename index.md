@@ -20,7 +20,7 @@ Through this work, I explore the underlying epistemologies and worldviews embedd
 This field has given me the opportunity to explore the nature of human interactions with information as a mode of social exchange.
 
 I have an academic background in the humanities: first in classics and then in the history and culture of the Islamic world. 
-While studying and working in the Middle East, I became interested cultural institutions and the ways that they codified and preserved information historically. 
-This interest and work in archives and libraries led me to pursue the PhD in information science.  
+While studying and working in the Middle East, I became interested in cultural institutions and the ways that they codified and preserved information historically. 
+This interest and work in archives and libraries led me to pursue the PhD in information science.  
 
 If you wish to contact me, the best way is to [send me a tweet (@jdmar3)](http://twitter.com/jdmar3) or [email me](mailto:me@johndmart.in?subject=Hello!).
