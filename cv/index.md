@@ -1,5 +1,5 @@
 ---
-layout: page-cv
+layout: page
 shorttitle: CV
 title: Curriculum Vitae
 weight: 1

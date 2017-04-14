@@ -264,20 +264,21 @@ ul { width: 55%;
 //	  list-style-type: none;
 }
 
-ul li { }
-
-body.cv ul, .bibliography ul, ul.nobullet { width: 55%;
+ul, .bibliography ul, ul.nobullet { width: 55%;
     list-style: disc outside none;
 	  margin-left: 0em;
     padding-left: 0em;
 	  list-style-type: none;
 }
-body.cv ul li, .bibliography ul li {
+
+ul li, .bibliography ul li {
 	  margin-left: 0;
     padding-left: 0;
 	  text-indent: -1.5em;
     margin-left: 1.5em; 
 }
+
+ul li ul { width: 100% !important}
 
 ol { width: 55%; //width: 45%;
     margin-left:0em;
@@ -326,7 +327,7 @@ img { max-width: 100%; }
                          vertical-align: baseline;
                          position: relative; }
 
-li .sidenote, li .marginnote{ margin-right: -80%; } //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
+li .sidenote, li .marginnote { margin-right: -70%; }//{ margin-right: -80%; } //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
 
 blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
 
@@ -368,6 +369,10 @@ div.table-wrapper { overflow-x: auto } //changed all overflow values to 'auto' s
     blockquote p, blockquote footer {  width: 80%;
         padding-left: 5%;
         padding-right: 5%; }
+}
+
+@media screen and (max-width: 1400px) {
+	  li .sidenote, li .marginnote { margin-right: -72.5%; }//{ margin-right: -80%; } //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
 }
 
 .marginnote code, .sidenote code { font-size: 1rem; } //more .code class removal
