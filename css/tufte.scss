@@ -80,10 +80,10 @@ p > a { @if $link-style == underline
   }
 
 body { width: 87.5%;
-       margin-left: auto;
+       margin-left: 6.25%;
        margin-right: auto;
        //padding-left: 12.5%;
-       padding: 0% 5%; // added by JDM
+       //padding: 0% 5%; // added by JDM
        font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
        background-color: $bg-color;
        color: $text-color;
@@ -329,7 +329,7 @@ img { max-width: 100%; }
 
 li .sidenote, li .marginnote { margin-right: -70%; }//{ margin-right: -80%; } //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
 
-blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
+blockquote .sidenote, blockquote .marginnote { margin-right: -72.5% }
 
 .sidenote-number { counter-increment: sidenote-counter; }
 
