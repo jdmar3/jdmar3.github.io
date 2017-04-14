@@ -227,9 +227,8 @@ p > a {
 
 body {
   width: 87.5%;
-  margin-left: auto;
+  margin-left: 6.25%;
   margin-right: auto;
-  padding: 0% 5%;
   font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: #f1f7fb;
   color: #111;
@@ -490,7 +489,7 @@ li .sidenote, li .marginnote {
   margin-right: -70%; }
 
 blockquote .sidenote, blockquote .marginnote {
-  margin-right: -79%; }
+  margin-right: -72.5%; }
 
 .sidenote-number {
   counter-increment: sidenote-counter; }
