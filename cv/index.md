@@ -52,7 +52,6 @@ PhD student in the School of Information and Library Science at the University o
 - John D. Martin III, "Rapid Extraction: A Classroom Method for Effective Reading of Scientific Literature"
 - John D. Martin III, "Teaching soft skills in design: Designing a UX class to support students in the real world"
 
-
 # Publications
 
 ## Articles
@@ -68,20 +67,6 @@ PhD student in the School of Information and Library Science at the University o
 ## Posters
 
 - John D. Martin III, {% marginnote 'piracy-poster' '<a href="/published/Martin-2016-Piracy-ASIST-poster.pdf"><img src="/published/Martin-2016-Piracy-ASIST-poster.png" /></a>' %} "[Piracy, Public Access, and Preservation: An Exploration of Sustainable Accessibility in a Public Torrent Index](/research/piracy)," *2016 Annual Meeting of the Association for Information Science and Technology (ASIS&T),* Copenhagen, Denmark (14-18 October 2016) http://doi.org/10.1002/pra2.2016.14505301123 {% marginnote 'piracy-paper' '<a href="/published/Martin-2016-Piracy-ASIST-paper.pdf"><img src="/published/Martin-2016-Piracy-ASIST-paper.png" /></a>' %}
-
-# Teaching
-
-- Teaching Fellow (instructor of record), School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2017)
-	- INLS 780, [User Interface Design](https://inls718.johndmart.in) (Spring 2017)
-	- INLS 500, [Human Information Interaction](https://inls500.johndmart.in) (Fall 2015/2016)
-	- INLS 161, [Tools for Information Literacy](https://inls161.johndmart.in) (Summer II 2015/2016)
-- Graduate Research Consultant, Office for Undergraduate Research, University of North Carolina at Chapel Hill (Fall 2016)
-	- COMP 380/380H (Fall 2016)
-- Writing Coach, Western Michigan University, Dept. of Comparative Religion, Kalamazoo, MI (Spring 2012)
-- Teaching Assistant, American University in Cairo, Dept. of Arab and Islamic Civilizations, Cairo, Egypt (Spring 2009-Fall 2011)
-- Instructor, Intensive English and Computing Workshop, Desert Development Training Center (DDTC-المركز التكنولوجي المتكامل), New Basaisa, Ras Sudr, South Sinai (August 2010) 
-- Graduate Technology Assistant, American University in Cairo, Center for Learning and Teaching, Cairo, Egypt (Fall 2008-Summer 2010)
-- Teaching Assistant, Western Michigan University, Dept. of Comparative Religion, Kalamazoo, MI (Fall 2004-Spring 2005)
 
 # Other publications and presentations
 
@@ -125,11 +110,49 @@ Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona
 - John D. Martin III, Ashlee Edwards, Kaitlin Costello, "Breaking the Law: Disclosure of Illegal Behavior in Online Forums," presentation on work in progress, Doctoral Research Day, School of Information and Library Science, University of North Carolina at Chapel Hill (22 November 2013) 
 - John D. Martin III, "Digitization in a Box," LAUNC-CH 2013 Annual Conference, Chapel Hill, North Carolina (11 March 2013)
 
-## Online Contributions
+# Fellowships
 
-- Survey Methods Submodule, Global Training Resources for Information Professionals, University of North Carolina at Chapel Hill (2014) 
+- Royster Dissertation Completion Fellowship, Graduate School, University of North Carolina at Chapel Hill (2017-2018)
+- Future Faculty Fellowship, Center for Faculty Excellence, University of North Carolina at Chapel Hill (Spring 2016) 
+- Lester Asheim Fellowship, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2016) 
+- HASTAC Scholar Fellowship (2014) 
+- ELIME-21 Fellowship, School of Information and Library Science, University of North Carolina at Chapel Hill (2012-2014) 
 
-## Invited Talks and Panels
+# Awards and Grants
+
+- Middle East Library Partnership Project (named in grant proposal narrative), Scholarly Communications Grant, Andrew W. Mellon Foundation (Summer 2014-Summer 2015) 
+- Support Grant for Spatial Humanities Incubator Group, Semaphore Working Group, Duke University/University of North Carolina at Chapel Hill (Fall 2012) 
+- Research Grant (Competitive), Graduate College, Western Michigan University,"The Characteristic of Guidance and the Secrets of the Guided: A 13th-century Treatise on the Divine Names in Islamic Theurgic Rites," AAR Midwest 2012, Rock Island, Illinois (March 2012) 
+- Excellence in Arabic Award, Dept. of Foreign Languages, Western Michigan University (March 2012) 
+- Research Support Grant (University-wide, Competitive), Dept. of Arab and Islamic Civilizations, School of Humanities and Social Sciences, American University in Cairo (June 2011) 
+- President’s Grant for Study Abroad, Diether H. Haenicke Institute for Global Education, Western Michigan University (2007) 
+- President’s Scholarship for Study Abroad, Dept. of Foreign Languages, Western Michigan University (2007) 
+
+{% comment %}
+# Assistantships
+
+- Research Application Appointment, Dept. of Comparative Religion, Western Michigan University (Summer 2012)
+- Graduate Work Scholarship, Rare Books and Special Collections, AUC Main Library, American University in Cairo (2010-2011) 
+- Graduate Assistantship, Dept. of Arab and Islamic Civilizations, American University in Cairo (2009-2011) 
+- Graduate Work Scholarship, Center for Learning and Teaching, AUC Main Library, American University in Cairo (2008)
+- Graduate Assistantship, Dept. of Comparative Religion, Western Michigan University (2004-2005) 
+{% endcomment %}
+
+# Teaching
+
+- Teaching Fellow (instructor of record), School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2017)
+	- INLS 780, [User Interface Design](https://inls718.johndmart.in) (Spring 2017)
+	- INLS 500, [Human Information Interaction](https://inls500.johndmart.in) (Fall 2015/2016)
+	- INLS 161, [Tools for Information Literacy](https://inls161.johndmart.in) (Summer II 2015/2016)
+- Graduate Research Consultant, Office for Undergraduate Research, University of North Carolina at Chapel Hill (Fall 2016)
+	- COMP 380/380H (Fall 2016)
+- Writing Coach, Western Michigan University, Dept. of Comparative Religion, Kalamazoo, MI (Spring 2012)
+- Teaching Assistant, American University in Cairo, Dept. of Arab and Islamic Civilizations, Cairo, Egypt (Spring 2009-Fall 2011)
+- Instructor, Intensive English and Computing Workshop, Desert Development Training Center (DDTC-المركز التكنولوجي المتكامل), New Basaisa, Ras Sudr, South Sinai (August 2010) 
+- Graduate Technology Assistant, American University in Cairo, Center for Learning and Teaching, Cairo, Egypt (Fall 2008-Summer 2010)
+- Teaching Assistant, Western Michigan University, Dept. of Comparative Religion, Kalamazoo, MI (Fall 2004-Spring 2005)
+
+# Invited Talks, Panels, and Guest Lectures
 
 - "[Privacy and Oversharing Online: A Look at 21st Century Trust](http://johndmart.in/scicafe-20160907)," {% marginnote 'scicafe' '<a href="/scicafe-20160907"><img src="/published/Martin-2016-Privacy-SciCafe.png" width="3000px" /></a>' %} Carolina Science Cafe, Chapel Hill, North Carolina (7 September 2016)
 - "A Publishing Makerspace," (with Sylvia Miller), Scholarly Communications Working Group, Davis Library, University of North Carolina at Chapel Hill (11 February 2015) 
@@ -158,24 +181,6 @@ Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona
 - Delegate, Publishing Makerspace Working Group, Scholarly Communication Institute, Duke University (9-13 November 2014) 
 - Delegate, Open Syllabus Project Workshop & Hackathon, Columbia University (6-7 June 2014) 
 
-# Awards and Grants
-
-- Future Faculty Fellowship, Center for Faculty Excellence, University of North Carolina at Chapel Hill (Spring 2016) 
-- Lester Asheim Fellowship, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2016) 
-- Middle East Library Partnership Project (named in grant proposal narrative), Scholarly Communications Grant, Andrew W. Mellon Foundation (Summer 2014-Summer 2015) 
-- Support Grant for Spatial Humanities Incubator Group, Semaphore Working Group, Duke University/University of North Carolina at Chapel Hill (Fall 2012) 
-- ELIME-21 PhD Fellowship, School of Information and Library Science, University of North Carolina at Chapel Hill (2012-2014) 
-- Research Application Appointment, Dept. of Comparative Religion, Western Michigan University (Summer 2012) 
-- Research/Travel Grant (Competitive), Graduate College, Western Michigan University,"The Characteristic of Guidance and the Secrets of the Guided: A 13th-century Treatise on the Divine Names in Islamic Theurgic Rites," AAR Midwest 2012, Rock Island, Illinois (March 2012) 
-- Excellence in Arabic Award, Dept. of Foreign Languages, Western Michigan University (March 2012) 
-- Research Support Grant (University-wide, Competitive), Dept. of Arab and Islamic Civilizations, School of Humanities and Social Sciences, American University in Cairo (June 2011) 
-- Graduate Work Scholarship, Rare Books and Special Collections, AUC Main Library, American University in Cairo (2010-2011) 
-- Graduate Assistantship, Dept. of Arab and Islamic Civilizations, American University in Cairo (2009-2011) 
-- Graduate Work Scholarship, Center for Learning and Teaching, AUC Main Library, American University in Cairo (2008) 
-- President’s Grant for Study Abroad, Diether H. Haenicke Institute for Global Education, Western Michigan University (2007) 
-- President’s Scholarship for Study Abroad, Dept. of Foreign Languages, Western Michigan University (2007) 
-- Graduate Assistantship, Dept. of Comparative Religion, Western Michigan University (2004-2005) 
-
 # Research and professional experience
 
 - Research Assistant, School of Information and Library Science, University of North Carolina at Chapel Hill (Spring 2016)
@@ -186,13 +191,13 @@ Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona
 - Research Assistant, Islamic Identities, Western Michigan University, Dept. of Comparative Religion, Kalamazoo, MI (Summer 2012)
 - Developer, "University on the Square," Digital Archive of Material from the 25 January 2011 Revolution in Egypt, American University in Cairo Library, Cairo, Egypt (May-July 2011)
 - Research Assistant, American University in Cairo, Rare Books and Special Collections Library-Regional Architecture Collections Unit, Cairo, Egypt (Fall 2010-Spring 2011)
-- IT Consultant and Technician, American Research Center in Egypt, Registration, Collections Management, and Documentation Dept. (RCMDD), Egyptian Museum, Cairo, Egypt (2010-2011)
+- IT Consultant and System Administrator, American Research Center in Egypt, Registration, Collections Management, and Documentation Dept. (RCMDD), Egyptian Museum, Cairo, Egypt (2010-2011)
 
 # Community and Service Activities 
 
 - Nominating committee for executive officers, ACM SIGCAS Computing and Society (2016)
 - Events officer, ASIS&T Special Interest Group on Arts and Humanities (SIG-AH) (2016-2017)
-- Digital Humanities Editor and Web Editor, ACM SIGCAS Computing and Society (2016-2017)
+- Digital Humanities Editor, ACM SIGCAS Computing and Society (2016-2017)
 - Doctoral Student Representative, Personnel Committee, School of Information and Library Science, University of North Carolina at Chapel Hill (2014-2015) 
 - Doctoral Student Representative, Research and Doctoral Committee, School of Information and Library Science, University of North Carolina at Chapel Hill (2013-2014 academic year) 
 - Full-time Representative, Doctoral Students Association, School of Information and Library Science, University of North Carolina at Chapel Hill (2013) 
@@ -215,11 +220,10 @@ Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona
 - Programming / Markup Languages: Bash, C, CSS3, HTML5, JavaScript, Markdown, MySQL, Python, Perl, PHP, R, T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X / L<sup style="font-size: 0.85em; vertical-align: 0.15em; margin-left: -0.36em; margin-right: -0.15em;">A</sup>T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X, XML, XSLT 
 - Web platforms: Jekyll, Drupal, Wordpress
 
-# Affiliations
+# Professional Memberships
 
-- Association for Information Science and Technology (ASIS&T), Student member (2013-present) 
-- Association for Computing Machinery (ACM), Student member (2013-present) 
-- American Association for Public Opinion Research (AAPOR), Student member (2015-present) 
-- American Statistical Association (ASA), Student member (2015-present) 
-- Humanities, Arts, Science, and Technology Alliance and Collaboratory (HASTAC), Scholar (2014)
-- Middle East Studies Association (MESA), Graduate member (2008-present) 
+- Association for Information Science and Technology (ASIS&T)
+- Association for Computing Machinery (ACM) 
+- American Association for Public Opinion Research (AAPOR) 
+- American Statistical Association (ASA)
+- Middle East Studies Association (MESA) 
