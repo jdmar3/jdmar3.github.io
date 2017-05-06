@@ -22,6 +22,12 @@ github:
   icon: ico-github
   alt: "Follow @jdmar3 on GitHub"
   target: "_blank"
+osf:
+  prevar: //osf.io/
+  var: 8gx9z
+  icon: ico-science
+  alt: "View my work and preprints on Open Science Framework"
+  target: "_blank"
 email:
   prevar: "mailto:"
   var: me@johndmart.in 
