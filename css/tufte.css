@@ -1217,6 +1217,9 @@ hr.slender {
 .ico-domain2:before {
   content: ""; }
 
+.ico-science:before {
+  content: ""; }
+
 @font-face {
   font-family: 'iconfont';
   src: url("../fonts/iconfont.eot?rgwlb8");
