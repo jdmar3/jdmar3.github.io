@@ -429,6 +429,9 @@ ul li, .bibliography ul li {
   text-indent: -1.5em;
   margin-left: 1.5em; }
 
+ul li.listing {
+  text-indent: 0em; }
+
 ul li ul {
   width: 100% !important; }
 
