@@ -48,9 +48,13 @@ PhD student in the School of Information and Library Science at the University o
 ## In Preparation
 
 - Amelia N. Gibson and John D. Martin III, "Information Poverty among Parents of Individuals with Developmental Disabilities"
-- Charles Kurzman and John D. Martin III, "The Hidden Heritage of Arab Libraries: Online Catalogs and Institutional Barriers to Discoverability"
+- John D. Martin III, "Embedded Epistemology: How Interactive Information Systems and Interfaces Represent The Worldview of the Creators"
 - John D. Martin III, "Rapid Extraction: A Classroom Method for Effective Reading of Scientific Literature"
 - John D. Martin III, "Teaching soft skills in design: Designing a UX class to support students in the real world"
+
+## Submitted/Under Review
+
+- Charles Kurzman and John D. Martin III, "The Hidden Heritage of Arab Libraries: Online Catalogs and Institutional Barriers to Discoverability"
 
 # Publications
 
@@ -162,8 +166,10 @@ Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona
 # Media Coverage
 
 - Patrick Seelinger, "[Scraping for Secrets on Online Drug Forums](http://endeavors.unc.edu/scraping_for_secrets_on_online_drug_forums)," *Endeavors* (ISSN 1933-4338) (20 October 2016)  
+{% comment %}
 - Shalini Karnani, "Modern Religion and Spirituality Series II," Just Friendly Advice, WKMI TalkRadio 1360AM, Kalamazoo, MI, Invited Guest (29 July 2007) 
 - Shalini Karnani, "Modern Religion and Spirituality Series I," Just Friendly Advice, WKMI TalkRadio 1360AM, Kalamazoo, MI, Invited Guest (24 June 2007)
+{% endcomment %}
 
 # Workshops
 
@@ -195,8 +201,8 @@ Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona
 
 # Community and Service Activities 
 
-- Nominating committee for executive officers, ACM SIGCAS Computing and Society (2016)
-- Events officer, ASIS&T Special Interest Group on Arts and Humanities (SIG-AH) (2016-2017)
+- Nominating Committee for Executive Officers, ACM SIGCAS Computing and Society (2016)
+- Events Officer, ASIS&T Special Interest Group on Arts and Humanities (SIG-AH) (2016-2017)
 - Digital Humanities Editor, ACM SIGCAS Computing and Society (2016-2017)
 - Doctoral Student Representative, Personnel Committee, School of Information and Library Science, University of North Carolina at Chapel Hill (2014-2015) 
 - Doctoral Student Representative, Research and Doctoral Committee, School of Information and Library Science, University of North Carolina at Chapel Hill (2013-2014 academic year) 
