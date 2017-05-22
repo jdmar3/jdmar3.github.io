@@ -81,7 +81,7 @@ PhD student in the School of Information and Library Science at the University o
 ## Books Edited
 
 - Amanda Click, Sumayya Ahmed, Jacob Hill, and John D. Martin III, eds., {% marginnote 'lismena' '<a href="https://www.degruyter.com/view/product/246928"><img src="/published/lismena.png" /></a>' %} *Libraries, Librarians and Information Science in the Middle East and North Africa,* Global Studies in Library and Information Science Series (de Gruyter/SAUR, 2016) 
-- Martin Fowler, John D. Martin III and John L. Hochheimer, eds., *Spirituality: Theory, Praxis and Pedagogy*{% comment %} (e-book){% endcomment %}, (Inter-Disciplinary Press, 2011)
+- Martin Fowler, John D. Martin III and John L. Hochheimer, eds., *Spirituality: Theory, Praxis and Pedagogy*{% comment %} (e-book){% endcomment %} (Inter-Disciplinary Press, 2011)
 
 ## Technical Reports
 
@@ -145,9 +145,9 @@ Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona
 # Teaching
 
 - Teaching Fellow (instructor of record), School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2017)
-	- INLS 161, [Tools for Information Literacy](https://inls161.johndmart.in) (Summer II 2015/2016/2017)
-	- INLS 780, [User Interface Design](https://inls718.johndmart.in) (Spring 2017)
-	- INLS 500, [Human Information Interaction](https://inls500.johndmart.in) (Fall 2015/2016)
+	- INLS 161, [Tools for Information Literacy](https://inls161.johndmart.in) (Summer II [2015](https://ils.unc.edu/courses/2015_summerII/inls161_001/)/[2016](https://ils.unc.edu/courses/2016_summerII/inls161_001/)/[2017](https://ils.unc.edu/courses/2016_summerII/inls161_001))
+	- INLS 780, [User Interface Design](https://inls718.johndmart.in) (Spring [2017](http://ils.unc.edu/courses/2017_spring/inls718_001/))
+	- INLS 500, [Human Information Interaction](https://inls500.johndmart.in) (Fall [2015](https://ils.unc.edu/courses/2015_fall/inls500_001/)/[2016](https://ils.unc.edu/courses/2016_fall/inls500_001/))
 - Graduate Research Consultant, Office for Undergraduate Research, University of North Carolina at Chapel Hill (Fall 2016)
 	- COMP 380/380H (Fall 2016)
 - Writing Coach, Western Michigan University, Dept. of Comparative Religion, Kalamazoo, MI (Spring 2012)
