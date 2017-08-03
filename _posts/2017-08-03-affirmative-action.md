@@ -7,7 +7,7 @@ tags: [ social justice, affirmative action, racial justice ]
 excerpt_separator: <!--more-->
 ---
 
-{% newthought 'The US Department of Justice,' %} under directive from the Trump administration, is going to pursue an investigation of affirmative action as a form of race-based discrimination. {% sidenote 'doj' 'Savage, Charlie. 1 August 2017. "Justice Dept. to Take On Affirmative Action in College Admissions." *The New York Times.* https://www.nytimes.com/2017/08/01/us/politics/trump-affirmative-action-universities.html' %} 
+{% newthought 'The US Department of Justice,' %} under directive from the Trump administration, is going to pursue an investigation of affirmative action as a form of race-based discrimination.{% sidenote 'doj' 'Savage, Charlie. 1 August 2017. "Justice Dept. to Take On Affirmative Action in College Admissions." *The New York Times.* https://www.nytimes.com/2017/08/01/us/politics/trump-affirmative-action-universities.html' %} 
 This raised a few questions for me, as it should have for many people in higher ed. 
 This can be settled with a straw poll:{% marginnote 'tweet' 'This blog post was inspired by some tweets I made on this topic. Given the importance of the topic, I thought it deserved longer, more coherent treatment.' %}
 
@@ -38,9 +38,9 @@ It doesn't exist.
 
 In fact, the opposite &mdash;the problem of students of color not being admitted or not applying to universities&mdash;absolutely still exists, despite affirmative action. 
 Banning or removing affirmative action programs makes the problem even worse.
-Application rates for students of color go down subsequent to affirmative action bans. {% sidenote 'admissions' 'Dickson, Lisa M. 2006. “Does Ending Affirmative Action in College Admissions Lower the Percent of Minority Students Applying to College?” Economics of Education Review 25 (1): 109–19. doi:<a href="https://doi.org/10.1016/j.econedurev.2004.11.005">10.1016/j.econedurev.2004.11.005</a>.' %}
-Graduation rates for students of color suffer tremendously as a result of the removal of affirmative action programs. {% sidenote 'graduation' 'Cortes, Kalena E. 2010. “Do Bans on Affirmative Action Hurt Minority Students? Evidence from the Texas Top 10% Plan.” Economics of Education Review 29 (6): 1110–24. doi:<a href="http://users.nber.org/~cortesk/econed2010.pdf">10.1016/j.econedurev.2010.06.004</a>.' %} 
-These problems are *even worse* at highly "selective" or elite universities. {% sidenote 'problems' 'Hinrichs, Peter. 2010. “The Effects of Affirmative Action Bans on College Enrollment, Educational Attainment, and the Demographic Composition of Universities.” The Review of Economics and Statistics 94 (3): 712–22. doi:<a href="http://dx.doi.org/10.1162/REST_a_00170">10.1162/REST_a_00170</a>.' %}'
+Application rates for students of color go down subsequent to affirmative action bans.{% sidenote 'admissions' 'Dickson, Lisa M. 2006. “Does Ending Affirmative Action in College Admissions Lower the Percent of Minority Students Applying to College?” Economics of Education Review 25 (1): 109–19. doi:<a href="https://doi.org/10.1016/j.econedurev.2004.11.005">10.1016/j.econedurev.2004.11.005</a>.' %}
+Graduation rates for students of color suffer tremendously as a result of the removal of affirmative action programs.{% sidenote 'graduation' 'Cortes, Kalena E. 2010. “Do Bans on Affirmative Action Hurt Minority Students? Evidence from the Texas Top 10% Plan.” Economics of Education Review 29 (6): 1110–24. doi:<a href="http://users.nber.org/~cortesk/econed2010.pdf">10.1016/j.econedurev.2010.06.004</a>.' %} 
+These problems are *even worse* at highly "selective" or elite universities.{% sidenote 'problems' 'Hinrichs, Peter. 2010. “The Effects of Affirmative Action Bans on College Enrollment, Educational Attainment, and the Demographic Composition of Universities.” The Review of Economics and Statistics 94 (3): 712–22. doi:<a href="http://dx.doi.org/10.1162/REST_a_00170">10.1162/REST_a_00170</a>.' %}'
 
 If you think that the intent and purpose of affirmative action is to keep white people out of universities, let me say a few things to you:
 
@@ -52,7 +52,7 @@ If you think that the intent and purpose of affirmative action is to keep white 
 In addition, many white people apparently erroneously believe that people of color have a free-ride to college in the United States. 
 This is not only false, but patently absurd. 
 Enslaved black people were exploited to build many unversities in the United States. 
-Despite this reality, no reparations are being made to their descendents. {% sidenote 'slave-universities' 'Love, David. 21 April 2016. "Enslaved Black People Helped Build America’s Top Universities — How Should the Colleges Right These Wrongs?." *Atlanta Black Star.* http://atlantablackstar.com/2016/04/21/enslaved-black-people-helped-build-americas-top-universities-how-should-the-colleges-right-these-wrongs/' %} 
+Despite this reality, no reparations are being made to their descendents.{% sidenote 'slave-universities' 'Love, David. 21 April 2016. "Enslaved Black People Helped Build America’s Top Universities — How Should the Colleges Right These Wrongs?." *Atlanta Black Star.* http://atlantablackstar.com/2016/04/21/enslaved-black-people-helped-build-americas-top-universities-how-should-the-colleges-right-these-wrongs/' %} 
 The notion that free college is afforded to black Americans is a delusion: a white supremacist fantasy meant to stoke feelings of entitlment.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Do you know how many white people truly and genuinely believe that black people get to go to college for free?</p>&mdash; Ashley C. Ford (@iSmashFizzle) <a href="https://twitter.com/iSmashFizzle/status/892557827675480064">August 2, 2017</a></blockquote>
@@ -63,7 +63,7 @@ This notion usually takes the form of discussions about "quality" or "fit" or "r
 These words are all codes for underlying white supremacist ideologies that white people take for granted. 
 
 These lawsuits about affirmative action come back around every few years, allowing the casual white supremacist contingent in the United States to clutch their pearls about non-existent discrimination against them.
-And each time, the Supreme Court of the United States has ruled that affirmative is not in any way unconstitutional, and it has remained legal. {% sidenote 'justice' 'Ifill, Sherrilyn A. 2 August 2017. "Racial Justice Demands Affirmative Action." *The New York Times.* https://nytimes.com/2017/08/02/opinion/college-discrimination-whites-donald-trump-.html' %}
+And each time, the Supreme Court of the United States has ruled that affirmative is not in any way unconstitutional, and it has remained legal.{% sidenote 'justice' 'Ifill, Sherrilyn A. 2 August 2017. "Racial Justice Demands Affirmative Action." *The New York Times.* https://nytimes.com/2017/08/02/opinion/college-discrimination-whites-donald-trump-.html' %}
 The repeated legal challenges to affirmative action are meant to normalize the insidious discourse of reverse discrimination (which simply does not and cannot exist in a structurally unequal system). 
 It is very dangerous, however, that this repeated white supremacist push for challenging affirmative action has reached the Department of Justice and might result in federal investigations. 
 
