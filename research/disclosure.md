@@ -9,11 +9,15 @@ The study considered two forums (subreddits) related to drug use, r/trees and r/
 
 # Online Disclosure of Incriminating Information
 
-*Patterns of Risky Information Behavior in Two Drug Forums* {% marginnote 'jasist' 'This article was accepted for publication in the *Journal of the Association of Information Science and Technology (JASIS&T)* in March 2017. A preprint is available here: https://osf.io/preprints/socarxiv/bk2ck/' %}
+*Patterns of Risky Information Behavior in Two Drug Forums* {% marginnote 'jasist' '<a href="/published/Costello-et-al-2017-Disclosure-JASIST.pdf"><img src="/published/Costello-et-al-2017-Disclosure-JASIST.png" /></a>' %}
 
 ## Abstract
 
 Although people disclose illicit activities such as drug use online, we currently know little about what information people choose to disclose and share or whether there are differences in behavior depending on the illicit activity being disclosed. This exploratory mixed-methods study examines how people discuss and disclose the use of two different drugs—marijuana and heroin—in the popular online forum Reddit. In this study hermeneutic content analysis is employed in order to describe the type of comments people make in forums dedicated to discussions about illicit drugs. With inductive analysis, seven categories of comments were identified: disclosure, instruction and advice, culture, community norms, moralizing, legality, and banter. Our subsequent quantitative analysis indicates that although the amounts of disclosure are similar in each subreddit, there are more instances of instruction and advice in discussions about opiates, and more examples of banter in comments about marijuana use. In fact, both subreddits have high rates of banter. We argue that banter fosters disclosure in both subreddits, and that banter and disclosure are linked with information seeking behaviors in online forums. This work has implications for future explorations of disclosure online and for public health interventions aimed at disseminating credible information about drug use to at-risk individuals.
+
+### Cite or download
+
+- Kaitlin Costello, John D. Martin III, and Ashlee Edwards, "[Online Disclosure of Incriminating Information: Patterns of Risky Information Behavior in Two Drug Forums](/published/Costello-et-al-2017-Disclosure-JASIST.pdf)," *Journal of the Association for Information Science and Technology* (in press, accepted March 2017, published online June 2017) https://doi.org/10.1002/asi.23880
 
 # Privacy and Oversharing Online 
 
@@ -27,7 +31,7 @@ Here is the marketing blurb and materials from the talk itself:
 
 [View the presentation](/scicafe-20160907)
 
-[Download the paper](/scicafe-20160907/handout.pdf)
+[Download the handout](/scicafe-20160907/handout.pdf)
 
 # ‘Dude… I Zone Out Like That All the Time’
 
