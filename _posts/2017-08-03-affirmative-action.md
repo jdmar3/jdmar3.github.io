@@ -46,7 +46,7 @@ If you think that the intent and purpose of affirmative action is to keep white 
 
 1. It is not working. There is an embarrassing number of white students at universities and students of color still have trouble getting into, paying for, and graduating from university.
 2. If you believe that affirmative action means taking something away from a white person, you are a white supremacist. This is unequivocal.
-3. Our universities are (sometimes literally) built on a foundation of white supremacism. 
+3. U.S. universities are (sometimes literally) built on a foundation of white supremacism. To argue otherwise is deluded and intellectually dishonest.
 4. White students have every single advantage available to them when it comes to university admission, including legacy preference.
 
 In addition, many white people apparently erroneously believe that people of color have a free-ride to college in the United States. 
@@ -58,9 +58,9 @@ The notion that free college is afforded to black Americans is a delusion: a whi
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Do you know how many white people truly and genuinely believe that black people get to go to college for free?</p>&mdash; Ashley C. Ford (@iSmashFizzle) <a href="https://twitter.com/iSmashFizzle/status/892557827675480064">August 2, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-All such thinking is premised on the notion that white people and their children deserve something that people of color must work for. 
+All such thinking is premised on the notion that white people and their children deserve to be given something that people of color must work for (or flat-out do not deserve). 
 This notion usually takes the form of discussions about "quality" or "fit" or "readiness" of minority students. 
-These words are all codes for underlying white supremacist ideologies that white people take for granted. 
+These words are all codes for underlying delusional white supremacist ideologies that white people take for granted. 
 
 These lawsuits about affirmative action come back around every few years, allowing the casual white supremacist contingent in the United States to clutch their pearls about non-existent discrimination against them.
 And each time, the Supreme Court of the United States has ruled that affirmative is not in any way unconstitutional, and it has remained legal.{% sidenote 'justice' 'Ifill, Sherrilyn A. 2 August 2017. "Racial Justice Demands Affirmative Action." *The New York Times.* https://nytimes.com/2017/08/02/opinion/college-discrimination-whites-donald-trump-.html' %}
