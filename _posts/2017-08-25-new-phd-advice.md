@@ -7,7 +7,7 @@ tags: [ PhD, dissertation, advice, self-care ]
 excerpt_separator: <!--more-->
 ---
 
-{% newthought 'I used this Tweet' %}  as my morning writing prompt a few weeks ago:  
+{% newthought 'I used this Tweet' %}  as my morning writing prompt a few weeks ago:{% marginnote 'thread' 'My tweet thread on this topic is located here: https://twitter.com/jdmar3/status/896063276726886400'%}  
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Earned a PhD? <br><br>Pay it forward &amp; help the next generation.<br><br>What is your most important advice for a new PhD student?<a href="https://twitter.com/hashtag/phdtips?src=hash">#phdtips</a></p>&mdash; Prof Dynarski (@dynarski) <a href="https://twitter.com/dynarski/status/895690052616978432">August 10, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -30,7 +30,7 @@ What follows is my advice for new PhD students. Some of these are things that I 
 
 7. Learn to use version control software and a remote repository to manage your work. [GitHub](https://github.com) or [Bitbucket](https://bitbucket.org) are both awesome.
 
-8. Use something like [Overleaf](https://www.overleaf.com) to write. It is good for collaboration, versioning, and safe.
+8. Use something like [Overleaf](https://www.overleaf.com/signup?ref=077187625891) to write. It is good for collaboration, versioning, and safe.
 
 9. DO NOT STORE DATA OR WRITING ON YOUR LAPTOP. Keep it multiply backed up, in a cloud app, and/or a remote server.{% sidenote 'backup' 'Gabe Tippery. 2014. Backing Up. Hacking the Thesis. Retrieved from https://u.osu.edu/hackingthethesis/about/backing-up/' %}
 
