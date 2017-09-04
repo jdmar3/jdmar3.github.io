@@ -293,6 +293,7 @@ ul li, .bibliography ul li {
     padding-left: 0;
 	  text-indent: -1.5em;
     margin-left: 1.5em; 
+	  margin-right: 0;
 }
 
 ul li.listing {
@@ -348,9 +349,9 @@ img { max-width: 100%; }
                          vertical-align: baseline;
                          position: relative; }
 
-li .sidenote, li .marginnote { margin-right: -70%; }//{ margin-right: -80%; } //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
+li .sidenote, li .marginnote { margin-right: -64%; }//{ margin-right: -80%; } //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
 
-blockquote .sidenote, blockquote .marginnote { margin-right: -72.5% }
+blockquote .sidenote, blockquote .marginnote { margin-right: -60% }
 
 .sidenote-number { counter-increment: sidenote-counter; }
 
@@ -393,7 +394,7 @@ div.table-wrapper { overflow-x: auto } //changed all overflow values to 'auto' s
 }
 
 @media screen and (max-width: 1400px) {
-	  li .sidenote, li .marginnote { margin-right: -72.5%; }//{ margin-right: -80%; } //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
+	  li .sidenote, li .marginnote { margin-right: -64%; }//{ margin-right: -80%; } //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
 }
 
 .marginnote code, .sidenote code { font-size: 1rem; } //more .code class removal

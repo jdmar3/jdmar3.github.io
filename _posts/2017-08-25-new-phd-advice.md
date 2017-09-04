@@ -7,7 +7,9 @@ tags: [ PhD, dissertation, advice, self-care ]
 excerpt_separator: <!--more-->
 ---
 
-{% newthought 'I used this Tweet' %}  as my morning writing prompt a few weeks ago:{% marginnote 'thread' 'My tweet thread on this topic is located here: https://twitter.com/jdmar3/status/896063276726886400'%}  
+{% newthought 'I used this Tweet' %} as my morning writing prompt a few weeks ago:
+
+{% marginnote 'thread' 'My tweet thread on this topic is located here: https://twitter.com/jdmar3/status/896063276726886400' %} 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Earned a PhD? <br><br>Pay it forward &amp; help the next generation.<br><br>What is your most important advice for a new PhD student?<a href="https://twitter.com/hashtag/phdtips?src=hash">#phdtips</a></p>&mdash; Prof Dynarski (@dynarski) <a href="https://twitter.com/dynarski/status/895690052616978432">August 10, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
