@@ -441,7 +441,8 @@ ul li, .bibliography ul li {
   margin-left: 0;
   padding-left: 0;
   text-indent: -1.5em;
-  margin-left: 1.5em; }
+  margin-left: 1.5em;
+  margin-right: 0; }
 
 ul li.listing {
   text-indent: 0em; }
@@ -503,10 +504,10 @@ img {
   position: relative; }
 
 li .sidenote, li .marginnote {
-  margin-right: -70%; }
+  margin-right: -64%; }
 
 blockquote .sidenote, blockquote .marginnote {
-  margin-right: -72.5%; }
+  margin-right: -60%; }
 
 .sidenote-number {
   counter-increment: sidenote-counter; }
@@ -564,7 +565,7 @@ div.table-wrapper {
     padding-right: 5%; } }
 @media screen and (max-width: 1400px) {
   li .sidenote, li .marginnote {
-    margin-right: -72.5%; } }
+    margin-right: -64%; } }
 .marginnote code, .sidenote code {
   font-size: 1rem; }
 
