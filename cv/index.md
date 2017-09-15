@@ -47,14 +47,14 @@ PhD student in the School of Information and Library Science at the University o
 {% comment %}{% endcomment %}
 ## In Preparation
 
-- Amelia N. Gibson and John D. Martin III, "Information Poverty among Parents of Individuals with Developmental Disabilities"
 - John D. Martin III, "Embedded Epistemology: How Interactive Information Systems and Interfaces Represent The Worldview of the Creators"
 - John D. Martin III, "Rapid Extraction: A Classroom Method for Effective Reading of Scientific Literature"
 - John D. Martin III, "Teaching soft skills in design: Designing a UX class to support students in the real world"
 
 ## Submitted/Under Review
 
-- Charles Kurzman and John D. Martin III, "The Hidden Heritage of Arab Libraries: Online Catalogs and Institutional Barriers to Discoverability"
+- Amelia N. Gibson and John D. Martin III, "Information Poverty among Parents of Individuals with Developmental Disabilities"
+- Charles Kurzman and John D. Martin III, "The Hidden Heritage of Arab Libraries: Online Catalogs and Institutional Barriers to Discoverability" (revise and resubmit)
 
 # Publications
 
