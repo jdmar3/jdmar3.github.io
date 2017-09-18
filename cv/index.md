@@ -161,7 +161,7 @@ Computer Science," *HASTAC 2016: Impact: Variation, Innovation, Action,* Arizona
 - "[Privacy and Oversharing Online: A Look at 21st Century Trust](http://johndmart.in/scicafe-20160907)," {% marginnote 'scicafe' '<a href="/scicafe-20160907"><img src="/published/Martin-2016-Privacy-SciCafe.png" width="3000px" /></a>' %} Carolina Science Cafe, Chapel Hill, North Carolina (7 September 2016)
 - "A Publishing Makerspace," (with Sylvia Miller), Scholarly Communications Working Group, Davis Library, University of North Carolina at Chapel Hill (11 February 2015) 
 - "Pipelines to the Library & Information World: UNC-Greensboro & UNC-Chapel Hill," Davis Library, University of North Carolina at Chapel Hill, Panelist (9 October 2013)  
-- "Whose House is It?: Evaluating Misconceptions of Islam and Muslims World-Wide," First Presbyterian Church of Richland, Richland, MI, Invited Speaker (4 February 2007) 
+{% comment %}- "Whose House is It?: Evaluating Misconceptions of Islam and Muslims World-Wide," First Presbyterian Church of Richland, Richland, MI, Invited Speaker (4 February 2007){% endcomment %}
 
 # Media Coverage
 
