@@ -69,4 +69,7 @@ People have lots of reasons, both situation and structural, for not being out: a
 
 Finally, don't think that the world no longer needs days like this when queer people can make themselves visible if they so choose. We still do.
 
-Just because you think the world is ready for us all to be who we are doesn't mean that it is. Give people space to just be people. Leave them alone. Let them be. Be happy for those who are out on National Coming Out Day. But remember that it's also okay not to be.
+Just because you think the world is ready for us all to be who we are doesn't mean that it is. Give people space to just be people. Leave them alone. Let them be. Be happy for those who are out on National Coming Out Day. But remember that it's also okay not to be.{% sidenote 'tweets' 'This blog post came out of my tweeting about National Coming Out Day this morning after I saw the usual mix of things in the news and on Twitter about it.' %}
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So here is a thing about <a href="https://twitter.com/hashtag/NationalComingOutDay?src=hash&amp;ref_src=twsrc%5Etfw">#NationalComingOutDay</a>.</p>&mdash; John D. Martin III (@jdmar3) <a href="https://twitter.com/jdmar3/status/918173160582844424?ref_src=twsrc%5Etfw">October 11, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
