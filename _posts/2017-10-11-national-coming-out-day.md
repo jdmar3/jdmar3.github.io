@@ -43,7 +43,7 @@ Half the time I don't come out. I don't say anything about myself. Or I straight
 
 And why? 
 
-This is all self-preservatory behavior. If someone misgenders my partner, and there are enough other cues, I know I'm not safe. If I hear someone using violent, queerphobic language, I know I'm not safe. I'm not coming out. If anyone specifically asks if I'm gay: I'm not coming out. If I hear someone speculate about someone else being LGBTQIA: I'm not coming out. I'm also ending the conversation and leaving it as soon as possible. I don't need to be around all of that. 
+This is all self-preservative behavior. If someone misgenders my partner, and there are enough other cues, I know I'm not safe. If I hear someone using violent, queerphobic language, I know I'm not safe. I'm not coming out. If anyone specifically asks if I'm gay: I'm not coming out. If I hear someone speculate about someone else being LGBTQIA: I'm not coming out. I'm also ending the conversation and leaving it as soon as possible. I don't need to be around all of that. 
 
 Self-preservation is first. Everything else is second. 
 
