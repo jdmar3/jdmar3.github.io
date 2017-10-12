@@ -49,9 +49,9 @@ Self-preservation is first. Everything else is second.
 
 ## Why do I let someone else's behavior affect me?
 
-It is also important to remember two structural features of our social worlds when we talk about how great coming out is and wish each other happy National Coming Out Day: it is impossible for some people to come out, and impractical for others. 
+It is important to remember two structural features of our social worlds when we talk about how great coming out is and wish each other happy National Coming Out Day: it is impossible for some people to come out, and impractical for others. 
 
-I spent a number of years living in the Middle East. I was not out then. I lived with my partner. That was difficult. We were "friends" and "roommates" most of the time. Some of our friends knew, many did not. It was always uncomfortable. It has taken me six years since moving back to the United States to feel comfortable talking publicly about being queer. It has taken me *years* to return to being comfortable talking about myself because I spent all those years constantly on guard about it. 
+I spent a number of years living in the Middle East. I was not out then. I lived with my partner. That was difficult. We were "friends" and "roommates" most of the time. Some of our friends knew, most did not. It was always uncomfortable. It has taken me six years since moving back to the United States to feel comfortable talking publicly about being queer. It has taken me *years* to return to being comfortable talking about myself because I spent all those years constantly on guard about it. 
 
 Before that, I had *no* problem talking about it. I was in queer student groups. I worked for an LGBTQ support office. I talked to classes about being queer. I helped found Kalamazoo Pride. But it was impractical to be out for a certain period, so I went back in. 
 
