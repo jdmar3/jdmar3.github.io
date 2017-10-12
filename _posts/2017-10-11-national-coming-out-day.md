@@ -65,7 +65,7 @@ Why is that?
 
 When that happens, we don't talk about ourselves. People ask if we're married: we demur. We change the conversation. We leave the room. We also leave the profession/the academy/our jobs/our careers/public spaces, etc. You get the idea.
 
-People have lots of reasons, both situation and structural, for not being out: and they are all good reasons. Don't ever expect someone to put themselves at risk like that. And don't you dare out people. 
+People have lots of reasons, both situational and structural, for not being out: and they are all good reasons. Don't ever expect someone to put themselves at risk like that. And don't you dare out people. 
 
 Finally, don't think that the world no longer needs days like this when queer people can make themselves visible if they so choose. We still do.
 
