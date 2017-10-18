@@ -178,7 +178,8 @@
   padding: 0; }
 
 /* clearfix hack after Cederholm (group class name) */
-.group:after {
+.group:after,
+.bottom-group:after {
   content: "";
   display: table;
   clear: both; }
@@ -540,6 +541,35 @@ div.table-wrapper {
   overflow-x: auto; }
 
 @media screen and (max-width: 760px) {
+  h1.websitetitle {
+    text-align: center;
+    line-height: 2.2rem; }
+
+  header > nav h1 a {
+    padding-right: 0;
+    float: inherit; }
+
+  header > nav.logo-wrap {
+    text-align: center; }
+
+  header > nav.bottom-group {
+    text-align: center; }
+
+  header > nav.bottom-group a {
+    float: inherit;
+    padding-right: 1rem;
+    padding-left: 1rem; }
+
+  header > nav a.logo {
+    float: inherit;
+    padding-right: 0;
+    padding-top: 0;
+    display: block;
+    margin: auto; }
+
+  header > nav a img {
+    top: 0 !important; }
+
   p, footer, div.mathblock {
     width: 90%; }
 
@@ -694,14 +724,19 @@ header > nav.group, body footer {
   width: 100%;
   padding-top: 2rem; }
 
+header > nav.bottom-group {
+  width: 100%;
+  /*padding-top: 2rem;*/ }
+
 /* nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
 nav.group a.active:after{ content:"\000a0\0003e" ;} */
 nav.group a.active {
   color: #166DAB; }
 
 header > nav a {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
+  font-weight: 500;
   letter-spacing: 0.15em;
   text-transform: uppercase;
   color: #56A0D3;
@@ -721,18 +756,23 @@ header > nav a img {
   top: -1.5rem; }
 
 .badge {
-  position: relative;
   overflow: hidden;
   border-radius: 50%; }
 
-/*
-img.badge {
+/*img.badge {
     display: inline;
     margin: 0 auto;
-    height: 100%;
-    width: auto;
-}
-*/
+//    height: 100%;
+//    width: auto;
+}*/
+header > .bottom-group a {
+  padding-top: 0rem;
+  padding-bottom: 1rem; }
+
+header > nav.group h1 a {
+  font-size: 2rem;
+  padding-top: 0.3rem; }
+
 ul.footer-links {
   list-style: none;
   text-align: left;
