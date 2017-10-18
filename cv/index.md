@@ -6,7 +6,6 @@ weight: 1
 nav_include: true
 ---
 
-<h1 class="content-listing-header sans">{{ site.author }}</h1>
 
 {% include info.md %}
 
