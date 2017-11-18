@@ -46,7 +46,7 @@ PhD student in the School of Information and Library Science at the University o
 {% comment %}{% endcomment %}
 ## In Preparation
 
-- John D. Martin III, "Embedded Epistemology: How Interactive Information Systems and Interfaces Represent The Worldview of the Creators"
+- John D. Martin III, "Embedded Epistemology: How Interactive Information Systems and Interfaces Represent The Worldview of their Creators"
 - John D. Martin III, "Rapid Extraction: A Classroom Method for Effective Reading of Scientific Literature"
 - John D. Martin III, "Teaching soft skills in design: Designing a UX class to support students in the real world"
 
@@ -59,7 +59,7 @@ PhD student in the School of Information and Library Science at the University o
 
 ## Articles
  
-- Kaitlin Costello, John D. Martin III, and Ashlee Edwards, {% marginnote 'disclosure' '<a href="/published/Costello-et-al-2017-Disclosure-JASIST.pdf"><img src="/published/Costello-et-al-2017-Disclosure-JASIST.png" /></a>' %} "[Online Disclosure of Incriminating Information: Patterns of Risky Information Behavior in Two Drug Forums](/published/Costello-et-al-2017-Disclosure-JASIST.pdf)," *Journal of the Association for Information Science and Technology 68*(10), 2439-2448 (October 2017) https://doi.org/10.1002/asi.23880
+- Kaitlin Costello, John D. Martin III, and Ashlee Edwards, {% marginnote 'disclosure' '<a href="/published/Costello-et-al-2017-Disclosure-JASIST.pdf"><img src="/published/Costello-et-al-2017-Disclosure-JASIST.png" /></a>' %} "[Online Disclosure of Illicit Information: Information Behaviors in Two Drug Forums](/published/Costello-et-al-2017-Disclosure-JASIST.pdf)," *Journal of the Association for Information Science and Technology 68*(10), 2439-2448 (October 2017) https://doi.org/10.1002/asi.23880
 - John D. Martin III and Carolyn Runyon, {% marginnote 'hegemony' '<a href="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf"><img src="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.png" /></a>' %} "[Digital Humanities, Digital Hegemony: Exploring Funding Practices and Unequal Access in the Digital Humanities](/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf)," *ACM SIGCAS Computers and Society 46*(1), 20-26 (March 2016) https://doi.org/10.1145/2908216.2908219
 
 ## Conference Proceedings
