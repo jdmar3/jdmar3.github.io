@@ -18,8 +18,10 @@ Examples of previously taught versions of the course:
 John D. Martin III: 
 
 [Summer II 2015](https://ils.unc.edu/courses/2015_summerII/inls161_001/)
+
 [Summer II 2016](https://ils.unc.edu/courses/2016_summerII/inls161_001/) 
-[Summer II 2017](https://ils.unc.edu/courses/2016_summerII/inls161_001))
+
+[Summer II 2017](https://ils.unc.edu/courses/2016_summerII/inls161_001)
  
 Elliott Hauser:
 
@@ -28,5 +30,7 @@ Elliott Hauser:
 Larry Jones: 
 
 [Spring 2017](http://ils.unc.edu/courses/2017_spring/inls161_002/)
+
 [Fall 2017](http://ils.unc.edu/courses/2017_fall/inls161_001/index.html)
+
 [Spring 2017](http://ils.unc.edu/courses/2018_spring/inls161_001/index.php)
