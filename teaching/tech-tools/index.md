@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Information Tools
+title: "Teaching Information Tools on the Command Line: UNC’s INLS 161"
 ---
 
 The course and associated materials were iteratively developed, shared and improved on GitHub by the authors over several semesters, representing true open source collaborative course design. {% marginnote 'inls161-poster' '<a href="/published/Martin-Hauser-Jones-2018-ALISE-poster.pdf"><img src="/published/Martin-Hauser-Jones-2018-ALISE-poster.png" /></a>' %}
