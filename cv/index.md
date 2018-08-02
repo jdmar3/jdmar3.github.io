@@ -48,7 +48,7 @@ PhD student in the School of Information and Library Science at the University o
 
 - Amelia N. Gibson and John D. Martin III, "Information Poverty among Parents of Individuals with Developmental Disabilities" (Resubmitted)
 
-## In Preparation (Working titles)
+## In Preparation (Working Titles)
 
 - John D. Martin III, "Embedded Epistemology: How Interactive Information Systems and Interfaces Represent The Worldview of their Creators"
 - John D. Martin III, "Rapid Extraction: A Classroom Method for Effective Reading of Scientific Literature"
