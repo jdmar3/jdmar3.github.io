@@ -23,7 +23,7 @@ Information Scientist, Digital Humanist
 
 # Current
 
-PhD student in the School of Information and Library Science at the University of North Carolina at Chapel Hill.
+PhD candidate in the School of Information and Library Science at the University of North Carolina at Chapel Hill.
 
 # Education
 
