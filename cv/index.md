@@ -36,7 +36,10 @@ PhD student in the School of Information and Library Science at the University o
 - Information behavior
 	- Trust, interface credibility, and disclosure
 	- Digital media piracy
-- Survey and questionnaire interfaces and methods 
+- Research methodology
+  - Survey and questionnaire interfaces
+  - Content analysis
+  - Design epistemology
 - Computation and the Humanities 
 - Middle East libraries and cultural institutions 
 - Free / Open Source Software (FOSS) education 
