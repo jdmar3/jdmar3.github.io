@@ -45,11 +45,14 @@ PhD candidate in the School of Information and Library Science at the University
 - Free / Open Source Software (FOSS) education 
 
 # Work in Progress
-{% comment %}{% endcomment %}
+{% comment %}
 
 ## Submitted/Under Review
 
-- Amelia N. Gibson and John D. Martin III, "Information Poverty among Parents of Individuals with Developmental Disabilities" (Resubmitted)
+{% endcomment %}
+## In Press
+
+- Amelia N. Gibson and John D. Martin III, "Re-situating information poverty: Information marginalization and parents of individuals with disabilities," *Journal of the Association for Information Science and Technology* (Accepted August 2018)
 
 ## In Preparation (Working Titles)
 
@@ -147,7 +150,9 @@ PhD candidate in the School of Information and Library Science at the University
 
 # Teaching
 
-- Teaching Fellow (instructor of record), School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2017)
+- Adjunct Lecturer, Department of Library and Information Science, IUPUI (2018-2019)
+  - LIS-S 506, Introduction to Research (2018-2019)
+- Adjunct Instructor, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2018)
 	- INLS 161, [Tools for Information Literacy](https://inls161.johndmart.in) (Summer II [2015](https://ils.unc.edu/courses/2015_summerII/inls161_001/)/[2016](https://ils.unc.edu/courses/2016_summerII/inls161_001/)/[2017](https://ils.unc.edu/courses/2016_summerII/inls161_001))
 	- INLS 780, [User Interface Design](https://inls718.johndmart.in) (Spring [2017](http://ils.unc.edu/courses/2017_spring/inls718_001/))
 	- INLS 500, [Human Information Interaction](https://inls500.johndmart.in) (Fall [2015](https://ils.unc.edu/courses/2015_fall/inls500_001/)/[2016](https://ils.unc.edu/courses/2016_fall/inls500_001/)/Summer II [2018](https://ils.unc.edu/courses/2018_summerII/inls500_001))
