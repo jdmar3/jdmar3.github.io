@@ -11,7 +11,7 @@ onion: "http://evpoyeb3anapeyrt.onion"
 
 name: jdmar3
 
-badge: scarf.jpg # this file should be located under /assets/img/
+badge: face.jpg # this file should be located under /assets/img/
 
 google_analytics: UA-91043800-1 # https://desiredpersona.com/google-analytics-jekyll/
 
