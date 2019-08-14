@@ -51,7 +51,7 @@ PhD candidate in the School of Information and Library Science at the University
 
 ## In Press
 
-{% endcomment %}
+
 
 ## In Preparation (Working Titles)
 
@@ -59,6 +59,8 @@ PhD candidate in the School of Information and Library Science at the University
 - John D. Martin III, "Rapid Extraction: A Classroom Method for Effective Reading of Scientific Literature"
 - John D. Martin III, "Teaching soft skills in design: Designing a UX class to support students in the real world"
 - John D. Martin III and Nicholas Frota, "Design Scope: A new process model for design methodology" 
+
+{% endcomment %}
 
 # Publications
 
@@ -151,7 +153,7 @@ PhD candidate in the School of Information and Library Science at the University
 # Teaching
 
 - Adjunct Lecturer, Department of Library and Information Science, IUPUI (2018-2019)
-  - LIS-S 506, Introduction to Research (2018-2019)
+  - LIS-S 506, Introduction to Research (Fall 2018/Spring, Summer I and Fall 2019)
 - Adjunct Instructor, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2018)
 	- INLS 161, [Tools for Information Literacy](https://inls161.johndmart.in) (Summer II [2015](https://ils.unc.edu/courses/2015_summerII/inls161_001/)/[2016](https://ils.unc.edu/courses/2016_summerII/inls161_001/)/[2017](https://ils.unc.edu/courses/2016_summerII/inls161_001))
 	- INLS 780, [User Interface Design](https://inls718.johndmart.in) (Spring [2017](http://ils.unc.edu/courses/2017_spring/inls718_001/))
