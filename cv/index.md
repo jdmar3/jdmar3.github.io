@@ -8,7 +8,7 @@ nav_include: true
 
 {% include info.md %}
 
-Information Scientist, Digital Humanist
+Information Scientist, Research Methodologist
 
 <span class="date">{{ site.time | date: "%-d %B %Y" }}</span>
 
@@ -44,8 +44,9 @@ PhD candidate in the School of Information and Library Science at the University
 - Middle East libraries and cultural institutions 
 - Free / Open Source Software (FOSS) education 
 
-# Work in Progress
 {% comment %}
+# Work in Progress
+
 
 ## Submitted/Under Review
 
@@ -66,7 +67,7 @@ PhD candidate in the School of Information and Library Science at the University
 
 ## Articles
 
-- Amelia N. Gibson and John D. Martin III, {% marginnote 'hidden-heritage' '<a href="/published/Gibson-and-Martin-2019-JASIST.pdf"><img src="/published/Gibson-and-Martin-2019-JASIST.png" /></a>' %} "[Re-situating information poverty: Information marginalization and parents of individuals with disabilities](/published/Gibson-and-Martin-2019-JASIST.pdf)," *Journal of the Association for Information Science and Technology* (Published in Online Early View, February 2019) https://doi.org/10.1002/asi.24128
+- Amelia N. Gibson and John D. Martin III, {% marginnote 'hidden-heritage' '<a href="/published/Gibson-and-Martin-2019-JASIST.pdf"><img src="/published/Gibson-and-Martin-2019-JASIST.png" /></a>' %} "[Re-situating Information Poverty: Information Marginalization and Parents of Individuals with Disabilities](/published/Gibson-and-Martin-2019-JASIST.pdf)," *Journal of the Association for Information Science and Technology* (Published in Online Early View, February 2019) https://doi.org/10.1002/asi.24128
 - Charles Kurzman and John D. Martin III, {% marginnote 'hidden-heritage' '<a href="/published/Kurzman-and-Martin-2018-IFLAJ.pdf"><img src="/published/Kurzman-and-Martin-2018-IFLAJ.png" /></a>' %} "[The Hidden Heritage of Arab Libraries: Online Catalogs and Institutional Barriers to Discoverability](/published/Kurzman-and-Martin-2018-IFLAJ.pdf)," *IFLA Journal 44*(4), 300-310 (December 2018) https://doi.org/10.1177/0340035218785189
 - Kaitlin Costello, John D. Martin III, and Ashlee Edwards, {% marginnote 'disclosure' '<a href="/published/Costello-et-al-2017-Disclosure-JASIST.pdf"><img src="/published/Costello-et-al-2017-Disclosure-JASIST.png" /></a>' %} "[Online Disclosure of Illicit Information: Information Behaviors in Two Drug Forums](/published/Costello-et-al-2017-Disclosure-JASIST.pdf)," *Journal of the Association for Information Science and Technology 68*(10), 2439-2448 (October 2017) https://doi.org/10.1002/asi.23880
 - John D. Martin III and Carolyn Runyon, {% marginnote 'hegemony' '<a href="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf"><img src="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.png" /></a>' %} "[Digital Humanities, Digital Hegemony: Exploring Funding Practices and Unequal Access in the Digital Humanities](/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf)," *ACM SIGCAS Computers and Society 46*(1), 20-26 (March 2016) https://doi.org/10.1145/2908216.2908219

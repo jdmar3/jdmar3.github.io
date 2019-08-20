@@ -5,13 +5,70 @@ weight: 7
 nav_include: true
 ---
 
-I teach human information behavior theory and basic to advanced tools for processing, manipulating, packaging, designing, and disseminating information. 
-I have a professional background in system administration which mostly now expresses itself through tinkering with automation, system building, and poking around at the Internet of Things. 
-My classroom ethos is very much informed by this activity as it allows me to teach students not to worry about breaking things and to focus on exploration instead. 
+# Teaching Philosophy
 
-# Current courses 
+{% comment %}
+I teach human information behavior theory and basic to advanced tools for processing, manipulating, packaging, designing, and disseminating information.
+I have a professional background in system administration which mostly now expresses itself through tinkering with automation, system building, and poking around at the Internet of Things.
+My classroom ethos is very much informed by this activity as it allows me to teach students not to worry about breaking things and to focus on exploration instead.
+{% endcomment %}
 
-## User Interface Design (INLS 718)
+# Teaching Philosophy
+
+{% newthought 'I am a facilitator, not a teacher.' %}
+I facilitate learning, discovery, growth, and exploration of new ideas.
+I am not a teacher because there is nothing that I can do to make students learn. 
+I can only create a social space in which they feel ready to learn, feel open to discovering, feel safe enough to grow in their knowledge, and feel confident enough to explore.
+
+I like taking things apart and putting them back together. 
+I grew up doing this.
+There was nothing that I wouldn't dismantle so that I could learn about what was inside it, how it worked, and how I could modify it. 
+My classroom ethos is very much informed by this lifelong hobby. 
+I try to help students to not worry about breaking things and to focus on exploration instead.
+
+The courses that I have taught all involve some aspect of deconstruction and reconstruction, whether it be behaviors, ideas, systems, interfaces, interaction patterns, or method. 
+
+# Courses taught
+
+## Introduction to Research (LIS-S 506, IUPUI SoIC)
+
+This course will serve as an introduction to evaluating, designing, and conducting empirical research in Library and Information Science. 
+We cover the following areas through assigned readings and online discussions:
+1. Research ethics
+2. Epistemology
+3. Connecting theory to method
+4. Choosing data analysis and collection methods
+5. Scoping and designing a study
+6. Dealing with data
+7. An overview of empirical research methods that are commonly used in LIS. 
+
+The learning outcomes for this course are as follows:
+1. Evaluate research literature critically
+2. Assess the value of research by applying appropriate principles and methods
+3. Determine appropriate research methods to answer particular research questions
+4. Analyze data using qualitative and quantitative research methods
+5. Design a research project
+6. Communicate research results effectively
+
+Most recent syllabus available here: [https://soic.iupui.edu/syllabi/LIS-S506-Martin.pdf](https://soic.iupui.edu/syllabi/LIS-S506-Martin.pdf).
+
+## Human Information Interactions (INLS 500, UNC SILS)
+
+This course is a broad survey of literature in information science which highlights social, cognitive, organizational, institutional, behavioral approaches for understanding and contextualizing interactions between people and information. 
+The content of this course underlies much of an ILS curriculum because it introduces students to core concepts with implications for practice as information professionals. 
+It also serves in part as a disciplinary onboarding course, in which students become oriented to the theory, methods, and epistemologies of information science. 
+
+Students completing this course will:
+
+1. become familiar with the empirical and theoretical literature related to information seeking, including the recognition of information needs, actions taken to resolve those needs, the roles of intermediaries (both human and machine), and the retrieval and use of information;
+2. understand key concepts related to the ways in which information is created, structured, disseminated and used, with particular emphasis on scholarly information behaviors;
+3. be able to investigate the ways in which the context of an information interaction can affect the process and outcomes of that interaction;
+4. be able to investigate information behaviors and practices, including the impact of technology on human information interactions; and
+5. critically apply theories and empirical findings to the definition and solution of problems related to human information interactions.
+
+Most recent syllabus available here: [http://inls500.johndmart.in/](http://inls500.johndmart.in/).
+
+## User Interface Design (INLS 718, UNC SILS)
 
 The purpose of this course is to allow students to engage with the interfaces between human beings and information systems in a critical way. 
 The course content covers a range of topics, organized around a few main principles *design thinking, user experience,* and *design critique.*
@@ -24,11 +81,9 @@ Work for the course centers on a single project on which the whole class will wo
 
 Students self-organize into teams, based on skills and interests, that will be responsible for managing different aspects of the project. We aim to create a working prototype by the end of the semester. In doing this we learn about hard skills of design: coding, version control, prototyping, user testing, and rollout. More importantly we also learn the so-called soft-skills necessary for design: design thinking, project planning, workflow design/management, group decision-making, and collaboration. 
 
-Most recent syllabus available [here](http://inls718.johndmart.in/).
+Most recent syllabus available here: [http://inls718.johndmart.in/](http://inls718.johndmart.in/).
 
-# Past Courses
-
-## Tools for Information Literacy (INLS 161)
+## Tools for Information Literacy (INLS 161, UNC SILS)
 
 This course covers tools and concepts for information literacy. 
 It includes software use and maintenance, computer applications, and networked information systems.
@@ -43,22 +98,4 @@ The course introduces some basic technology tools as an essential component of i
 - Developing presentation materials to communicate your work effectively
 - Beyond!
 
-Most recent syllabus available [here](http://inls161.johndmart.in/).
-
-## Human Information Interactions (INLS 500)
-
-This course is a broad survey of literature in information science which highlights social, cognitive, organizational, institutional, behavioral approaches for understanding and contextualizing interactions between people and information. 
-The content of this course underlies much of an ILS curriculum because it introduces students to core concepts with implications for practice as information professionals. 
-It also serves in part as a disciplinary onboarding course, in which students become oriented to the theory, methods, and epistemologies of information science. 
-
-Students completing this course will:
-
-1. become familiar with the empirical and theoretical literature related to information seeking, including the recognition of information needs, actions taken to resolve those needs, the roles of intermediaries (both human and machine), and the retrieval and use of information;
-2. understand key concepts related to the ways in which information is created, structured, disseminated and used, with particular emphasis on scholarly information behaviors;
-3. be able to investigate the ways in which the context of an information interaction can affect the process and outcomes of that interaction;
-4. be able to investigate information behaviors and practices, including the impact of technology on human information interactions; and
-5. critically apply theories and empirical findings to the definition and solution of problems related to human information interactions.
-
-Most recent syllabus available [here](http://inls500.johndmart.in/).
-
-
+Most recent syllabus available here: [http://inls161.johndmart.in/](http://inls161.johndmart.in/).
