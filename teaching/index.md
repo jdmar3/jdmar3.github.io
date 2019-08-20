@@ -13,8 +13,6 @@ I have a professional background in system administration which mostly now expre
 My classroom ethos is very much informed by this activity as it allows me to teach students not to worry about breaking things and to focus on exploration instead.
 {% endcomment %}
 
-# Teaching Philosophy
-
 {% newthought 'I am a facilitator, not a teacher.' %}
 I facilitate learning, discovery, growth, and exploration of new ideas.
 I am not a teacher because there is nothing that I can do to make students learn. 
@@ -34,6 +32,7 @@ The courses that I have taught all involve some aspect of deconstruction and rec
 
 This course will serve as an introduction to evaluating, designing, and conducting empirical research in Library and Information Science. 
 We cover the following areas through assigned readings and online discussions:
+
 1. Research ethics
 2. Epistemology
 3. Connecting theory to method
@@ -43,6 +42,7 @@ We cover the following areas through assigned readings and online discussions:
 7. An overview of empirical research methods that are commonly used in LIS. 
 
 The learning outcomes for this course are as follows:
+
 1. Evaluate research literature critically
 2. Assess the value of research by applying appropriate principles and methods
 3. Determine appropriate research methods to answer particular research questions
