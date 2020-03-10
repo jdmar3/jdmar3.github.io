@@ -153,7 +153,9 @@ PhD candidate in the School of Information and Library Science at the University
 
 # Teaching
 
-- Adjunct Lecturer, Department of Library and Information Science, IUPUI (2018-2019)
+- Adjunct Lecturer, Department of Library and Information Science, School of Communication and Information, Rutgers University (2019)
+  - SCI:LIS:510 (17:610:510), Human Information Behavior (Fall 2019)
+- Adjunct Lecturer, Department of Library and Information Science, School of Informatics and Computing, IUPUI (2018-2019)
   - LIS-S 506, Introduction to Research (Fall 2018/Spring, Summer I and Fall 2019)
 - Adjunct Instructor, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2018)
 	- INLS 161, [Tools for Information Literacy](https://inls161.johndmart.in) (Summer II [2015](https://ils.unc.edu/courses/2015_summerII/inls161_001/)/[2016](https://ils.unc.edu/courses/2016_summerII/inls161_001/)/[2017](https://ils.unc.edu/courses/2016_summerII/inls161_001))
