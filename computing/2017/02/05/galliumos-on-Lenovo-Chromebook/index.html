@@ -170,9 +170,9 @@ It comes back just fine after a suspend from the interface, but if the lid is cl
 <span class="c"># This will reload the atmel_mxt_ts module after suspension from lid close </span>
 <span class="c"># so that the touchscreen will function.</span>
 
-<span class="nb">set</span> -e
+<span class="nb">set</span> <span class="nt">-e</span>
 
-<span class="k">if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$2</span><span class="s2">"</span> <span class="o">=</span> <span class="s2">"suspend"</span> <span class="o">]</span> <span class="o">||</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$2</span><span class="s2">"</span> <span class="o">=</span> <span class="s2">"hybrid-sleep"</span> <span class="o">]</span>; <span class="k">then
+<span class="k">if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$2</span><span class="s2">"</span> <span class="o">=</span> <span class="s2">"suspend"</span> <span class="o">]</span> <span class="o">||</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$2</span><span class="s2">"</span> <span class="o">=</span> <span class="s2">"hybrid-sleep"</span> <span class="o">]</span><span class="p">;</span> <span class="k">then
     case</span> <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span> <span class="k">in
         </span>post<span class="p">)</span> /sbin/rmmod atmel_mxt_ts <span class="o">&amp;&amp;</span> /sbin/modprobe atmel_mxt_ts <span class="p">;;</span>
     <span class="k">esac</span>
@@ -261,7 +261,7 @@ It comes back just fine after a suspend from the interface, but if the lid is cl
   <br/>
   <a target="_blank" rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="CC-BY-NC-ND" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br/>
 
-  <span class="smaller">&copy;&nbsp;<a href="/credits/">2019&nbsp;John D. Martin III</a></span>
+  <span class="smaller">&copy;&nbsp;<a href="/credits/">2020&nbsp;John D. Martin III</a></span>
 </div>  
 </footer>
   </body>
