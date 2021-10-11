@@ -5,7 +5,7 @@ REPONAME=jdmar3.github.io
 REMOTEADDR=github.com
 REMOTEUSERNAME=git
 BUILDBRANCH=master
-WORKDIR=~/workspace/jdmar3.github.io # Local directory of source repo 
+WORKDIR=~/Workspace/jdmar3.github.io # Local directory of source repo 
 
 ### Display help text
 if [[ "$1" = [-][hH] || "$1" = [-][hH] || "$1" = [-][-][Hh][Ee][Ll][Pp] ]]

@@ -2,7 +2,7 @@ title: John D. Martin III
 subtitle: Information Scientist / Research Methodologist
 author: John D. Martin III
 simple_search: http://google.com/search
-description: "PhD student in the School of Information and Library Science at University of North Carolina at Chapel Hill."
+description: "PhD candidate in the School of Information and Library Science at University of North Carolina at Chapel Hill."
 
 baseurl: ""
 url: "https://johndmart.in"
@@ -52,4 +52,4 @@ transfer:
   command: rsync
   settings: -av
   source: _site/
-  destination: ~/workspace/jdmar3.github.io
+  destination: ~/Workspace/jdmar3.github.io
