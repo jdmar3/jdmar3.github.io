@@ -10,12 +10,12 @@ pgp:
   alt: "PGP fingerprint: 67BB C847 14E0 C31A 736A  5E08 C787 DF8D D41F A8D1"
   fingerprint: "67BB C847 14E0 C31A 736A<br/>5E08 C787 DF8D D41F A8D1"
   extra: "[<a href='https://pgp.mit.edu/pks/lookup?search=me%40johndmart.in&op=index&fingerprint=on'>Public Key Server</a>]&nbsp;<i><small><a href='https://futureboy.us/pgp.html'>What is this?</a></small></i>"
-twitter:
-  prevar: //twitter.com/
-  var: jdmar3
-  icon: icon-twitter
-  alt: "Tweet @jdmar3"
-  target: "_blank"
+#twitter:
+#  prevar: //twitter.com/
+#  var: jdmar3
+#  icon: icon-twitter
+#  alt: "Tweet @jdmar3"
+#  target: "_blank"
 github:
   prevar: //github.com/
   var: jdmar3 
@@ -34,18 +34,18 @@ email:
   icon: ico-envelope
   alt: "Email me@johndmart.in"
   target: "_blank"
-tel:
-  prevar: "sms:"
-  var: "+19194428014"
-  icon: icon-mobile
-  alt: "Text me at +19194428014"
-onion:
-  prevar: http://
-  var: evpoyeb3anapeyrt.onion
-  icon: icnf-tor
-  alt: "evpoyeb3anapeyrt.onion"
-  target: "_blank"
-  extra: "<i><small><a href='/blog/2017-03-20-onion-site.html'>Why can't I see this?</a></small></i>"
+#tel:
+#  prevar: "sms:"
+#  var: "+19194428014"
+#  icon: icon-mobile
+#  alt: "Text me at +19194428014"
+#onion:
+#  prevar: http://
+#  var: evpoyeb3anapeyrt.onion
+#  icon: icnf-tor
+#  alt: "evpoyeb3anapeyrt.onion"
+#  target: "_blank"
+#  extra: "<i><small><a href='/blog/2017-03-20-onion-site.html'>Why can't I see this?</a></small></i>"
 feed:
   prevar: /feed 
   var: 
