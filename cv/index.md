@@ -34,13 +34,12 @@ PhD candidate in the School of Information and Library Science at the University
 # Research Interests
 
 - Information behavior
-	- Trust, interface credibility, and disclosure
-	- Digital media piracy
+  - Trust, interface credibility, and disclosure
+  - Digital media piracy
 - Research methodology
   - Survey and questionnaire interfaces
   - Content analysis
   - Design epistemology
-- Computation and the Humanities 
 - Middle East libraries and cultural institutions 
 - Free / Open Source Software (FOSS) education 
 
@@ -67,7 +66,7 @@ PhD candidate in the School of Information and Library Science at the University
 
 ## Articles
 
-- Amelia N. Gibson and John D. Martin III, {% marginnote 'hidden-heritage' '<a href="/published/Gibson-and-Martin-2019-JASIST.pdf"><img src="/published/Gibson-and-Martin-2019-JASIST.png" /></a>' %} "[Re-situating Information Poverty: Information Marginalization and Parents of Individuals with Disabilities](/published/Gibson-and-Martin-2019-JASIST.pdf)," *Journal of the Association for Information Science and Technology* (Published in Online Early View, February 2019) https://doi.org/10.1002/asi.24128
+- Amelia N. Gibson and John D. Martin III, {% marginnote 'hidden-heritage' '<a href="/published/Gibson-and-Martin-2019-JASIST.pdf"><img src="/published/Gibson-and-Martin-2019-JASIST.png" /></a>' %} "[Re-situating Information Poverty: Information Marginalization and Parents of Individuals with Disabilities](/published/Gibson-and-Martin-2019-JASIST.pdf)," *Journal of the Association for Information Science and Technology 70*(5), 2439-2448 (May 2019) https://doi.org/10.1002/asi.24128
 - Charles Kurzman and John D. Martin III, {% marginnote 'hidden-heritage' '<a href="/published/Kurzman-and-Martin-2018-IFLAJ.pdf"><img src="/published/Kurzman-and-Martin-2018-IFLAJ.png" /></a>' %} "[The Hidden Heritage of Arab Libraries: Online Catalogs and Institutional Barriers to Discoverability](/published/Kurzman-and-Martin-2018-IFLAJ.pdf)," *IFLA Journal 44*(4), 300-310 (December 2018) https://doi.org/10.1177/0340035218785189
 - Kaitlin Costello, John D. Martin III, and Ashlee Edwards, {% marginnote 'disclosure' '<a href="/published/Costello-et-al-2017-Disclosure-JASIST.pdf"><img src="/published/Costello-et-al-2017-Disclosure-JASIST.png" /></a>' %} "[Online Disclosure of Illicit Information: Information Behaviors in Two Drug Forums](/published/Costello-et-al-2017-Disclosure-JASIST.pdf)," *Journal of the Association for Information Science and Technology 68*(10), 2439-2448 (October 2017) https://doi.org/10.1002/asi.23880
 - John D. Martin III and Carolyn Runyon, {% marginnote 'hegemony' '<a href="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf"><img src="/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.png" /></a>' %} "[Digital Humanities, Digital Hegemony: Exploring Funding Practices and Unequal Access in the Digital Humanities](/published/Martin-and-Runyon-2016-Digital-hegemony-ACM-SIGCAS.pdf)," *ACM SIGCAS Computers and Society 46*(1), 20-26 (March 2016) https://doi.org/10.1145/2908216.2908219
@@ -153,6 +152,9 @@ PhD candidate in the School of Information and Library Science at the University
 
 # Teaching
 
+- Adjunct Instructory, Department of Computer Science, University of North Carolina at Chapel Hill (2020-2021)
+  - COMP 426, [Modern Web Programming](https://comp426.johndmart.in) (Fall 2021)
+  - COMP 126, Practical Web Design & Development for Everyone (Spring 2020)
 - Adjunct Instructor, Department of Library and Information Science, School of Communication and Information, Rutgers University (2019)
   - SCI:LIS:510 (17:610:510), Human Information Behavior (Fall 2019)
 - Adjunct Lecturer, Department of Library and Information Science, School of Informatics and Computing, IUPUI (2018-2019)
@@ -235,10 +237,10 @@ PhD candidate in the School of Information and Library Science at the University
 # Skills
 
 - Research methods: Survey; Mixed methods content analysis; Qualitative analysis; Secondary statistical analysis
-- Connected skillsets: Digital research and publishing workflows; Digital preservation and archiving; Web design; Web front-end development; Networking and network administration; System administration; Distributed systems; Automation 
-- Operating systems (admin): Linux (Debian, RedHat), Mac OS X, Windows 
-- Programming / Markup Languages: Bash, C, CSS3, HTML5, JavaScript, Markdown, MySQL, Python, Perl, PHP, R, T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X / L<sup style="font-size: 0.85em; vertical-align: 0.15em; margin-left: -0.36em; margin-right: -0.15em;">A</sup>T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X, XML, XSLT 
-- Web platforms: Jekyll, Drupal, Wordpress
+- Connected skillsets: Automation; Cluster management (SLURM); Digital research and publishing workflows; Digital preservation and archiving; Distributed systems; Full-stack web development; Networking and network administration; System administration
+- Operating systems (admin): Linux (Debian, RedHat/Fedora), Mac OS X, Windows 
+- Programming and Markup Languages: Ansible, Bash, C, CSS3, Groovy, HTML5, JavaScript, Markdown, MySQL, Python, Perl, PHP, R, T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X / L<sup style="font-size: 0.85em; vertical-align: 0.15em; margin-left: -0.36em; margin-right: -0.15em;">A</sup>T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X, XML, XSLT 
+- Web platforms: Hugo, Jekyll, Drupal, Wordpress
 
 # Professional Memberships
 
@@ -246,4 +248,3 @@ PhD candidate in the School of Information and Library Science at the University
 - Association for Computing Machinery (ACM) 
 - American Association for Public Opinion Research (AAPOR) 
 - American Statistical Association (ASA)
-- Middle East Studies Association (MESA) 
