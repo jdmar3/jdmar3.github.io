@@ -239,7 +239,7 @@ PhD candidate in the School of Information and Library Science at the University
 - Research methods: Survey; Mixed methods content analysis; Qualitative analysis; Secondary statistical analysis
 - Connected skillsets: Automation; Cluster management (SLURM); Digital research and publishing workflows; Digital preservation and archiving; Distributed systems; Full-stack web development; Networking and network administration; System administration
 - Operating systems (admin): Linux (Debian, RedHat/Fedora), Mac OS X, Windows 
-- Programming and Markup Languages: Ansible, Bash, C, CSS3, Groovy, HTML5, JavaScript, Markdown, MySQL, Python, Perl, PHP, R, T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X / L<sup style="font-size: 0.85em; vertical-align: 0.15em; margin-left: -0.36em; margin-right: -0.15em;">A</sup>T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X, XML, XSLT 
+- Programming and Markup Languages: Ansible, Bash, C, CSS3, Groovy, HTML5, JavaScript, Markdown, MySQL, Python, Perl, PHP, R, Ruby, T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X / L<sup style="font-size: 0.85em; vertical-align: 0.15em; margin-left: -0.36em; margin-right: -0.15em;">A</sup>T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X, XML, XSLT 
 - Web platforms: Hugo, Jekyll, Drupal, Wordpress
 
 # Professional Memberships
