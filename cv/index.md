@@ -152,7 +152,7 @@ PhD candidate in the School of Information and Library Science at the University
 
 # Teaching
 
-- Adjunct Instructory, Department of Computer Science, University of North Carolina at Chapel Hill (2020-2021)
+- Adjunct Instructor, Department of Computer Science, University of North Carolina at Chapel Hill (2020-2021)
   - COMP 426, [Modern Web Programming](https://comp426.johndmart.in) (Fall 2021)
   - COMP 126, Practical Web Design & Development for Everyone (Spring 2020)
 - Adjunct Instructor, Department of Library and Information Science, School of Communication and Information, Rutgers University (2019)
