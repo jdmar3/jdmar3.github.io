@@ -27,7 +27,7 @@ PhD candidate (ABD) in the School of Information and Library Science at the Univ
 
 # Education
 
-- PhD Student, University of North Carolina at Chapel Hill, Information Science (ABD, exprected 2022)
+- PhD Student, University of North Carolina at Chapel Hill, Information Science (ABD, expected 2022)
 - MA, American University in Cairo, Islamic Studies (2012)
 - BA, Western Michigan University, Latin (2006)
 
@@ -153,11 +153,7 @@ PhD candidate (ABD) in the School of Information and Library Science at the Univ
 # Teaching
 
 - Adjunct Instructor, Department of Computer Science, University of North Carolina at Chapel Hill (2020-2021)
-<<<<<<< HEAD
   - COMP 426, [Modern Web Programming](https://comp426.johndmart.in) (Fall 2021-Spring 2022)
-=======
-  - COMP 426, [Modern Web Programming](https://comp426.johndmart.in) (Fall 2021)
->>>>>>> cf9d9527f6f09afe08f9ef55b3d07f818d290d00
   - COMP 126, Practical Web Design & Development for Everyone (Spring 2020)
 - Adjunct Instructor, Department of Library and Information Science, School of Communication and Information, Rutgers University (2019)
   - SCI:LIS:510 (17:610:510), Human Information Behavior (Fall 2019)
