@@ -4,7 +4,7 @@ GITHUBUSERNAME=jdmar3
 REPONAME=jdmar3.github.io
 REMOTEADDR=github.com
 REMOTEUSERNAME=git
-BUILDBRANCH=master
+BUILDBRANCH=main
 WORKDIR=~/Workspace/jdmar3.github.io # Local directory of source repo 
 
 ### Display help text

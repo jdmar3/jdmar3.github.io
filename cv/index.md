@@ -23,25 +23,25 @@ Information Scientist, Research Methodologist
 
 # Current
 
-PhD candidate in the School of Information and Library Science at the University of North Carolina at Chapel Hill.
+PhD candidate (ABD) in the School of Information and Library Science at the University of North Carolina at Chapel Hill.
 
 # Education
 
-- PhD Student, University of North Carolina at Chapel Hill, Information Science (Current)
+- PhD Student, University of North Carolina at Chapel Hill, Information Science (ABD, exprected 2022)
 - MA, American University in Cairo, Islamic Studies (2012)
 - BA, Western Michigan University, Latin (2006)
 
 # Research Interests
 
-- Information behavior
-  - Trust, interface credibility, and disclosure
-  - Digital media piracy
 - Research methodology
   - Survey and questionnaire interfaces
   - Content analysis
   - Design epistemology
-- Middle East libraries and cultural institutions 
 - Free / Open Source Software (FOSS) education 
+- Information behavior
+  - Trust, interface credibility, and disclosure
+  - Digital media piracy
+- Middle East libraries and cultural institutions 
 
 {% comment %}
 # Work in Progress
@@ -152,13 +152,13 @@ PhD candidate in the School of Information and Library Science at the University
 
 # Teaching
 
-- Adjunct Instructory, Department of Computer Science, University of North Carolina at Chapel Hill (2020-2021)
-  - COMP 426, [Modern Web Programming](https://comp426.johndmart.in) (Fall 2021)
+- Adjunct Instructor, Department of Computer Science, University of North Carolina at Chapel Hill (2020-2021)
+  - COMP 426, [Modern Web Programming](https://comp426.johndmart.in) (Fall 2021-Spring 2022)
   - COMP 126, Practical Web Design & Development for Everyone (Spring 2020)
 - Adjunct Instructor, Department of Library and Information Science, School of Communication and Information, Rutgers University (2019)
   - SCI:LIS:510 (17:610:510), Human Information Behavior (Fall 2019)
 - Adjunct Lecturer, Department of Library and Information Science, School of Informatics and Computing, IUPUI (2018-2019)
-  - LIS-S 506, Introduction to Research (Fall 2018/Spring, Summer I and Fall 2019)
+  - LIS-S 506, Introduction to Research (Fall 2018-Summer 2019)
 - Adjunct Instructor, School of Information and Library Science, University of North Carolina at Chapel Hill (2015-2018)
 	- INLS 161, [Tools for Information Literacy](https://inls161.johndmart.in) (Summer II [2015](https://ils.unc.edu/courses/2015_summerII/inls161_001/)/[2016](https://ils.unc.edu/courses/2016_summerII/inls161_001/)/[2017](https://ils.unc.edu/courses/2016_summerII/inls161_001))
 	- INLS 780, [User Interface Design](https://inls718.johndmart.in) (Spring [2017](http://ils.unc.edu/courses/2017_spring/inls718_001/))
@@ -205,6 +205,8 @@ PhD candidate in the School of Information and Library Science at the University
 
 # Research and professional experience
 
+- Developer, Curating for Reproducibility, Odum Institute, University of North Carolina at Chapel Hill (Summer-Fall 2021)
+- Research Assistant, Arab Public Data Initiative, University of North Carolina at Chapel Hill (Fall 2020)
 - Research Assistant, School of Information and Library Science, University of North Carolina at Chapel Hill (Spring 2016)
 - Research Assistant, [Middle East Library Partnership Project](http://melib.web.unc.edu/files/2015/10/Kurzman_Mellon_Project_Report_2015_10_16.pdf), University of North Carolina at Chapel Hill (Summer 2014-Summer 2015)
 - Developer, Seeing Syllabi, Digital Innovation Lab, University of North Carolina at Chapel Hill / Open Syllabus Project, Columbia University (Summer-Fall 2013)
@@ -225,11 +227,11 @@ PhD candidate in the School of Information and Library Science at the University
 - Full-time Representative, Doctoral Students Association, School of Information and Library Science, University of North Carolina at Chapel Hill (2013) 
 - Editor-at-large, Digital Humanities Now (2013) 
 - Committee Member, Islamicate Graduate Student Association, University of North Carolina at Chapel Hill (2012-2013) 
+- Director and Co-founder, Kalamazoo Pride (2007)
 
 # Specialized Training
 
 - Certificate Program in Survey Methodology, The Odum Institute, University of North Carolina at Chapel Hill (Current)
-- Private Arabic Lessons (Tajweed, Classical and Qur’anic Arabic), Cairo, Egypt (2008) 
 - Arabic Study Abroad (Egyptian Dialect / Modern Standard Arabic), TAFL Center, Alexandria University, Alexandria, Egypt (Fall 2007) 
 - Intensive Arabic Study (Egyptian Dialect), Alexandria Center for Languages, Alexandria, Egypt (Summer 2004) 
 - Archaeological Field School, Rauzet, France (Summer 2000) 
@@ -237,10 +239,14 @@ PhD candidate in the School of Information and Library Science at the University
 # Skills
 
 - Research methods: Survey; Mixed methods content analysis; Qualitative analysis; Secondary statistical analysis
-- Connected skillsets: Automation; Cluster management (SLURM); Digital research and publishing workflows; Digital preservation and archiving; Distributed systems; Full-stack web development; Networking and network administration; System administration
-- Operating systems (admin): Linux (Debian, RedHat/Fedora), Mac OS X, Windows 
-- Programming and Markup Languages: Ansible, Bash, C, CSS3, Groovy, HTML5, JavaScript, Markdown, MySQL, Python, Perl, PHP, R, Ruby, T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X / L<sup style="font-size: 0.85em; vertical-align: 0.15em; margin-left: -0.36em; margin-right: -0.15em;">A</sup>T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X, XML, XSLT 
-- Web platforms: Hugo, Jekyll, Drupal, Wordpress
+- Connected skillsets: Automation; High performance compute cluster management (SLURM); Digital research and publishing workflows; Digital preservation and archiving; Distributed systems; Full-stack web development; Networking and network administration; System administration
+- Technologies:
+	- Toolchain: vim, bash, unix toolchain, git, GitHub, Ansible
+	- Operating systems (admin): Linux (Debian/Ubuntu, RedHat/Fedora)
+	- Programming languages: node.js, bash, Go, JavaScript, TypeScript, R, C, Python, Perl, PHP, Ruby
+	- Markup: HTML5+CSS3, Markdown, L<sup style="font-size: 0.85em; vertical-align: 0.15em; margin-left: -0.36em; margin-right: -0.15em;">A</sup>T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X, XML+XSLT
+	- Database: MySQL, SQLite, MongoDB
+	- Web platforms and frameworks: Hugo, Express, SolidJS, Jekyll, Drupal, Wordpress
 
 # Professional Memberships
 
