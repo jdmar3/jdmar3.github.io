@@ -23,7 +23,7 @@ Information Scientist, Research Methodologist
 
 # Current
 
-PhD candidate (ABD) in the School of Information and Library Science at the University of North Carolina at Chapel Hill.
+PhD candidate (ABD) in the School of Information and Library Science and Adjunct Instructor in the Department of Computer Science at the University of North Carolina at Chapel Hill.
 
 # Education
 
