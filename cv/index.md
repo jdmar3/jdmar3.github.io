@@ -241,9 +241,9 @@ PhD candidate (ABD) in the School of Information and Library Science and Adjunct
 - Research methods: Survey; Mixed methods content analysis; Qualitative analysis; Secondary statistical analysis
 - Connected skillsets: Automation; High performance compute cluster management (SLURM); Digital research and publishing workflows; Digital preservation and archiving; Distributed systems; Full-stack web development; Networking and network administration; System administration
 - Technologies:
-	- Toolchain: vim, bash, unix toolchain, git, GitHub, Ansible
+	- Toolchain: vim, bash, UNIX toolchain, git, GitHub, Ansible
 	- Operating systems (admin): Linux (Debian/Ubuntu, RedHat/Fedora)
-	- Programming languages: node.js, bash, Go, JavaScript, TypeScript, R, C, Python, Perl, PHP, Ruby
+	- Programming and scripting languages: node.js, bash, Go, JavaScript, TypeScript, R, C, Python, Perl, PHP, Ruby
 	- Markup: HTML5+CSS3, Markdown, L<sup style="font-size: 0.85em; vertical-align: 0.15em; margin-left: -0.36em; margin-right: -0.15em;">A</sup>T<sub style="vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em;">E</sub>X, XML+XSLT
 	- Database: MySQL, SQLite, MongoDB
 	- Web platforms and frameworks: Hugo, Express, SolidJS, Jekyll, Drupal, Wordpress
